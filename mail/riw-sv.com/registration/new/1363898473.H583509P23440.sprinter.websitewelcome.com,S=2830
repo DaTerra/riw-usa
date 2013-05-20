@@ -1,0 +1,59 @@
+Return-path: <mercerizes1@gil.com.au>
+Envelope-to: registration@riw-sv.com
+Delivery-date: Thu, 21 Mar 2013 15:41:13 -0500
+Received: from [188.158.147.60] (port=43056)
+	by sprinter.websitewelcome.com with esmtp (Exim 4.80)
+	(envelope-from <mercerizes1@gil.com.au>)
+	id 1UImIT-00065G-2h
+	for registration@riw-sv.com; Thu, 21 Mar 2013 15:41:13 -0500
+Received: from apache by gil.com.au with local (Exim 4.67)
+	(envelope-from <naivelybd9@trinity.edu>)
+	id UNI181-J3B481-SJ
+	for <registration@riw-sv.com>; Fri, 22 Mar 2013 00:11:12 +0330
+To: <registration@riw-sv.com>
+Subject: Price List
+X-PHP-Script: gil.com.au/sendmail.php for 188.158.147.60
+From: "Luz Underwood" <mercerizes1@gil.com.au>
+X-Sender: "Luz Underwood" <mercerizes1@gil.com.au>
+X-Mailer: PHP
+X-Priority: 1
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="------------03040700205030903040606"
+Message-Id: <F87ZJU-99QZEY-5X@gil.com.au>
+Date: Fri, 22 Mar 2013 00:11:12 +0330
+
+This is a multi-part message in MIME format.
+--------------03040700205030903040606
+Content-Type: text/plain; charset="us-ascii"; format=flowed
+
+Super Active ED Pack 20 + 20 pills 100/20mg - $139.60 ($3.49 per item)Zocor 90 pills 20mg	- $112.50 ($1.25 per item)Ventolin 4 inhalers 100mcg - $71.80 ($17.95 per item) Lumigan 1 bottle3ml/0.03% - $54.30 ($54.30 per item)Zocor 30 pills 10mg - $41.70 ($1.39 per item)Prozac 90 pills 60mg - $148.50 ($1.65 per item)100% Pure Okinawan Coral Calcium 6 bottles - $179.70 ($29.95 per item)Lasix 300 pills 20mg - $60.00 ($0.20 per item) Zithromax 60 pills 100mg -	$34.80 ($0.58 per item)Zocor 60 pills 5mg - $63.00 ($1.05 per item)Zithromax 30 pills 1000mg - $145.50 ($4.85 per item)Seroquel 30 pills 50mg - $39.00 ($1.30 per item)more info
+
+--------------03040700205030903040606
+Content-Type: text/html; charset="Windows-1252"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body bgcolor="#ffffff" text="#000000">
+    <p>
+Super Active ED Pack 20 + 20 pills 100/20mg - $139.60 ($3.49 per item)<br>
+Zocor 90 pills 20mg	- $112.50 ($1.25 per item)<br>
+Ventolin 4 inhalers 100mcg - $71.80 ($17.95 per item) <br>
+Lumigan 1 bottle3ml/0.03% - $54.30 ($54.30 per item)<br>
+Zocor 30 pills 10mg - $41.70 ($1.39 per item)<br>
+Prozac 90 pills 60mg - $148.50 ($1.65 per item)<br>
+100% Pure Okinawan Coral Calcium 6 bottles - $179.70 ($29.95 per item)<br>
+Lasix 300 pills 20mg - $60.00 ($0.20 per item) <br>
+Zithromax 60 pills 100mg -	$34.80 ($0.58 per item)<br>
+Zocor 60 pills 5mg - $63.00 ($1.05 per item)<br>
+Zithromax 30 pills 1000mg - $145.50 ($4.85 per item)<br>
+Seroquel 30 pills 50mg - $39.00 ($1.30 per item)<br>
+<a href="http://androidtabletcare.nl">more info</a>
+</p>
+  </body>
+</html>
+
+--------------03040700205030903040606--

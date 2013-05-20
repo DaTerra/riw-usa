@@ -1,0 +1,51 @@
+Return-path: <slava@kritov.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Mon, 22 Oct 2012 14:51:43 -0500
+Received: from mail-vc0-f177.google.com ([209.85.220.177]:48744)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <slava@kritov.com>)
+	id 1TQO2J-0008Af-Dm
+	for info@riw-sv.com; Mon, 22 Oct 2012 14:51:43 -0500
+Received: by mail-vc0-f177.google.com with SMTP id p16so3925132vcq.8
+        for <info@riw-sv.com>; Mon, 22 Oct 2012 12:51:42 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type
+         :x-gm-message-state;
+        bh=ZKORLBf/TyWnKcMyuKLUHXyToiCfyk0Ad3RWBlqQFIo=;
+        b=SdQ6IPqXvpIlRD4h/DEPn57QH8m/kUQGi00kTTVdTT5AuAdFUwfbyf33DWjidMBKKG
+         vLJ1kbgR5pE/eAz9esTwuRadEHpVwfEcqVSUsg20XtB4VARPc3WvWF8fi9q8PYOY0FPm
+         96Vs4kDNoLUBgOB/AfVaE1nUBEaZ95tCLqLHJhv65ZfHRimP3zdMsYQPeECrq/FCS8Oa
+         Jv/4CqqEpn01xle61wlqDWvM2hUl7c4UVgijOcv+7UiBYoH4rqvdB3xTnHnpV3DtFHMZ
+         1Uta5o8MSD/nDt4eMmoXHEtUM8YOpxon7OsQfeYF549EE2KjlZO4tx22j3upnIA6KHuU
+         sMFQ==
+MIME-Version: 1.0
+Received: by 10.52.77.101 with SMTP id r5mr13401085vdw.25.1350935502390; Mon,
+ 22 Oct 2012 12:51:42 -0700 (PDT)
+Received: by 10.58.170.74 with HTTP; Mon, 22 Oct 2012 12:51:42 -0700 (PDT)
+Date: Mon, 22 Oct 2012 12:51:42 -0700
+Message-ID: <CAD-B0Ko=cFDqZC-KtG74fe_dqUUZLQTTEZ8ZgU1NC=oKGeGFOg@mail.gmail.com>
+Subject: registration
+From: Slava Kritov <slava@kritov.com>
+To: info@riw-sv.com
+Content-Type: multipart/alternative; boundary=20cf307abd93bc06f304ccab2ec9
+X-Gm-Message-State: ALoCoQnMuoi2/0yuJIdC96/4HV0NHKsLIi/UEV0TH/g1suYEITXin59x+82g3zGStkZRuDX1sf4Z
+
+--20cf307abd93bc06f304ccab2ec9
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+it would be great if you can register me for the event.
+
+Thank you very much
+
+Slava
+
+--20cf307abd93bc06f304ccab2ec9
+Content-Type: text/html; charset=UTF-8
+
+Hello,<div><br></div><div>it would be great if you can register me for the event.</div><div><br></div><div>Thank you very much</div><div><br></div><div>Slava</div>
+
+--20cf307abd93bc06f304ccab2ec9--

@@ -1,0 +1,45 @@
+Return-path: <dmitri@rentini.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Mon, 22 Oct 2012 09:49:51 -0500
+Received: from mail-pa0-f49.google.com ([209.85.220.49]:46752)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <dmitri@rentini.com>)
+	id 1TQJKA-0002pP-MW
+	for info@riw-sv.com; Mon, 22 Oct 2012 09:49:50 -0500
+Received: by mail-pa0-f49.google.com with SMTP id bi5so2056975pad.8
+        for <info@riw-sv.com>; Mon, 22 Oct 2012 07:49:49 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=content-type:content-transfer-encoding:subject:from:message-id:date
+         :to:mime-version:x-mailer:x-gm-message-state;
+        bh=cx/iQtX5XwcbwJ9EiXo4jKvOF1L7EkYpEF6X5mLfNVA=;
+        b=eHtVCzB2Z1qIspHymA56a0Y6ggUFGBnA2ChVlgq7vHfSzLQApogx6hjGhBpaCDlSDv
+         G+GegS4/FH6RhJV+VrGTfXkMFy9QlrKj9La/Ber7pqRqkxnFKCM+pRMk2DPxNnPfOhaH
+         HHEph2qC3njyuTjV8gF0+4OEFfcibyLX87C42YeeZ3rvVyoTMxN0leSxo1lULbnqWdPB
+         t2SJDixqhR8h5lwjO0Q5W3jgUdAN9t+SSA4tgyPyVwlp1SmO+pXGjuSwP4mCB/xnVALM
+         3MwIM3It3O3TD+/gyU78mPNbefQ/D2q6i3sgVAeQ1oyWQoucuDKO6jC8OKrqmcEe/Exj
+         UuIQ==
+Received: by 10.66.86.228 with SMTP id s4mr16017724paz.15.1350917389845;
+        Mon, 22 Oct 2012 07:49:49 -0700 (PDT)
+Received: from [192.168.0.15] (c-98-248-26-139.hsd1.ca.comcast.net. [98.248.26.139])
+        by mx.google.com with ESMTPS id k6sm2190481paz.8.2012.10.22.07.49.47
+        (version=SSLv3 cipher=OTHER);
+        Mon, 22 Oct 2012 07:49:48 -0700 (PDT)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Subject: Registration 
+From: Dmitriy Tochilnik <dmitri@rentini.com>
+Message-Id: <B3863220-54EF-4F13-B27D-B00FD2E13446@rentini.com>
+Date: Mon, 22 Oct 2012 07:49:44 -0700
+To: "info@riw-sv.com" <info@riw-sv.com>
+Mime-Version: 1.0 (1.0)
+X-Mailer: iPhone Mail (10A403)
+X-Gm-Message-State: ALoCoQki5GiPrHiDHupSwRMzDLcec/y35J4XVzU9rXJV+Q8lSRZgw279mCZ0q3/6ziP/rBm5xicY
+
+I would like to attend Russian innovation week event in October. I am co-fou=
+nder of Rentini - vacation rental website. Do you still have available spots=
+ ?
+
+Best ,
+-D=

@@ -1,0 +1,59 @@
+Return-path: <mturilin@gmail.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Fri, 19 Oct 2012 18:23:34 -0500
+Received: from mail-ia0-f177.google.com ([209.85.210.177]:57515)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <mturilin@gmail.com>)
+	id 1TPLuf-0005Gr-UY
+	for info@riw-sv.com; Fri, 19 Oct 2012 18:23:33 -0500
+Received: by mail-ia0-f177.google.com with SMTP id x26so873802iak.8
+        for <info@riw-sv.com>; Fri, 19 Oct 2012 16:23:33 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:from:date:x-google-sender-auth:message-id
+         :subject:to:content-type;
+        bh=yBTXL6YjCGWPLPv2JBybm0xBexvbu5YGAWvk6CGKusg=;
+        b=XC2mQcF7CSVMAHZKOaTK/fboEoG4/WLlZRv5ZuuBDDyaVWIOc1nGDKlXDEWo5p2rZB
+         3qPognEbqB/prM0HogjIZNXuhkOW3/EKUDso3jDWHidzFis0BHrVydq0R/bgoZ22PzZ2
+         BqM5G128B/vJjp8loyg7QOMEZh2YNiPSD7zli9ACHp37nDN2CaO8IO6Hpb/CIXcOHMpb
+         PpKmWIbSd+SiT4smtu5mp6i5cMi0ZtpEPkrF3AfUbZ3E7Z4WsOHBCEudATZtCecwliIm
+         9AIfGDWaYbFKL0hO5gaRhdeafALNiIR9bCPCMyM2/EKccFR6yx4OpDGn/mcNFLQMCP3C
+         vRDQ==
+Received: by 10.50.182.230 with SMTP id eh6mr3063595igc.39.1350689013170; Fri,
+ 19 Oct 2012 16:23:33 -0700 (PDT)
+MIME-Version: 1.0
+Sender: mturilin@gmail.com
+Received: by 10.64.12.39 with HTTP; Fri, 19 Oct 2012 16:23:13 -0700 (PDT)
+From: Mikhail Turilin <mikhail@turilin.com>
+Date: Fri, 19 Oct 2012 16:23:13 -0700
+X-Google-Sender-Auth: en6e8ZbbGj8OKlhF7A3iSx5RMT4
+Message-ID: <CAKo1jCqN4npZGP+cTgJ1P6COytzLL02BwWXBsY11kTVHMt9KEg@mail.gmail.com>
+Subject: =?KOI8-R?B?8sXHydPU0sHDydE=?=
+To: info@riw-sv.com
+Content-Type: multipart/alternative; boundary=14dae9399dc7d5029404cc71cae2
+
+--14dae9399dc7d5029404cc71cae2
+Content-Type: text/plain; charset=KOI8-R
+Content-Transfer-Encoding: base64
+
+5M/C0tnKIMTFztghCgrxINDSz9DV09TJzCDSxcfJ09TSwcPJwCDOwSBSdXNzaWFuIElubm92YXRp
+b24gV2Vlay4g5dPU2CDMySDF3cUg18/azc/Wzs/T1NgK0M/QwdPU2CDOwSDLz87GxdLFzsPJwD8K
+Cu8g08XCxTog0SDQ0sXE0NLJzsnNwdTFzNggySDUxcjOyd7F08vJyiDEydLFy9TP0iDLz83Qwc7J
+ySAi9MXIzs/Mz8fJySDXCs/C0sHaz9fBzsnJIiwg0tXT08vPLcHNxdLJy8HO08vPx88g09TB0tTB
+0MEsINLB2tfJ18HA3cXHzyDTwcrUCmh0dHA6Ly9nZXRjY25hLnJ1Cgri1cTVINLB2iDXz9rNz9bO
+z9PUySDQz9XewdPU18/XwdTYIQoK8yDV18HWxc7Jxc0sCvTV0snMyc4g7cnIwcnMCg==
+--14dae9399dc7d5029404cc71cae2
+Content-Type: text/html; charset=KOI8-R
+Content-Transfer-Encoding: base64
+
+5M/C0tnKIMTFztghPGRpdj48YnI+PC9kaXY+PGRpdj7xINDSz9DV09TJzCDSxcfJ09TSwcPJwCDO
+wSBSdXNzaWFuIElubm92YXRpb24gV2Vlay4g5dPU2CDMySDF3cUg18/azc/Wzs/T1Ngg0M/QwdPU
+2CDOwSDLz87GxdLFzsPJwD88L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2Pu8g08XCxTog0SDQ0sXE
+0NLJzsnNwdTFzNggySDUxcjOyd7F08vJyiDEydLFy9TP0iDLz83Qwc7JySAmcXVvdDv0xcjOz8zP
+x8nJINcgz8LSwdrP18HOyckmcXVvdDssINLV09PLzy3BzcXSycvBztPLz8fPINPUwdLUwdDBLCDS
+wdrXydfBwN3Fx88g08HK1CA8YSBocmVmPSJodHRwOi8vZ2V0Y2NuYS5ydSI+aHR0cDovL2dldGNj
+bmEucnU8L2E+PC9kaXY+Cgo8ZGl2Pjxicj48L2Rpdj48ZGl2PuLVxNUg0sHaINfP2s3P1s7P09TJ
+INDP1d7B09TXz9fB1NghPC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj7zINXXwdbFzsnFzSw8L2Rp
+dj48ZGl2PvTV0snMyc4g7cnIwcnMPC9kaXY+Cg==
+--14dae9399dc7d5029404cc71cae2--

@@ -1,0 +1,77 @@
+Return-path: <pospelova_t@mail.ru>
+Envelope-to: info@riw-sv.com
+Delivery-date: Sun, 07 Oct 2012 12:31:14 -0500
+Received: from f140.mail.ru ([94.100.178.196]:34243)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.80)
+	(envelope-from <pospelova_t@mail.ru>)
+	id 1TKuh8-0001xj-2p
+	for info@riw-sv.com; Sun, 07 Oct 2012 12:31:14 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=mail.ru; s=mail;
+	h=Content-Type:Message-ID:Reply-To:Date:Mime-Version:Subject:To:From; bh=9H92lB4GtNBPqlh/SeYJeKXezlfQBsrrtwwnqjGuFKU=;
+	b=opQHp46HjzxJRcTcF3n7K5w4qpqS3iZbPrf40LqHA4DkrItUtQuLBGPNwksedo6qx70ZIDHOb+hBD2zoHI61DoR6qYjjQarKfNGBJ8KiZ2cNibZGLlYi6Xp77S+d65mM;
+Received: from mail by f140.mail.ru with local (envelope-from <pospelova_t@mail.ru>)
+	id 1TKuh5-0004FP-5O
+	for info@riw-sv.com; Sun, 07 Oct 2012 21:31:11 +0400
+Received: from [98.234.150.84] by e.mail.ru with HTTP;
+	Sun, 07 Oct 2012 21:31:11 +0400
+From: =?UTF-8?B?0KLQsNC90Y8g0J/QvtGB0L/QtdC70L7QstCw?= <pospelova_t@mail.ru>
+To: info@riw-sv.com
+Subject: =?UTF-8?B?cHJvYmxlbSB3aXRoIGEgdW5pcXVlIGtleQ==?=
+Mime-Version: 1.0
+X-Mailer: mPOP Web-Mail 2.19
+X-Originating-IP: [98.234.150.84]
+Date: Sun, 07 Oct 2012 21:31:11 +0400
+Reply-To: =?UTF-8?B?0KLQsNC90Y8g0J/QvtGB0L/QtdC70L7QstCw?= <pospelova_t@mail.ru>
+X-Priority: 3 (Normal)
+Message-ID: <1349631071.798847216@f140.mail.ru>
+Content-Type: multipart/alternative;
+	boundary="--ALT--vUVtvLKO1349631071"
+X-Spam: Not detected
+X-Mras: Ok
+
+
+----ALT--vUVtvLKO1349631071
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+RGVhcizCoApSdXNuYW5vLCBSVkMgYW5kIFNrb2xrb3ZvCgpNeSBuYW1lIGlzIFBvc3BlbG92YSBU
+YXRpYW5hLgpZZXN0ZXJkYXkgScKgcmVjZWl2ZWQgYSBsZXR0ZXLCoHdpdGggaW52aXRhdGlvbiDC
+oGF0wqBSdXNzaWFuIElubm92YXRpb24gV2VlayBDb25mZXJlbmNlLgpJIHRyaWVkIHRvIHVzZSBt
+ecKgdW5pcXVlIGtleSAwNjdCNDhEwqBhdMKgaHR0cDovL3Jpdy1zdi5jb20vaW52aXRhdGlvbi8w
+NjdCNDhELiBCdXQgaXQgZG9lc24ndCB3b3JrLgpUaGUgc3lzdGVtIHdyaXRlcyBtZSBtaXN0YWtl
+IC0gVGhlIGtleSB1c2VkIGlzIGVpdGhlciB3cm9uZyBvciBoYXMgYWxyZWFkeSBiZWVuIHVzZWQu
+CgpDYW4geW91IGhlbHAgbWUgdG8gc29sdmUgdGhpcyBwcm9ibGVtPwoKCkJlc3QsClRhdGlhbmEg
+UG9zcGVsb3ZhwqA=
+
+----ALT--vUVtvLKO1349631071
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+CjxIVE1MPjxCT0RZPkRlYXIsJm5ic3A7PGJyPjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTogQXJp
+YWwsIFRhaG9tYSwgVmVyZGFuYSwgc2Fucy1zZXJpZjsgIiBkYXRhLW1jZS1zdHlsZT0iZm9udC1m
+YW1pbHk6IEFyaWFsLCBUYWhvbWEsIFZlcmRhbmEsIHNhbnMtc2VyaWY7Ij5SdXNuYW5vLCBSVkMg
+YW5kIFNrb2xrb3ZvPC9zcGFuPjxicj48YnI+TXkgbmFtZSBpcyBQb3NwZWxvdmEgVGF0aWFuYS48
+YnI+WWVzdGVyZGF5IEkmbmJzcDtyZWNlaXZlZCBhIGxldHRlciZuYnNwO3dpdGggPHNwYW4gc3R5
+bGU9ImZvbnQtZmFtaWx5OiBhcmlhbCwgc2Fucy1zZXJpZjsgZm9udC1zaXplOiAxM3B4OyB3aGl0
+ZS1zcGFjZTogbm93cmFwOyAiIGRhdGEtbWNlLXN0eWxlPSJmb250LWZhbWlseTogYXJpYWwsIHNh
+bnMtc2VyaWY7IGZvbnQtc2l6ZTogMTNweDsgd2hpdGUtc3BhY2U6IG5vd3JhcDsiPmludml0YXRp
+b24gJm5ic3A7YXQmbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsLCBUYWhvbWEs
+IFZlcmRhbmEsIHNhbnMtc2VyaWY7ICIgZGF0YS1tY2Utc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlh
+bCwgVGFob21hLCBWZXJkYW5hLCBzYW5zLXNlcmlmOyI+UnVzc2lhbiBJbm5vdmF0aW9uIFdlZWsg
+Q29uZmVyZW5jZS48YnI+PC9zcGFuPjwvc3Bhbj5JIHRyaWVkIHRvIHVzZSBteSZuYnNwOzxzcGFu
+IHN0eWxlPSJmb250LWZhbWlseTogQXJpYWwsIFRhaG9tYSwgVmVyZGFuYSwgc2Fucy1zZXJpZjsg
+IiBkYXRhLW1jZS1zdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsLCBUYWhvbWEsIFZlcmRhbmEsIHNh
+bnMtc2VyaWY7Ij51bmlxdWUga2V5IDA2N0I0OEQ8L3NwYW4+Jm5ic3A7YXQmbmJzcDs8YSBocmVm
+PSJodHRwOi8vcml3LXN2LmNvbS9pbnZpdGF0aW9uLzA2N0I0OEQiIGRhdGEtbWNlLWhyZWY9Imh0
+dHA6Ly9yaXctc3YuY29tL2ludml0YXRpb24vMDY3QjQ4RCI+aHR0cDovL3Jpdy1zdi5jb20vaW52
+aXRhdGlvbi8wNjdCNDhEPC9hPi4gQnV0IGl0IGRvZXNuJ3Qgd29yay48YnI+VGhlIHN5c3RlbSB3
+cml0ZXMgbWUgbWlzdGFrZSAtIDxzcGFuIHN0eWxlPSJjb2xvcjogcmdiKDc3LCA3NywgNzcpOyBm
+b250LWZhbWlseTogZHRyX3Byb19saWdodFJnOyBmb250LXNpemU6IDEzcHg7ICIgZGF0YS1tY2Ut
+c3R5bGU9ImNvbG9yOiAjNGQ0ZDRkOyBmb250LWZhbWlseTogZHRyX3Byb19saWdodFJnOyBmb250
+LXNpemU6IDEzcHg7Ij5UaGUga2V5IHVzZWQgaXMgZWl0aGVyIHdyb25nIG9yIGhhcyBhbHJlYWR5
+IGJlZW4gdXNlZC48L3NwYW4+PGJyPjxicj5DYW4geW91IGhlbHAgbWUgdG8gc29sdmUgdGhpcyBw
+cm9ibGVtPzxicj48YnI+PGJyPkJlc3QsPGJyPlRhdGlhbmEgUG9zcGVsb3ZhJm5ic3A7PC9CT0RZ
+PjwvSFRNTD4K
+
+----ALT--vUVtvLKO1349631071--

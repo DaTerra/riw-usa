@@ -1,0 +1,61 @@
+Return-path: <siphonedp27@heinemann.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Wed, 20 Mar 2013 05:44:33 -0500
+Received: from 144.red-83-34-146.dynamicip.rima-tde.net ([83.34.146.144]:39153)
+	by sprinter.websitewelcome.com with esmtp (Exim 4.80)
+	(envelope-from <siphonedp27@heinemann.com>)
+	id 1UIGVU-0005TW-S9
+	for info@riw-sv.com; Wed, 20 Mar 2013 05:44:33 -0500
+Received: from apache by heinemann.com with local (Exim 4.67)
+	(envelope-from <siphonedp27@heinemann.com>)
+	id G4VV24-JJUU5C-2G
+	for <info@riw-sv.com>
+Cc: <registration@riw-sv.com>; Wed, 20 Mar 2013 11:44:31 +0100
+To: <info@riw-sv.com>
+Cc: <registration@riw-sv.com>
+Subject: Price List
+X-PHP-Script: heinemann.com/sendmail.php for 83.34.146.144
+From: "Clair Adkins" <siphonedp27@heinemann.com>
+X-Sender: "Clair Adkins" <siphonedp27@heinemann.com>
+X-Mailer: PHP
+X-Priority: 1
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="------------05040900501080207060606"
+Message-Id: <453UP3-9730PX-SW@heinemann.com>
+Date: Wed, 20 Mar 2013 11:44:31 +0100
+
+This is a multi-part message in MIME format.
+--------------05040900501080207060606
+Content-Type: text/plain; charset="Windows-1252"; format=flowed
+
+Viagra 60 pills 100mg -	$146.40 ($2.44 per item)Amoxicillin 90 pills 250mg - $58.50 ($0.65 per item)Zocor 30 pills 40mg - $104.70 ($3.49 per item)Zovirax 60 pills 200mg - $37.20 ($0.62 per item)Zithromax 15 pills 250mg - 	$27.30 ($1.82 per item)Amoxicillin 30 pills 650mg -$108.00 ($3.60 per item)Prozac 90 pills 40mg - $148.50 ($1.65 per item)Prednisolone 90 pills 20mg - $62.10 ($0.69 per item)Prednisolone 30 pills 5mg - $8.10 ($0.27 per item)Prednisolone 180 pills 40mg - $149.40 ($0.83 per item)Zyban 60 pills 150mg - $180.00 ($3.00 per item)Prednisolone 60 pills 40mg - $59.40 ($0.99 per item)more info
+
+--------------05040900501080207060606
+Content-Type: text/html; charset="iso-8859-2"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body bgcolor="#ffffff" text="#000000">
+    <p>
+Viagra 60 pills 100mg -	$146.40 ($2.44 per item)<br>
+Amoxicillin 90 pills 250mg - $58.50 ($0.65 per item)<br>
+Zocor 30 pills 40mg - $104.70 ($3.49 per item)<br>
+Zovirax 60 pills 200mg - $37.20 ($0.62 per item)<br>
+Zithromax 15 pills 250mg - 	$27.30 ($1.82 per item)<br>
+Amoxicillin 30 pills 650mg -$108.00 ($3.60 per item)<br>
+Prozac 90 pills 40mg - $148.50 ($1.65 per item)<br>
+Prednisolone 90 pills 20mg - $62.10 ($0.69 per item)<br>
+Prednisolone 30 pills 5mg - $8.10 ($0.27 per item)<br>
+Prednisolone 180 pills 40mg - $149.40 ($0.83 per item)<br>
+Zyban 60 pills 150mg - $180.00 ($3.00 per item)<br>
+Prednisolone 60 pills 40mg - $59.40 ($0.99 per item)<br>
+<a href="http://">more info</a>
+</p>
+  </body>
+</html>
+
+--------------05040900501080207060606--

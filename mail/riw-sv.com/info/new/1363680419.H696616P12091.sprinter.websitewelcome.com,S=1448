@@ -1,0 +1,43 @@
+Return-path: <verbjfa37@livenirvana.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Tue, 19 Mar 2013 03:06:59 -0500
+Received: from [2.184.212.204] (port=15801)
+	by sprinter.websitewelcome.com with esmtp (Exim 4.80)
+	(envelope-from <verbjfa37@livenirvana.com>)
+	id 1UHrZR-00038O-GQ
+	for info@riw-sv.com; Tue, 19 Mar 2013 03:06:59 -0500
+Received: from  (192.168.1.79) by livenirvana.com (2.184.212.204) with Microsoft SMTP Server id 8.0.685.24; Tue, 19 Mar 2013 00:06:55 -0800
+Message-ID: <51480D22.408010@livenirvana.com>
+Date: Tue, 19 Mar 2013 00:06:55 -0800
+From: "Octavio Schneider" <verbjfa37@livenirvana.com>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.9) Gecko/20100921 Thunderbird/3.1.4
+MIME-Version: 1.0
+To: <info@riw-sv.com>
+Subject: HI
+Content-Type: multipart/alternative;
+ boundary="------------05060100806080509010106"
+
+This is a multi-part message in MIME format.
+--------------05060100806080509010106
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+How are the things?
+
+--------------05060100806080509010106
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body bgcolor="#ffffff" text="#000000">
+    How are the things?
+  </body>
+
+</html>
+
+--------------05060100806080509010106--

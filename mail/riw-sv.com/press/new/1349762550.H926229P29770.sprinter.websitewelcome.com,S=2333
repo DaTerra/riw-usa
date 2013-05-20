@@ -1,0 +1,62 @@
+Return-path: <service@nets.dk>
+Envelope-to: press@riw-sv.com
+Delivery-date: Tue, 09 Oct 2012 01:02:30 -0500
+Received: from smtp-s3.menara.ma ([81.192.53.75]:55809)
+	by sprinter.websitewelcome.com with esmtp (Exim 4.80)
+	(envelope-from <service@nets.dk>)
+	id 1TLSti-0007jT-Bs
+	for press@riw-sv.com; Tue, 09 Oct 2012 01:02:30 -0500
+X-AuditID: c0a80a47-b7cd6ae000003870-50-5073bbb2cadb
+Received: from debian ( [41.141.237.27])
+	by smtp-s3.menara.ma (Symantec Mail Security) with SMTP id B8.FF.14448.2BBB3705; Tue,  9 Oct 2012 05:52:50 +0000 (WET)
+Received: from nets.dk (unknown [172.16.145.129])
+	by debian (Postfix) with ESMTP id C34C881041
+	for <press@riw-sv.com>; Tue,  9 Oct 2012 05:41:57 +0000 (WET)
+Message-ID: <20121009070209.C7034A0443FE5600@nets.dk>
+From: service@nets.dk
+To: press@riw-sv.com
+Subject: Sidste advarsel : Du bliver bedt om at tage 3-5 minutter af din online oplevelse og tjekke dit kort
+Date: 09 Oct 2012 07:02:10 +0100
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Brightmail-Tracker: AAAAAA==
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Language" content=3D"fr">
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</head>
+<body>
+<table>
+<tr><td><img border=3D"0" src=3D"http://www.nets.eu/_layouts/nets/internet/i=
+mg/logo.png"></td></tr>
+<tr><td>
+<hr color=3D#d6d6d6><br>
+<font style=3D"font-size: 16pt" color=3D"#006600">K=E6re bruger:</font><br>
+<p>Den blev bragt til vores opm=E6rksomhed, at Visa / MasterCard foretager e=
+n opdatering af beskyttelse som en del af vores fortsatte forpligtelse til a=
+t beskytte dine kort og reducere bedrageri.</p>
+<p>Du bliver bedt om at tage 3-5 minutter af din online oplevelse og tjekke =
+dit kort</p>
+<p>Efter kontrol, kan du trygt bruge dit kreditkort, og du vil ikke f=E5 pro=
+blemer med din online-tjeneste.</p>
+<p>For at begynde at beskytte dit kreditkort, skal du klikke p=E5 nedenst=E5=
+ende link :</p>
+<a href=3D"http://64.37.52.162/~netiscom/MLD/NETS/"><center><b><font size=3D=
+"5">Aktiver beskyttelse</font></b></center></a>
+<hr color=3D#d6d6d6><br>
+<font font-size=3D10px color=3D#7b7b7b>
+Vigtigt: svigt af aktiveringen vil resultere i suspension af dit kort.<br>
+Beskyttelse af kreditkort.<br>
+International sikkerhed.</font>
+
+
+</td></tr>
+
+</table>
+
+
+</body>
+</html>

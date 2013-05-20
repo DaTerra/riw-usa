@@ -1,0 +1,56 @@
+Return-path: <observationxta@casesmaker.ru>
+Envelope-to: info@riw-sv.com
+Delivery-date: Wed, 20 Mar 2013 21:00:57 -0500
+Received: from [216.79.140.209] (port=54480)
+	by sprinter.websitewelcome.com with esmtp (Exim 4.80)
+	(envelope-from <observationxta@casesmaker.ru>)
+	id 1UIUoL-0002yq-KP
+	for info@riw-sv.com; Wed, 20 Mar 2013 21:00:57 -0500
+Received: from apache by casesmaker.ru with local (Exim 4.67)
+	(envelope-from <dowdily@casesmaker.ru>)
+	id 445VVJ-RTL0XK-I5
+	for <info@riw-sv.com>; Wed, 20 Mar 2013 21:00:56 -0500
+To: <info@riw-sv.com>
+Subject: Price List
+X-PHP-Script: casesmaker.ru/sendmail.php for 216.79.140.209
+From: "Sheldon Gould" <observationxta@casesmaker.ru>
+X-Sender: "Sheldon Gould" <observationxta@casesmaker.ru>
+X-Mailer: PHP
+X-Priority: 1
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="------------08080800603060307090606"
+Message-Id: <XLYXL2-G94260-D4@casesmaker.ru>
+Date: Wed, 20 Mar 2013 21:00:56 -0500
+
+This is a multi-part message in MIME format.
+--------------08080800603060307090606
+Content-Type: text/plain; charset="windows-1250"; format=flowed
+
+Levitra 60 pills 10mg - $159.00 ($2.65 per item)Amoxicillin 30 pills 500mg - $56.10 ($1.87 per item)Aricept 180 pills 5mg - $136.80 ($0.76 per item)Seroquel 60 pills 300mg - $193.20 ($3.22 per item)Advair 1 pack 50mcg/500mcg	- $49.95 ($49.95 per item)Amoxicillin 60 pills 500mg - $71.40 ($1.19 per item)Seroquel 30 pills 200mg - $90.00 ($3.00 per item)Zithromax 30 pills 100mg - $20.40 ($0.68 per item)Celebrex 30 pills 200mg - $33.00 ($1.10 per item)more info
+
+--------------08080800603060307090606
+Content-Type: text/html; charset="Windows-1252"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body bgcolor="#ffffff" text="#000000">
+    <p>
+Levitra 60 pills 10mg - $159.00 ($2.65 per item)<br>
+Amoxicillin 30 pills 500mg - $56.10 ($1.87 per item)<br>
+Aricept 180 pills 5mg - $136.80 ($0.76 per item)<br>
+Seroquel 60 pills 300mg - $193.20 ($3.22 per item)<br>
+Advair 1 pack 50mcg/500mcg	- $49.95 ($49.95 per item)<br>
+Amoxicillin 60 pills 500mg - $71.40 ($1.19 per item)<br>
+Seroquel 30 pills 200mg - $90.00 ($3.00 per item)<br>
+Zithromax 30 pills 100mg - $20.40 ($0.68 per item)<br>
+Celebrex 30 pills 200mg - $33.00 ($1.10 per item)<br>
+<a href="http://">more info</a>
+</p>
+  </body>
+</html>
+
+--------------08080800603060307090606--

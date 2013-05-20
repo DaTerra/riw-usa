@@ -1,0 +1,151 @@
+@font-face {
+    font-family: 'dtr_pro_mediumRg';
+    src: url('../typeface/dtr-med-webfont.eot');
+    src: url('../typeface/dtr-med-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../typeface/dtr-med-webfont.woff') format('woff'),
+         url('../typeface/dtr-med-webfont.ttf') format('truetype'),
+         url('../typeface/dtr-med-webfont.svg#dtr_pro_mediumRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dtr_blackRg';
+    src: url('../typeface/dtr-black-webfont.eot');
+    src: url('../typeface/dtr-black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../typeface/dtr-black-webfont.woff') format('woff'),
+         url('../typeface/dtr-black-webfont.ttf') format('truetype'),
+         url('../typeface/dtr-black-webfont.svg#dtr_pro_blackRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'dtr_pro_blackitalic';
+    src: url('../typeface/dtr-blackit-webfont.eot');
+    src: url('../typeface/dtr-blackit-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../typeface/dtr-blackit-webfont.woff') format('woff'),
+         url('../typeface/dtr-blackit-webfont.ttf') format('truetype'),
+         url('../typeface/dtr-blackit-webfont.svg#dtr_pro_blackitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'dtr_probold';
+    src: url('../typeface/dtr-bold-webfont.eot');
+    src: url('../typeface/dtr-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../typeface/dtr-bold-webfont.woff') format('woff'),
+         url('../typeface/dtr-bold-webfont.ttf') format('truetype'),
+         url('../typeface/dtr-bold-webfont.svg#dtr_probold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dtr_proitalic';
+    src: url('../typeface/dtr-italic-webfont.eot');
+    src: url('../typeface/dtr-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../typeface/dtr-italic-webfont.woff') format('woff'),
+         url('../typeface/dtr-italic-webfont.ttf') format('truetype'),
+         url('../typeface/dtr-italic-webfont.svg#dtr_proitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+@font-face {
+    font-family: 'dtr_pro_mediumIt';
+    src: url('../typeface/dtr-medital-webfont.eot');
+    src: url('../typeface/dtr-medital-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../typeface/dtr-medital-webfont.woff') format('woff'),
+         url('../typeface/dtr-medital-webfont.ttf') format('truetype'),
+         url('../typeface/dtr-medital-webfont.svg#dtr_pro_mediumIt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}	
+@font-face {
+    font-family: 'dtr_pro_lightRg';
+    src: url('../typeface/dtr-light-webfont.eot');
+    src: url('../typeface/dtr-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../typeface/dtr-light-webfont.woff') format('woff'),
+         url('../typeface/dtr-light-webfont.ttf') format('truetype'),
+         url('../typeface/dtr-light-webfont.svg#dtr_pro_lightRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'dtr_pro_lightitalic';
+    src: url('../typeface/dtr-lightital-webfont.eot');
+    src: url('../typeface/dtr-lightital-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../typeface/dtr-lightital-webfont.woff') format('woff'),
+         url('../typeface/dtr-lightital-webfont.ttf') format('truetype'),
+         url('../typeface/dtr-lightital-webfont.svg#dtr_pro_lightitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'dtr_proregular';
+    src: url('../typeface/dtr-reg-webfont.eot');
+    src: url('../typeface/dtr-reg-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../typeface/dtr-reg-webfont.woff') format('woff'),
+         url('../typeface/dtr-reg-webfont.ttf') format('truetype'),
+         url('../typeface/dtr-reg-webfont.svg#dtr_proregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'dtr_pro_thinregular';
+    src: url('../typeface/dtr-thin-webfont.eot');
+    src: url('../typeface/dtr-thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../typeface/dtr-thin-webfont.woff') format('woff'),
+         url('../typeface/dtr-thin-webfont.ttf') format('truetype'),
+         url('../typeface/dtr-thin-webfont.svg#dtr_pro_thinregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'dtr_pro_thinitalic';
+    src: url('../typeface/dtr-thinital-webfont.eot');
+    src: url('../typeface/dtr-thinital-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../typeface/dtr-thinital-webfont.woff') format('woff'),
+         url('../typeface/dtr-thinital-webfont.ttf') format('truetype'),
+         url('../typeface/dtr-thinital-webfont.svg#dtr_pro_thinitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'dtr_pro_extrathinIt';
+    src: url('../typeface/dtr-xthinit-webfont.eot');
+    src: url('../typeface/dtr-xthinit-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../typeface/dtr-xthinit-webfont.woff') format('woff'),
+         url('../typeface/dtr-xthinit-webfont.ttf') format('truetype'),
+         url('../typeface/dtr-xthinit-webfont.svg#dtr_pro_extrathinIt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'dtr_pro_extrathinRg';
+    src: url('../typeface/dtr-xthin-webfont.eot');
+    src: url('../typeface/dtr-xthin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../typeface/dtr-xthin-webfont.woff') format('woff'),
+         url('../typeface/dtr-xthin-webfont.ttf') format('truetype'),
+         url('../typeface/dtr-xthin-webfont.svg#dtr_pro_extrathinRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

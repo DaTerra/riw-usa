@@ -1,0 +1,268 @@
+Return-path: <viktor.shishkarev@gmail.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Wed, 24 Oct 2012 08:30:49 -0500
+Received: from mail-gg0-f177.google.com ([209.85.161.177]:64569)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <viktor.shishkarev@gmail.com>)
+	id 1TR12n-00006s-Gn
+	for info@riw-sv.com; Wed, 24 Oct 2012 08:30:49 -0500
+Received: by mail-gg0-f177.google.com with SMTP id h1so70039gge.8
+        for <info@riw-sv.com>; Wed, 24 Oct 2012 06:30:48 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=from:content-type:subject:message-id:date:to:mime-version:x-mailer;
+        bh=gJw05jl445vLqi3H4SPsnEGy2J31zb4A3Ki+kt6U0ic=;
+        b=BfIX1HqM2OYufQVoIOUL1U39oLJJBIjvi1P4VEPayrAp9tOfIBxAJ6FfS0gXd8ZNcw
+         D3hr/e9u95GDBxmCI6eFF9WkmKvDAx/DbtaW+ymNiBU2p73SXSCHzXATmNLH2R4Rmk1c
+         hZSKGzEGVskqadTpUX94u3zVXN+bAQOUeCeNyfkeTFORnC/6Dz3FfNNtbT3HaersWEI3
+         WrpLy8xzcDEeVAttfHRoXeIzcLyyMptWc7AueooRUhah50mO+gFcKKYeRTk6wEId+ssb
+         fHgTe+kX7WCEN26fNYOCoyNHZvgwksqXZ+cwj8Zp3tuxJNilgtOhypMUEDMs8QksBCab
+         R/3A==
+Received: by 10.236.82.178 with SMTP id o38mr15295925yhe.70.1351085448730;
+        Wed, 24 Oct 2012 06:30:48 -0700 (PDT)
+Received: from ?IPv6:2602:306:3784:d4e0:bd39:f4f1:1e68:f86? ([2602:306:3784:d4e0:bd39:f4f1:1e68:f86])
+        by mx.google.com with ESMTPS id m51sm14760431yhh.16.2012.10.24.06.30.45
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Wed, 24 Oct 2012 06:30:47 -0700 (PDT)
+From: Viktor Shishkarev <viktor.shishkarev@gmail.com>
+Content-Type: multipart/alternative; boundary="Apple-Mail=_06FE6D3A-CA64-43C0-A0C7-D0BCDBBAD54F"
+Subject: =?koi8-r?B?1d7B09TJxSDXIMvPzsbF0sXOw8nJ?=
+Message-Id: <9A3F8439-BE38-4E24-AD09-0AF4E07CA98C@advizzer.com>
+Date: Wed, 24 Oct 2012 06:29:24 -0700
+To: info@riw-sv.com
+Mime-Version: 1.0 (Mac OS X Mail 6.0 \(1486\))
+X-Mailer: Apple Mail (2.1486)
+
+
+--Apple-Mail=_06FE6D3A-CA64-43C0-A0C7-D0BCDBBAD54F
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;
+	charset=koi8-r
+
+DQrkz8LSz8fPINfSxc3Fzskg09XUz8shDQoNCg0K8SDR18zRwNPYINLVy8/Xz8TJ1MXMxc0g0NLP
+xcvUwSBBZHZpenplci5jb20NCkFkdml6emVyIC0g3NTPOg0KLcvB1MHMz8cgzcXT1CDTINDPxNLP
+ws7Zzckgz8Laz9LBzckgySDTydPUxc3PyiDQz8nTy8Eg0M8g0MHSwc3F1NLBzQ0KLdLFy8/Nxc7E
+wdTFzNjO2cog08XS18nTDQotx8XPzM/LwcPJz87Oz8Ugzc/CyczYzs/FINDSyczP1sXOycUNCg0K
+DQrJINPFyt7B0yDLwcsg0sHaIM7ByM/W1dPYINcg88HOLebSwc7DydPLzy4NCg0K6yDTz9bBzMXO
+ycAg0M/axM7PINXazsHMIM8g18Hbxc0gzcXSz9DSydHUycksIM7PIM/exc7YIMjP1MXMz9PYIMLZ
+INDSyc7R1Ngg1d7B09TJxS4NCg0KDQrzINXXwdbFzsnFzSwNCvfJy9TP0iD7ydvLwdLF1w0K8tXL
+z9fPxMnUxczYIEFkdml6emVyLmNvbQ0KKzcoNDk1KTc5OC0yOTM5DQp2aWN0b3JAYWR2aXp6ZXIu
+Y29tDQp3d3cuYWR2aXp6ZXIuY29tDQoNCg0KaHR0cDovL2l0dW5lcy5hcHBsZS5jb20vcnUvYXBw
+L2Fkdml6emVyL2lkNTYwNTQ0NjExP210PTgNCg0K
+
+--Apple-Mail=_06FE6D3A-CA64-43C0-A0C7-D0BCDBBAD54F
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="Apple-Mail=_C91C47F9-F185-4DDE-AA73-CA8764753857"
+
+
+--Apple-Mail=_C91C47F9-F185-4DDE-AA73-CA8764753857
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+	charset=koi8-r
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html =
+charset=3Dkoi8-r"></head><body style=3D"word-wrap: break-word; =
+-webkit-nbsp-mode: space; -webkit-line-break: after-white-space; =
+"><br><div apple-content-edited=3D"true">
+</div>=E4=CF=C2=D2=CF=C7=CF =D7=D2=C5=CD=C5=CE=C9 =
+=D3=D5=D4=CF=CB!<div><br></div><div><br></div><div>=F1 =D1=D7=CC=D1=C0=D3=D8=
+ =D2=D5=CB=CF=D7=CF=C4=C9=D4=C5=CC=C5=CD =D0=D2=CF=C5=CB=D4=C1 <a =
+href=3D"http://Advizzer.com">Advizzer.com</a></div><div>Advizzer - =
+=DC=D4=CF:</div><div>-=CB=C1=D4=C1=CC=CF=C7 =CD=C5=D3=D4 =D3 =D0=CF=C4=D2=CF=
+=C2=CE=D9=CD=C9 =CF=C2=DA=CF=D2=C1=CD=C9 =C9 =D3=C9=D3=D4=C5=CD=CF=CA =
+=D0=CF=C9=D3=CB=C1 =D0=CF =D0=C1=D2=C1=CD=C5=D4=D2=C1=CD</div><div>-=D2=C5=
+=CB=CF=CD=C5=CE=C4=C1=D4=C5=CC=D8=CE=D9=CA =
+=D3=C5=D2=D7=C9=D3</div><div>-=C7=C5=CF=CC=CF=CB=C1=C3=C9=CF=CE=CE=CF=C5 =
+=CD=CF=C2=C9=CC=D8=CE=CF=C5 =
+=D0=D2=C9=CC=CF=D6=C5=CE=C9=C5</div><div><br></div><div><br></div><div>=C9=
+ =D3=C5=CA=DE=C1=D3 =CB=C1=CB =D2=C1=DA =CE=C1=C8=CF=D6=D5=D3=D8 =D7 =
+=F3=C1=CE-=E6=D2=C1=CE=C3=C9=D3=CB=CF.</div><div><br></div><div>=EB =
+=D3=CF=D6=C1=CC=C5=CE=C9=C0 =D0=CF=DA=C4=CE=CF =D5=DA=CE=C1=CC =CF =D7=C1=DB=
+=C5=CD =CD=C5=D2=CF=D0=D2=C9=D1=D4=C9=C9, =CE=CF =CF=DE=C5=CE=D8 =
+=C8=CF=D4=C5=CC=CF=D3=D8 =C2=D9 =D0=D2=C9=CE=D1=D4=D8 =
+=D5=DE=C1=D3=D4=C9=C5.</div><div><br></div><div><div =
+apple-content-edited=3D"true">
+<div style=3D"color: rgb(0, 0, 0); font-family: Helvetica; font-size: =
+medium; font-style: normal; font-variant: normal; font-weight: normal; =
+letter-spacing: normal; line-height: normal; orphans: 2; text-align: =
+-webkit-auto; text-indent: 0px; text-transform: none; white-space: =
+normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; =
+-webkit-text-stroke-width: 0px; word-wrap: break-word; =
+-webkit-nbsp-mode: space; -webkit-line-break: after-white-space; "><div =
+style=3D"color: rgb(0, 0, 0); font-family: Helvetica; font-size: medium; =
+font-style: normal; font-variant: normal; font-weight: normal; =
+letter-spacing: normal; line-height: normal; orphans: 2; text-align: =
+-webkit-auto; text-indent: 0px; text-transform: none; white-space: =
+normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; =
+-webkit-text-stroke-width: 0px; word-wrap: break-word; =
+-webkit-nbsp-mode: space; -webkit-line-break: after-white-space; "><div =
+style=3D"color: rgb(0, 0, 0); font-family: Helvetica; font-size: medium; =
+font-style: normal; font-variant: normal; font-weight: normal; =
+letter-spacing: normal; line-height: normal; orphans: 2; text-align: =
+-webkit-auto; text-indent: 0px; text-transform: none; white-space: =
+normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; =
+-webkit-text-stroke-width: 0px; word-wrap: break-word; =
+-webkit-nbsp-mode: space; -webkit-line-break: after-white-space; "><div =
+style=3D"color: rgb(0, 0, 0); font-family: Helvetica; font-size: medium; =
+font-style: normal; font-variant: normal; font-weight: normal; =
+letter-spacing: normal; line-height: normal; orphans: 2; text-align: =
+-webkit-auto; text-indent: 0px; text-transform: none; white-space: =
+normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; =
+-webkit-text-stroke-width: 0px; word-wrap: break-word; =
+-webkit-nbsp-mode: space; -webkit-line-break: after-white-space; "><span =
+class=3D"Apple-style-span" style=3D"border-collapse: separate; color: =
+rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant: =
+normal; font-weight: normal; letter-spacing: normal; line-height: =
+normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; =
+text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; =
+border-spacing: 0px; -webkit-text-decorations-in-effect: none; =
+-webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; =
+font-size: medium; "><div style=3D"word-wrap: break-word; =
+-webkit-nbsp-mode: space; -webkit-line-break: after-white-space; "><span =
+class=3D"Apple-style-span" style=3D"border-collapse: separate; color: =
+rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant: =
+normal; font-weight: normal; letter-spacing: normal; line-height: =
+normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; =
+text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; =
+border-spacing: 0px; -webkit-text-decorations-in-effect: none; =
+-webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; =
+font-size: medium; "><div style=3D"color: rgb(0, 0, 0); font-family: =
+Helvetica; font-size: medium; font-style: normal; font-variant: normal; =
+font-weight: normal; letter-spacing: normal; line-height: normal; =
+orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: =
+none; white-space: normal; widows: 2; word-spacing: 0px; =
+-webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><br =
+class=3D"Apple-interchange-newline">=F3 =D5=D7=C1=D6=C5=CE=C9=C5=CD,</div>=
+<div style=3D"color: rgb(0, 0, 0); font-family: Helvetica; font-size: =
+medium; font-style: normal; font-variant: normal; font-weight: normal; =
+letter-spacing: normal; line-height: normal; orphans: 2; text-align: =
+-webkit-auto; text-indent: 0px; text-transform: none; white-space: =
+normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; =
+-webkit-text-stroke-width: 0px; ">=F7=C9=CB=D4=CF=D2 =FB=C9=DB=CB=C1=D2=C5=
+=D7</div><div style=3D"color: rgb(0, 0, 0); font-family: Helvetica; =
+font-size: medium; font-style: normal; font-variant: normal; =
+font-weight: normal; letter-spacing: normal; line-height: normal; =
+orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: =
+none; white-space: normal; widows: 2; word-spacing: 0px; =
+-webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; =
+">=F2=D5=CB=CF=D7=CF=C4=C9=D4=C5=CC=D8<span =
+class=3D"Apple-converted-space">&nbsp;</span><a =
+href=3D"http://Advizzer.com">Advizzer.com</a></div><div style=3D"color: =
+rgb(0, 0, 0); font-family: Helvetica; font-size: medium; font-style: =
+normal; font-variant: normal; font-weight: normal; letter-spacing: =
+normal; line-height: normal; orphans: 2; text-align: -webkit-auto; =
+text-indent: 0px; text-transform: none; white-space: normal; widows: 2; =
+word-spacing: 0px; -webkit-text-size-adjust: auto; =
+-webkit-text-stroke-width: 0px; ">+7(495)798-2939</div><div =
+style=3D"color: rgb(0, 0, 0); font-family: Helvetica; font-size: medium; =
+font-style: normal; font-variant: normal; font-weight: normal; =
+letter-spacing: normal; line-height: normal; orphans: 2; text-align: =
+-webkit-auto; text-indent: 0px; text-transform: none; white-space: =
+normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; =
+-webkit-text-stroke-width: 0px; "><a =
+href=3D"mailto:victor@advizzer.com">victor@advizzer.com</a></div><div =
+style=3D"color: rgb(0, 0, 0); font-family: Helvetica; font-size: medium; =
+font-style: normal; font-variant: normal; font-weight: normal; =
+letter-spacing: normal; line-height: normal; orphans: 2; text-align: =
+-webkit-auto; text-indent: 0px; text-transform: none; white-space: =
+normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; =
+-webkit-text-stroke-width: 0px; "><a =
+href=3D"http://advizzer.com">www.advizzer.com</a></div><span =
+style=3D"color: rgb(0, 0, 0); font-family: Helvetica; font-size: medium; =
+font-style: normal; font-variant: normal; font-weight: normal; =
+letter-spacing: normal; line-height: normal; orphans: 2; text-align: =
+-webkit-auto; text-indent: 0px; text-transform: none; white-space: =
+normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; =
+-webkit-text-stroke-width: 0px; "><span><br =
+class=3D"Apple-interchange-newline"><span><img height=3D"36" width=3D"111"=
+ id=3D"5a6bcc6c-be88-4250-a94d-631264d2a597" apple-width=3D"yes" =
+apple-height=3D"yes" =
+src=3D"cid:10E54BFB-F6AE-4AA0-A8A8-F435ABF4FFA7"></span><br =
+class=3D"Apple-interchange-newline" style=3D"color: rgb(0, 0, 0); =
+font-family: Helvetica; font-size: medium; font-style: normal; =
+font-variant: normal; font-weight: normal; letter-spacing: normal; =
+line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: =
+0px; text-transform: none; white-space: normal; widows: 2; word-spacing: =
+0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; =
+"><span style=3D"font-family: Helvetica; font-size: medium; font-style: =
+normal; font-variant: normal; font-weight: normal; letter-spacing: =
+normal; line-height: normal; orphans: 2; text-align: -webkit-auto; =
+text-indent: 0px; text-transform: none; white-space: normal; widows: 2; =
+word-spacing: 0px; -webkit-text-size-adjust: auto; =
+-webkit-text-stroke-width: 0px; color: rgb(71, 135, 255); =
+text-decoration: underline; display: inline !important; float: none; =
+"><a =
+href=3D"http://itunes.apple.com/ru/app/advizzer/id560544611?mt=3D8">http:/=
+/itunes.apple.com/ru/app/advizzer/id560544611?mt=3D8</a></span>
+</span></span></span></div>
+</span></div></div></div></div></div><br></div></body></html>=
+
+--Apple-Mail=_C91C47F9-F185-4DDE-AA73-CA8764753857
+Content-Transfer-Encoding: base64
+Content-Disposition: inline;
+	filename=appstore.png
+Content-Type: image/png;
+	name="appstore.png"
+Content-Id: <10E54BFB-F6AE-4AA0-A8A8-F435ABF4FFA7>
+
+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
+TkSuQmCC
+
+--Apple-Mail=_C91C47F9-F185-4DDE-AA73-CA8764753857--
+
+--Apple-Mail=_06FE6D3A-CA64-43C0-A0C7-D0BCDBBAD54F--

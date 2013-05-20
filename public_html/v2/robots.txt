@@ -1,0 +1,13 @@
+# Exclude Files From All Robots:
+
+User-agent: *
+Disallow: /registration2
+Disallow: /registration_beta
+Disallow: /invitation
+Disallow: /invitation_media
+
+Sitemap: http://riw-sv.com/sitemap.xml
+
+
+
+# End robots.txt file

@@ -1,0 +1,101 @@
+Return-path: <>
+Envelope-to: registration@riw-sv.com
+Delivery-date: Fri, 15 Mar 2013 22:59:46 -0500
+Received: from den-mipot-002.corp.ebay.com ([216.113.175.153]:26280)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	id 1UGiHZ-00024F-Vk
+	for registration@riw-sv.com; Fri, 15 Mar 2013 22:59:46 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=ebay.com; i=@ebay.com; q=dns/txt; s=ebaycorp;
+  t=1363406386; x=1394942386;
+  h=from:to:subject:date:message-id:references:in-reply-to:
+   mime-version;
+  bh=GsJiOHQVvmNOzNX5IvvdVUKvchOlxkz4m2Cm+udPEs8=;
+  b=ugCcWEpRRcgvI+5RkhduLLKmuq1m1DxYhan+bY1Fbj70Hli2mpmYDLG+
+   fUjxoqlOTt0Vgf0aapF7ua3SJLe9D+7yZietVXLNdErxpydvmyVbnbqoM
+   Y8t/4wAG+HGJMCxYGMLyB4CcGzOudJ/ylUGSdtxMAp66I41ERvWMfBHEo
+   U=;
+X-EBay-Corp: Yes
+X-IronPort-AV: E=Sophos;i="4.84,855,1355126400"; 
+   d="scan'208,217";a="14172430"
+Received: from den-vtenf-002.corp.ebay.com (HELO DEN-EXMHT-005.corp.ebay.com) ([10.101.112.213])
+  by den-mipot-002.corp.ebay.com with ESMTP; 15 Mar 2013 20:59:45 -0700
+Received: from PHX-EXCCH-001.corp.ebay.com (10.58.12.26) by
+ DEN-EXMHT-005.corp.ebay.com (10.241.17.171) with Microsoft SMTP Server (TLS)
+ id 14.2.318.4; Fri, 15 Mar 2013 21:59:45 -0600
+Received: from PHX-EXCCH-001.corp.ebay.com ([10.58.12.26]) by
+ PHX-EXCCH-001.corp.ebay.com ([10.58.12.26]) with Microsoft SMTP Server id
+ 14.02.0318.004; Fri, 15 Mar 2013 20:59:44 -0700
+From: "Devani,Bhavna" <bdevani@ebay.com>
+To: RIW 2013 <registration@riw-sv.com>
+Subject: Automatic reply: Russian Innovation Week 2013 Save the Date and GTS
+ Announcement!
+Thread-Topic: Russian Innovation Week 2013 Save the Date and GTS
+ Announcement!
+Thread-Index: AQHOIfqx8Ym0+eVSo0+ADCIuCVhulw==
+Date: Sat, 16 Mar 2013 03:59:44 +0000
+Message-ID: <c309a94f3f514aaaa81bb0bb06ddb359@PHX-EXCCH-001.corp.ebay.com>
+References: <760c1e989044efae065c0cb3a346c440@riw-sv.com>
+In-Reply-To: <760c1e989044efae065c0cb3a346c440@riw-sv.com>
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: All
+X-MS-Exchange-Inbox-Rules-Loop: bdevani@ebay.com
+X-MS-TNEF-Correlator:
+Content-Type: multipart/alternative;
+	boundary="_000_c309a94f3f514aaaa81bb0bb06ddb359PHXEXCCH001corpebaycom_"
+MIME-Version: 1.0
+X-CFilter: Scanned
+
+--_000_c309a94f3f514aaaa81bb0bb06ddb359PHXEXCCH001corpebaycom_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for your email.
+
+I will be out of the office from March 7-17 for SXSW.
+
+For queries about Emerging Markets Mobile please contact Sergey Ivashov <si=
+vashov@ebay.com>.
+
+
+Queries about the Deal of the Day or My Deal Now app can be directed to Jes=
+per Hart-Hansen <jharthansen@ebay.com>
+
+Cheers,
+
+Bhavna Devani
+
+--_000_c309a94f3f514aaaa81bb0bb06ddb359PHXEXCCH001corpebaycom_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+</head>
+<body>
+<font face=3D"Georgia, Times New Roman"><span style=3D"font-size:12pt">Than=
+k you for your email.
+<br>
+&nbsp;<br>
+I will be out of the office from March 7-17 for SXSW. <br>
+<br>
+For queries about Emerging Markets Mobile please contact Sergey Ivashov &lt=
+;<a href=3D"sivashov@ebay.com">sivashov@ebay.com</a>&gt;.<br>
+<br>
+<br>
+Queries about the Deal of the Day or My Deal Now app can be directed to Jes=
+per Hart-Hansen &lt;<a href=3D"jharthansen@ebay.com">jharthansen@ebay.com</=
+a>&gt;<br>
+&nbsp;<br>
+Cheers, <br>
+<br>
+Bhavna Devani </span></font><font face=3D"Calibri, Verdana, Helvetica, Aria=
+l"><span style=3D"font-size:10.5pt"><br>
+</span></font>
+</body>
+</html>
+
+--_000_c309a94f3f514aaaa81bb0bb06ddb359PHXEXCCH001corpebaycom_--

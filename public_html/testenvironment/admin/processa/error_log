@@ -1,0 +1,346 @@
+[18-Sep-2012 12:55:08] PHP Fatal error:  Call to undefined function  codigo() in /home/riw2012/public_html/admin/processa/mail.php on line 14
+[18-Sep-2012 13:58:21] PHP Parse error:  syntax error, unexpected T_STRING in /home/riw2012/public_html/admin/processa/mail.php on line 53
+[18-Sep-2012 14:41:36] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[18-Sep-2012 14:41:36] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[18-Sep-2012 14:41:36] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[18-Sep-2012 14:53:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[18-Sep-2012 15:34:36] PHP Fatal error:  Call to a member function SetFrom() on a non-object in /home/riw2012/public_html/admin/processa/mail.php on line 96
+[18-Sep-2012 22:24:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[18-Sep-2012 22:25:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[19-Sep-2012 15:32:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[19-Sep-2012 16:49:24] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/remove_user.php on line 6
+[19-Sep-2012 18:31:05] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[19-Sep-2012 18:31:05] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[19-Sep-2012 18:31:05] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[19-Sep-2012 18:31:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[19-Sep-2012 18:35:25] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[19-Sep-2012 18:35:25] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[19-Sep-2012 18:35:25] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[19-Sep-2012 18:35:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[19-Sep-2012 19:25:56] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[19-Sep-2012 19:25:56] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[19-Sep-2012 19:25:56] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[19-Sep-2012 19:25:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[19-Sep-2012 19:27:16] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[19-Sep-2012 19:27:16] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[19-Sep-2012 19:27:16] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[19-Sep-2012 19:27:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[19-Sep-2012 19:38:23] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[19-Sep-2012 19:38:23] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[19-Sep-2012 19:38:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[19-Sep-2012 19:54:20] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[19-Sep-2012 19:54:20] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[19-Sep-2012 19:54:20] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[19-Sep-2012 19:54:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[19-Sep-2012 19:54:33] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[19-Sep-2012 19:54:33] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[19-Sep-2012 19:54:33] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[19-Sep-2012 19:54:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[19-Sep-2012 20:55:22] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[19-Sep-2012 20:55:22] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[19-Sep-2012 20:55:22] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[19-Sep-2012 20:55:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 00:46:08] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[20-Sep-2012 00:46:08] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[20-Sep-2012 00:46:08] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[20-Sep-2012 00:46:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 16:53:38] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 16:58:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 16:58:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 16:58:48] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[20-Sep-2012 16:58:48] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[20-Sep-2012 16:58:48] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[20-Sep-2012 16:58:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 16:58:55] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 17:42:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 17:44:31] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[20-Sep-2012 17:44:31] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[20-Sep-2012 17:44:31] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[20-Sep-2012 17:45:26] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 17:45:29] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[20-Sep-2012 17:45:29] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[20-Sep-2012 17:45:29] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[20-Sep-2012 17:45:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 17:45:48] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[20-Sep-2012 17:45:48] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[20-Sep-2012 17:45:48] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[20-Sep-2012 17:45:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 18:28:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 19:12:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 20:03:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 20:04:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 20:04:59] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[20-Sep-2012 20:04:59] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[20-Sep-2012 20:04:59] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[20-Sep-2012 20:04:59] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 20:17:53] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[20-Sep-2012 20:17:53] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[20-Sep-2012 20:17:53] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[20-Sep-2012 20:17:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 20:55:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 20:56:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 22:17:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 22:17:57] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 22:18:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 22:18:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 22:21:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 22:22:03] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 22:29:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 22:49:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 22:49:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[20-Sep-2012 23:52:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 00:35:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 01:12:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 01:12:53] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 01:12:53] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 01:12:53] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 01:12:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 01:13:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 01:13:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 01:13:16] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 01:13:16] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 01:13:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 01:42:18] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 01:42:18] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 01:42:18] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 01:45:14] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 01:45:14] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 01:45:14] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 01:45:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 01:45:56] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 01:45:56] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 01:45:56] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 01:45:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 01:58:01] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 01:58:01] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 01:58:01] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 01:58:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 01:58:45] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 01:58:45] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 01:58:45] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 02:39:44] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 02:39:44] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 02:39:44] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 02:39:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 02:39:56] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 02:39:56] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 02:39:56] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 02:39:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 02:40:20] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 02:40:20] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 02:40:20] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 02:40:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 15:06:53] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 15:06:53] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 15:06:53] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 15:06:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 15:10:42] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 15:10:42] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 15:10:42] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 15:10:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 15:12:35] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 15:12:35] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 15:12:35] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 15:12:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 15:14:17] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 15:14:17] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 15:14:17] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 15:14:17] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 15:16:35] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 15:16:35] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 15:16:35] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 15:16:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 15:19:05] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 15:19:05] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 15:19:05] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 15:19:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 15:24:18] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 15:50:18] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 15:50:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 15:53:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 17:37:18] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 17:41:05] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 17:41:05] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 17:41:05] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 18:04:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 18:06:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 18:42:46] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 18:42:46] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 18:42:46] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 18:58:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 18:59:03] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 18:59:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 18:59:27] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 18:59:27] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 18:59:27] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 18:59:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 19:03:58] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 19:03:58] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 19:03:58] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 19:04:33] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 19:04:33] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 19:04:33] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 19:05:02] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 19:05:02] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 19:05:02] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 19:05:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 19:05:19] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 19:05:19] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 19:05:19] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 19:05:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 19:05:59] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 19:06:06] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 19:06:06] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 19:06:06] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 19:06:13] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 19:06:13] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 19:06:13] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 19:06:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 19:09:52] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 19:09:52] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 19:09:52] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 19:09:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 19:10:36] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 19:10:36] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 19:10:36] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 19:10:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 19:11:21] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 19:11:21] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 19:11:21] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 19:11:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 19:14:00] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 19:14:00] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 19:14:00] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 19:14:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 19:14:14] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 19:14:14] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 19:14:14] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 19:14:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 19:14:56] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 19:14:56] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 19:14:56] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 19:14:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 19:15:09] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 19:15:09] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 19:15:09] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 19:15:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 19:17:00] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 19:17:00] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 19:17:00] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 19:17:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 19:17:26] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 19:17:26] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 19:17:26] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 19:17:26] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 19:21:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 19:21:52] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 19:21:52] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 19:21:52] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 19:21:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 19:22:17] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 19:26:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 19:31:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 19:35:06] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/mail.php on line 9
+[21-Sep-2012 19:35:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 19:54:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 19:55:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 19:56:02] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 19:56:02] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 19:56:02] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 19:56:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 19:56:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 19:57:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 19:57:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 19:58:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:00:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:08:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:09:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:14:17] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:14:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:15:09] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 20:15:09] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 20:15:09] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 20:15:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:15:18] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:15:26] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:15:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:20:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:20:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:21:05] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 20:21:05] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 20:21:05] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 20:21:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:22:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:23:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:23:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:23:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:24:26] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 20:24:26] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 20:24:26] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 20:24:26] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:24:47] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 20:24:47] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 20:24:47] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 20:24:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:28:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:29:30] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 20:29:30] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 20:29:30] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 20:29:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:29:55] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 20:29:55] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 20:29:55] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 20:29:55] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:30:23] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 20:30:23] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 20:30:23] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 20:30:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:30:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:32:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:33:17] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:33:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:33:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:39:45] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 20:39:45] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 20:39:45] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 20:39:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:39:51] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 20:39:51] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 20:39:51] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 20:39:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:41:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:43:24] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 20:43:24] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 20:43:24] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 20:43:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:45:23] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 20:45:23] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 20:45:23] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 20:45:47] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 20:45:47] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 20:45:47] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 20:56:18] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 20:59:23] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 20:59:23] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 20:59:23] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 20:59:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 21:00:08] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 21:00:08] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 21:00:08] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 21:00:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 21:02:06] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 21:02:06] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 21:02:06] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 21:02:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 21:03:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 21:07:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 21:10:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 21:23:38] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/remove_user.php on line 6
+[21-Sep-2012 21:24:05] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 21:24:05] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 21:24:05] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 21:24:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71
+[21-Sep-2012 21:24:19] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 32
+[21-Sep-2012 21:24:19] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 40
+[21-Sep-2012 21:24:19] PHP Warning:  Invalid argument supplied for foreach() in /home/riw2012/public_html/admin/processa/invitation.php on line 47
+[21-Sep-2012 21:24:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/riw2012/public_html/includes/db.class.php on line 71

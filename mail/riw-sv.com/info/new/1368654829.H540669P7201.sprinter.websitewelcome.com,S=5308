@@ -1,0 +1,116 @@
+Return-path: <vinicios.muller@ibest.com.br>
+Envelope-to: info@riw-sv.com
+Delivery-date: Wed, 15 May 2013 16:53:49 -0500
+Received: from mail-lb0-f180.google.com ([209.85.217.180]:59755)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <vinicios.muller@ibest.com.br>)
+	id 1Ucjdt-0001qi-5z
+	for info@riw-sv.com; Wed, 15 May 2013 16:53:49 -0500
+Received: by mail-lb0-f180.google.com with SMTP id o10so2435731lbi.11
+        for <info@riw-sv.com>; Wed, 15 May 2013 14:53:45 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=x-received:message-id:from:to:subject:date:mime-version
+         :content-type:content-transfer-encoding:x-priority:x-msmail-priority
+         :x-mailer:x-mimeole:x-gm-message-state;
+        bh=QMpvYxCMAmnMNoaCN5VVPdvUc/MoIY/DpN/GR0l44Qc=;
+        b=F/+r5DQAMIRlBbKb2JEaWljpSugEpeMreni7nRUbOmu23tVkgI3QbtzbiOuYHu/+yO
+         AgDx1e6iYYBebdSSkcw9Z6GOwVtD4pcuNW3mFOvD+trhEBWjXT2gJvoGY1dCqCqAUCIg
+         avvS+6/037POp92oUngYG9pSIZTj6CftjwbWX02kJIJUHhNhE+RitIh8myfGV11d2Ssx
+         S0osTQUpw57IZ5lYWaY62RRQw8RdA7xcFJw5w+e/NcrHeUNhByb/J1UcyqGfpMKUD4Ku
+         erWcfO7snr9RdFq5PezSub2xGG5JV82hs05cNXq+MiGXDeJML47SGS8OE1mWgmn75K+I
+         q4zw==
+X-Received: by 10.112.141.38 with SMTP id rl6mr18567027lbb.101.1368654825186;
+        Wed, 15 May 2013 14:53:45 -0700 (PDT)
+Received: from Unknown ([177.229.106.167])
+        by mx.google.com with ESMTPSA id mp1sm2033236lbb.5.2013.05.15.14.52.38
+        for <multiple recipients>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Wed, 15 May 2013 14:53:44 -0700 (PDT)
+Message-ID: <CF2C5AF19FAD4559A2697D87DCAC2246@ttzrfp>
+From: "=?windows-1251?B?zvLk5esg5+Dq8+/u6g==?=" <vinicios.muller@ibest.com.br>
+To: =?windows-1251?B?xePu8CDF8Oj17uI=?= <uvaijewak1517@qwest.net>
+Subject: =?windows-1251?B?1MrRIDIwMTM=?=
+Date: Thu, 16 May 2013 03:50:47 +0600
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="windows-1251";
+	reply-type=original
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Windows Live Mail 14.0.8089.726
+X-MimeOLE: Produced By Microsoft MimeOLE V14.0.8089.726
+X-Gm-Message-State: ALoCoQk5QDHXaI60PSoMHJEuz0y9fa/StvY1bnbB8Jet9Y4bTunLuVxijqQqO0Yg5ouIEpQ3hBUW
+
+=C3=CE=D1=D3=C4=C0=D0=D1=D2=C2=C5=CD=CD=DB=C9 =C7=C0=CA=C0=C7 =E2 2013 =E3=
+=EE=E4=F3.
+=D1=EB=EE=E6=ED=FB=E5 =E2=EE=EF=F0=EE=F1=FB =E2 =EA=EE=ED=EA=F3=F0=E5=ED=F2=
+=ED=FB=F5 =E8 =ED=E5=EA=EE=ED=EA=F3=F0=E5=ED=F2=ED=FB=F5 =F2=EE=F0=E3=E0=F5=
+.=20
+=CA=EE=ED=F2=F0=EE=EB=FC =F0=E0=E7=EC=E5=F9=E5=ED=E8=FF =E3=EE=F1=E7=E0=EA=
+=E0=E7=E0 =D4=C0=D1.
+
+17 - 18 =E8=FE=ED=FF 2013 =E3=EE=E4=E0, =D1=E0=ED=EA=F2-=CF=E5=F2=E5=F0=E1=
+=F3=F0=E3
+
+_________________
+=CA=F0=E0=F2=EA=E0=FF =EF=F0=EE=E3=F0=E0=EC=EC=E0:
+
+1. =D0=E5=F4=EE=F0=EC=E0 =E3=EE=F1=F3=E4=E0=F0=F1=F2=E2=E5=ED=ED=EE=E3=EE=
+ =E7=E0=EA=E0=E7=E0.=20
+=CE=F1=ED=EE=E2=ED=FB=E5 =EF=EE=EB=EE=E6=E5=ED=E8=FF =D4=E5=E4=E5=F0=E0=EB=
+=FC=ED=EE=E3=EE =E7=E0=EA=EE=ED=E0 =EE=F2 05.04.2013 N44-=D4=C7.
+=D4=E5=E4=E5=F0=E0=EB=FC=ED=E0=FF =EA=EE=ED=F2=F0=E0=EA=F2=ED=E0=FF =F1=E8=
+=F1=F2=E5=EC=E0.
+
+2. =CF=F0=E8=ED=FF=F2=FB=E5 =E8 =EF=EB=E0=ED=E8=F0=F3=E5=EC=FB=E5 =E8=E7=EC=
+=E5=ED=E5=ED=E8=FF =E2 =E7=E0=EA=EE=ED=EE=E4=E0=F2=E5=EB=FC=F1=F2=E2=E5 =D0=
+=D4 =EE =F0=E0=E7=EC=E5=F9=E5=ED=E8=E8 =E7=E0=EA=E0=E7=EE=E2.
+
+3. =CE=E1=E7=EE=F0 =F2=E8=EF=E8=F7=ED=FB=F5 =EE=F8=E8=E1=EE=EA =F3=F7=E0=F1=
+=F2=ED=E8=EA=EE=E2 =F0=E0=E7=EC=E5=F9=E5=ED=E8=FF =E3=EE=F1=F3=E4=E0=F0=F1=
+=F2=E2=E5=ED=ED=EE=E3=EE =E7=E0=EA=E0=E7=E0.
+
+4. =D2=F0=E5=E1=EE=E2=E0=ED=E8=FF =EA =F2=EE=E2=E0=F0=E0=EC =F0=E0=E1=EE=F2=
+=E0=EC, =F3=F1=EB=F3=E3=E0=EC.
+
+5. =CB=E5=E3=E8=F2=E8=EC=ED=FB=E5 =F1=EF=EE=F1=EE=E1=FB =E8=E7=EC=E5=ED=E5=
+=ED=E8=FF =F3=F1=EB=EE=E2=E8=E9 =E3=EE=F1=F3=E4=E0=F0=F1=F2=E2=E5=ED=ED=EE=
+=E3=EE =EA=EE=ED=F2=F0=E0=EA=F2=E0.
+
+6. =CA=E0=EA =EE=E1=E5=E7=EE=EF=E0=F1=E8=F2=FC =F1=E5=E1=FF =EE=F2 =ED=E5=
+=ED=E0=E4=EB=E5=E6=E0=F9=E5=E3=EE =EE=E1=E5=F1=EF=E5=F7=E5=ED=E8=FF =E8=F1=
+=EF=EE=EB=ED=E5=ED=E8=FF =EA=EE=ED=F2=F0=E0=EA=F2=E0?
+
+7. =CA=EE=ED=F2=F0=E0=EA=F2=ED=E0=FF =ED=E5=F3=F1=F2=EE=E9=EA=E0. =CD=CE=C2=
+=CE=C5 =E2 =EF=EE=F0=FF=E4=EA=E5 =F0=E0=F1=F7=E5=F2=E0 =E8 =E2=E7=FB=F1=EA=
+=E0=ED=E8=FF =ED=E5=F3=F1=F2=EE=E9=EA=E8 =F1=EE =F1=F2=EE=F0=EE=ED=FB =C7=
+=E0=EA=E0=E7=F7=E8=EA=E0.
+
+8. =C3=EE=F1=EA=EE=ED=F2=F0=EE=EB=FC. =C7=E0=F9=E8=F2=E0 =E8=ED=F2=E5=F0=E5=
+=F1=EE=E2 =E7=E0=EA=E0=E7=F7=E8=EA=EE=E2 =E2 =F0=E0=EC=EA=E0=F5 =EF=F0=EE=
+=F6=E5=E4=F3=F0 =F0=E0=E7=EC=E5=F9=E5=ED=E8=FF =E7=E0=EA=E0=E7=E0.
+
+9. =D4=E7-401 "=CE =E2=ED=E5=F1=E5=ED=E8=E8 =E8=E7=EC=E5=ED=E5=ED=E8=E9 =E2=
+ =D4=E5=E4=E5=F0=E0=EB=FC=ED=FB=E9 =E7=E0=EA=EE=ED =EE =E7=E0=F9=E8=F2=E5=
+ =EA=EE=ED=EA=F3=F0=E5=ED=F6=E8=E8"
+
+
+_________________________________________
+=CF=EE=E4=F0=EE=E1=ED=E0=FF =EF=F0=EE=E3=F0=E0=EC=EC=E0 =E2=FB=F1=FB=EB=E0=
+=E5=F2=F1=FF =EF=EE =E7=E0=EF=F0=EE=F1=F3.
+
+
+=CF=EE =E2=EE=EF=F0=EE=F1=E0=EC =F3=F7=E0=F1=F2=E8=FF =E8 =F0=E5=E3=E8=F1=
+=F2=F0=E0=F6=E8=E8 =EE=E1=F0=E0=F9=E0=E9=F2=E5=F1=FC =EF=EE =F2=E5=EB=E5=F4=
+=EE=ED=F3:
+/812/ 642-=CE1-28
+
+
+=D1 =F3=E2=E0=E6=E5=ED=E8=E5=EC,
+=C3=EE=EB=F3=E1=E5=E2=E0 =C0=ED=ED=E0 =C0=EB=E5=EA=F1=E5=E5=E2=ED=E0
+=EC=E5=ED=E5=E4=E6=E5=F0 =F6=E5=ED=F2=F0=E0 =EE=E1=F3=F7=E5=ED=E8=FF
+=F2=E5=EB.: /812/ 6=D72-=CE1-28

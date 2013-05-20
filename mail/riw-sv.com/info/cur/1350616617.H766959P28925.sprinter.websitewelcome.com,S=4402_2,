@@ -1,0 +1,65 @@
+Return-path: <nileshlak@yahoo.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Thu, 18 Oct 2012 22:16:57 -0500
+Received: from nm34-vm6.bullet.mail.bf1.yahoo.com ([72.30.239.78]:33440)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.80)
+	(envelope-from <nileshlak@yahoo.com>)
+	id 1TP34z-0007WG-9o
+	for info@riw-sv.com; Thu, 18 Oct 2012 22:16:57 -0500
+Received: from [98.139.212.151] by nm34.bullet.mail.bf1.yahoo.com with NNFMP; 19 Oct 2012 03:16:56 -0000
+Received: from [98.139.212.205] by tm8.bullet.mail.bf1.yahoo.com with NNFMP; 19 Oct 2012 03:16:56 -0000
+Received: from [127.0.0.1] by omp1014.mail.bf1.yahoo.com with NNFMP; 19 Oct 2012 03:16:56 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 348565.9906.bm@omp1014.mail.bf1.yahoo.com
+Received: (qmail 31240 invoked by uid 60001); 19 Oct 2012 03:16:56 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1350616616; bh=1XHZUAUkf5Y3MYcrqWIBi/vBj14drgkona48OVAd2+Q=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=HlpAb5YvqbXTSWD42uFBDNVHjXucfFOxNiJWhkfQhWW0fGtIamKqJGGSyb7qLOICCEdrzxn7f2e0WmdHSB1yh+7QZUyfTZIeGhHYcPTCu6KLZ6UB4EmR9a/JTSFXbDok9U0pMPfYNPbmHfi1krmchrc2rzJmtzy2UxeCBpAq+yU=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type;
+  b=ALgwtJcG0zC2rdZGxWCaMVVpewl0ASURnR6cH/hLyqiMw6VQKM1iGFwenVywLv/Pnzu+nVovdCCvJ3ggKqRZXl4IWRuhAlyg7mgmPhvUUDfcq71PWivS6mBI4uZdipbeCmlfu+v2vLe0n5Zr4vr1dFJYOVoPAigrMRk3k0E8TvM=;
+X-YMail-OSG: gJzOCMsVM1kRzQ4nseo1u9AJJ2a3q7f54FQT9Fm9topXQzF
+ K9RlKRJHyXX_aFT9veB.JHyHXqtaj5vQ2CXUkuPCJVPAloJPaVT_cCBNRNUi
+ bKXvGXdRQ06_hUQUc23VDnPsb6DYzSKNR_zVa7VOlTcF3cqbXyJmtOHMQ3MU
+ s5xWUY33aWsCf1b1Dxpn0.W7MR3FhMMPZJWENy2Tm40fS2Yu1pKStXChpjsO
+ 0msHvNhyoSoAtvAdJqVq9BJj7oXpOrwfv.XnIC6ywpN_NoZsiX.fHcQr92y9
+ aIbYrqxUQkzTe4tXmzKO0WYpzycZgIFoejY7fzXkGAXMMOjUQaERBS4vZkeP
+ 5.qkVNdum0ApVvhDE9KakZEbVoO0b1Dnhj1EWtaBVMyptosNIYa_kq3jlkFr
+ e5wBH9XL0RAIM5150ntDJOdCOUjoAkfwJ4xS_c0kLJnroCHspnEsz3iLMmyY
+ wpCm_QrTFH0LED6.hfIYd40uoXxLBVAygUwB9VBCtwRQ-
+Received: from [71.198.228.135] by web161603.mail.bf1.yahoo.com via HTTP; Thu, 18 Oct 2012 20:16:55 PDT
+X-Rocket-MIMEInfo: 001.001,SSBhbSBoaWdobHkgaW50ZXJlc3RlZCBpbiBhdHRlbmRpbmcgdGhpcyBldmVudCwgYnV0IEkgY2FuIG5vIGxvbmdlciByZWdpc3RlciBvbmxpbmUuIMKgQ291bGQgeW91IGtpbmRseSBhZHZpc2UgaG93IEkgbWF5IGJlIGFibGUgdG8gYXR0ZW5kPwoKVGhhbmtzLApOaWxlc2ggTGFraGFuaQooNDE1KSA5OTktOTAyMAEwAQEBAQ--
+X-Mailer: YahooMailWebService/0.8.123.450
+Message-ID: <1350616615.31169.YahooMailNeo@web161603.mail.bf1.yahoo.com>
+Date: Thu, 18 Oct 2012 20:16:55 -0700 (PDT)
+From: Nilesh Lakhani <nileshlak@yahoo.com>
+Reply-To: Nilesh Lakhani <nileshlak@yahoo.com>
+Subject: Re: Russian innovation week 2012
+To: "info@riw-sv.com" <info@riw-sv.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-2012143828-644676840-1350616615=:31169"
+
+---2012143828-644676840-1350616615=:31169
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+I am highly interested in attending this event, but I can no longer registe=
+r online. =A0Could you kindly advise how I may be able to attend?=0A=0AThan=
+ks,=0ANilesh Lakhani=0A(415) 999-9020
+---2012143828-644676840-1350616615=:31169
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div>I am highly inte=
+rested in attending this event, but I can no longer register online. &nbsp;=
+Could you kindly advise how I may be able to attend?</div><div><br></div><d=
+iv style=3D"color: rgb(0, 0, 0); font-size: 16px; font-family: 'times new r=
+oman', 'new york', times, serif; background-color: transparent; font-style:=
+ normal; ">Thanks,</div><div style=3D"color: rgb(0, 0, 0); font-size: 16px;=
+ font-family: 'times new roman', 'new york', times, serif; background-color=
+: transparent; font-style: normal; ">Nilesh Lakhani</div><div style=3D"colo=
+r: rgb(0, 0, 0); font-size: 16px; font-family: 'times new roman', 'new york=
+', times, serif; background-color: transparent; font-style: normal; ">(415)=
+ 999-9020</div></div></body></html>
+---2012143828-644676840-1350616615=:31169--

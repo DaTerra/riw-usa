@@ -1,0 +1,45 @@
+Return-path: <adrianaqz0@unb.ca>
+Envelope-to: info@riw-sv.com
+Delivery-date: Thu, 07 Mar 2013 16:20:21 -0600
+Received: from [186.107.253.255] (port=59400)
+	by sprinter.websitewelcome.com with esmtp (Exim 4.80)
+	(envelope-from <adrianaqz0@unb.ca>)
+	id 1UDjAj-00029d-BL
+	for info@riw-sv.com; Thu, 07 Mar 2013 16:20:21 -0600
+Received: from apache by unb.ca with local (Exim 4.63)
+	(envelope-from <gangreningtk@purifiercn.ru>)
+	id P93Z8E-RA55P8-VQ
+	for <info@riw-sv.com>; Thu, 7 Mar 2013 18:20:20 -0400
+To: <info@riw-sv.com>
+Subject: hello bro
+Date: Thu, 7 Mar 2013 18:20:20 -0400
+From: "Ashlee Aguirre" <adrianaqz0@unb.ca>
+Message-ID: <7DD53BB79E6EC9545976D973B9381BD0@unb.ca>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="------------02060300209050503010707"
+
+This is a multi-part message in MIME format.
+--------------02060300209050503010707
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="Windows-1252"
+
+How are you doing?
+
+--------------02060300209050503010707
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset="iso-8859-2"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body bgcolor="#ffffff" text="#000000">
+    How are you doing?
+  </body>
+</html>
+
+--------------02060300209050503010707--

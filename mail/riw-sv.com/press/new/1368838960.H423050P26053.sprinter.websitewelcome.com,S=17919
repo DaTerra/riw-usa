@@ -1,0 +1,447 @@
+Return-path: <nl@smtpcafe.ibsystems.com>
+Envelope-to: press@riw-sv.com
+Delivery-date: Fri, 17 May 2013 20:02:40 -0500
+Received: from smtpcafe.ibsystems.com ([66.220.4.17]:33966)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.80)
+	(envelope-from <nl@smtpcafe.ibsystems.com>)
+	id 1UdVXk-0006lq-6M
+	for press@riw-sv.com; Fri, 17 May 2013 20:02:40 -0500
+Received: from smtpcafe.ibsystems.com (localhost.localdomain [127.0.0.1])
+	by smtpcafe.ibsystems.com (8.13.8/8.13.8) with ESMTP id r4I12KNq010691
+	for <press@riw-sv.com>; Fri, 17 May 2013 18:02:39 -0700
+Received: (from nl@localhost)
+	by smtpcafe.ibsystems.com (8.13.8/8.13.8/Submit) id r4I113OX009049;
+	Fri, 17 May 2013 18:01:03 -0700
+Date: Fri, 17 May 2013 18:01:03 -0700
+Message-Id: <201305180101.r4I113OX009049@smtpcafe.ibsystems.com>
+To: press@riw-sv.com
+Subject: NanoTech Cafe News : May 17, 2013
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+From: "NanoTechCafe Newsletter" <nanotech_news_letter@NanoTechCafe.com>
+
+	<TITLE>NANO Cafe News - May 17, 2013</TITLE>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style>
+
+.Box
+{
+    font-family: arial, serif;
+	width: 100%;
+
+	margin-bottom: 15px;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	text-align: left;
+
+}
+.boxTitle
+{ 
+	border-bottom: 1px solid #aaaaaa;
+	margin-bottom: 3px;
+	text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    color: #000;
+	text-align: left;
+	width: 100%;
+	display:inline-table;
+}
+.BoxBottomLine
+{
+    border-bottom: 1px solid #aaaaaa;
+	padding-bottom: 8px;
+}
+
+.boxTitle a, .boxTitle span
+{
+	padding-top: 2px;
+	padding-bottom: 2px;
+	text-decoration: none;
+	color: #000;
+}
+
+.BoxItem
+{
+	border-bottom: 1px dotted #bbbbbb;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+	color: #000;
+	font-size: 12px;
+	text-align: left; 
+}
+
+.BoxItem h1
+{
+	font-size: 16px;
+	line-height: 1.2;
+	padding-top:0;
+	margin-bottom: 3px;
+}
+
+.BoxItem h3
+{
+	font-size: 14px;
+	line-height: 1.2;
+	padding-top:0;
+	margin-bottom: 3px;
+}
+
+.BoxMore
+{
+	width: 100%;
+	text-align: right;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #efefef;
+	border-bottom: 1px solid #ececec;
+	margin-bottom: 10px;
+}
+
+.BoxItemText
+{
+	font-size: 12px;
+}
+.BoxPremium
+{
+	background-color: #ECF1FE;
+}
+.BoxPremium b
+{
+	font-weight: bold;
+}
+.BoxPremium h1
+{
+	font-weight: 600;
+}
+.BoxPremium_A
+{
+	font-family: arial, serif;
+	font-size: 14px;
+	font-weight: 600;
+}
+
+
+body
+{
+	font-family: Verdana, Arial, serif;
+	font-size: 13px;
+	margin: 0;
+
+}
+
+font
+{
+	font-size: 12px;
+}
+
+a, a:visited
+{
+	color: #005689;
+	text-decoration: none;
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
+
+a:active
+{
+	color: white;
+	background-color: #005689;
+	text-decoration: none;	
+}
+
+img
+{
+	border: 0;
+}
+
+h1, h2, h3, h4
+{
+	margin-top: 0;
+	padding: 0;
+}
+
+h1
+{
+	font-weight: normal;
+	margin-bottom: 10px;
+	font-size: 28px;
+}
+
+h2
+{
+	font-size: 17px;
+	margin-bottom: 3px;
+}
+
+h3
+{
+	font-size: 14px;
+	margin-bottom: 3px;
+}
+h4
+{
+	font-size: 12px;
+	margin-bottom: 3px;
+
+}
+
+pre {
+	white-space: -moz-pre-wrap !important;
+	white-space: pre-wrap; 
+	white-space: -pre-wrap; 
+	white-space: -o-pre-wrap; 
+	white-space: -hp-pre-wrap; 
+	white-space: pre-line; 
+	word-wrap: break-word; 
+	_white-space: pre;   
+	overflow:hidden;
+	width:528px;
+}
+.TopHeader
+{
+	margin-top:5px;  
+	margin-bottom:8px; 
+	
+	text-align: left;
+}
+
+.SiteLogo
+{
+	width: 190px;
+	
+	margin-left: 5px;
+	margin-top: 10px;
+	padding-left: 5px;
+	
+}
+.ColumnWide
+{
+	width: 300px;
+	float: left;
+}
+
+
+.ColumnNerrow
+{
+	width: 160px;
+	float: left;
+}
+
+.ColumnNerrowPlus
+{
+	width: 210px;
+	float: left;
+}
+.ColumnNarrow
+{
+	width: 160px;
+	float: left;
+}
+
+.ColumnNarrowPlus
+{
+	width: 210px; 
+	float: left;
+}
+
+.ColumnHalfContent
+{
+	float: left;
+	width: 260px;
+}
+
+.ColumnBorder
+{
+	padding-left: 5px;
+    padding-right: 5px;
+    margin-right: 0px;
+    border-right: 1px solid #bebebe;
+}
+
+.viewArticleTitle
+{
+	font-size:22px; 
+	font-family: Lucida Grande,Lucida Sans Unicode,Arial,verdana,helvetica,sans-serif;
+}
+.viewArticle_box
+{
+	float: left;
+	width: 525px;
+	padding: 2px;
+	margin-top: 3px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+	margin-right: 0px;
+	background-color: #dddddd;
+    border-bottom: 1px solid #444444;
+    border-top: 1px solid #444444;
+}
+.SetCursorPointer { cursor: pointer;}
+
+.left {text-align:left;}
+.center {text-align: center;}
+.right {text-align:right;}
+.top {vertical-align:top;}
+.middle {vertical-align:middle;}
+.bottom {vertical-align:bottom;}
+.fontBold{font-weight:bold;}
+.fontNormal{font-weight:Normal;}
+
+.floatRight {float:right;}
+.floatLeft {float:left;}
+.hide{display:none;}
+
+.cursorHelp {cursor:help}
+.cursorPointer {cursor:pointer;}
+
+.standardLink a {color: #4273d9; text-decoration: underline;}
+.standardLink a:visited { color: #8155c8; text-decoration: underline;}
+.standardLink a:hover { color: #005689; text-decoration: underline;}
+</style>
+
+<!--
+***************************************************************
+Welcome to CafeNews, a free service for the latest NanoTechCafe
+news, NANO programs, and industry technical articles.
+If you can read this message but the balance of this email
+contains weird characters, your email reader is not capable of
+understanding html formatted mail. You can change your settings
+to 'text' by visiting
+http://www10.NanoTechCafe.com/nl/newsletter_subscribe.php?action=Edit&enc_email=cHJlc3NAcml3LXN2LmNvbQ%3D%3D&subscriber_key=4bdd13 .
+***************************************************************
+-->
+<CENTER>
+<div style='width:816px;'><div style='float:right'><A HREF="http://www.nanotechcafe.com/index.php?newsletter=1&site=NANO&demo=1&ee=cHJlc3NAcml3LXN2LmNvbQ%3D%3D&sk=4bdd13&run_date=17-May-2013+18%3A00%3A06&country=USA"  style='text-decoration:underline;font-size:10px;'>View in your browser</A></div><br clear=all>
+</div>
+<TABLE CELLPADDING=2 CELLSPACING=0 WIDTH=816 BORDER=0 style='border: medium solid #cccccc;'>
+<TR>
+	<TD width='816' align='left' colspan='3'>
+<TABLE CELLPADDING=2 CELLSPACING=0 WIDTH='100%' BORDER='0'>
+<TR>
+	<TD align='left' nowrap>
+<A HREF="http://www10.NanoTechCafe.com/nl/newsletter_subscribe.php?enc_email=cHJlc3NAcml3LXN2LmNvbQ%3D%3D&action=Edit"><IMG SRC='http://www.NanoTechCafe.com/common/images/10-3753-1368838806-cHJlc3NAcml3LXN2LmNvbQ%3D%3D-s.gif' ALT='NanoTechCafe.com Daily Newsletter' BORDER=0></A></TD>
+	<TD ALIGN=RIGHT nowrap>
+	<BR><font style='font-size:11px'><B>Friday, May 17, 2013</B></font>
+	</font></TD>
+</TR>
+</table>	</TD>
+</TR>
+<TR>
+	<TD ALIGN=RIGHT COLSPAN='2'>
+<TR>
+	<TD COLSPAN=3 ALIGN=CENTER><TABLE id='DisplayBannerHEADER' cellpadding=0 cellspacing=0 border=0 >
+<TR VALIGN='top' >
+</TR>
+</TABLE>
+	</TD>
+</TR>
+<TR>
+	<TD valign='top' style='width:310px;'>
+<font style='font-size:5px;' valign='top'><br></font>
+<div class='ColumnWide ColumnBorder' style='width:314px;'>
+<div class='Box'>
+	<div class='boxTitle'>What's New on NANOTechCafe</div>
+<!--NEWSBOX:{CorpNews}:BEGIN-->
+<div class='BoxItem'><A HREF="http://www10.NanoTechCafe.com/nbc/articles/view_article.php?section=CorpNews&articleid=1187372" class='BoxPremium_A' >Textiles are getting smarter (Cientifica)</A>                           &nbsp;    &nbsp;        
+</div>
+<div class='BoxItem'><A HREF="http://www10.NanoTechCafe.com/nbc/articles/view_article.php?section=CorpNews&articleid=1187022">IBM helps transform Thames Water using Big Data Analytics in preparation for future growth</A>
+</div><br>
+      <A HREF="http://www10.NanoTechCafe.com/nl/recommend_it.php?enc_from_email=cHJlc3NAcml3LXN2LmNvbQ%3D%3D" >
+	<font size=-1 color='#0000CE'>Tell a Friend about What's New on NANOTechCafe</font></A>
+	<div class='BoxMore'><a HREF="https://secure.ibsystems.com/NANO/nbc/members/" title='Submit your News and Press Releases to NanoTechCafe.com'>Submit</a> | <a HREF="http://www10.NanoTechCafe.com/nbc/articles/display_news.php?section=">More What's New on NANO </a>&nbsp;</div>
+</div>
+<!--NEWSBOX:{CorpNews}:END--><div class='Box'>
+	<div class='boxTitle'>Presentations</div><div class='BoxItem'><a href="http://www10.NanoTechCafe.com/link/U.S.-Naval-Surface-Warfare-Center-Molecular-Nanotechnology-Research-Overview-Tutorial-Audio/13642/view.html" title='View  Download from U.S. Naval Surface Warfare Center : Molecular Nanotechnology Research Overview Tutorial (Audio)'>Molecular Nanotechnology Research Overview Tutorial (Audio),  U.S. Naval Surface Warfare Center</A>
+ As presented by David Forrest, U.S. Naval Surface Warfare Center  at the 13th Foresight Conference: Advancing Beneficial Nanotechnology: Focusing on the Cutting Edge, &#8230;
+</div>
+<div class='BoxItem'><a href="http://www10.NanoTechCafe.com/link/Nanotechnology-Network-Nanotechnology-Policy-Near-term-Beyond-Audio/13640/view.html" title='View  Download from Nanotechnology Network : Nanotechnology Policy: Near-term and Beyond (Audio)'>Nanotechnology Policy: Near-term and Beyond (Audio),  Nanotechnology Network</A>
+ As presented by Richard Smith, President, Nanotechnology Network at the 13th Foresight Conference: Advancing Beneficial Nanotechnology: Focusing on the Cutting Edge, &#8230;
+</div>
+<div class='BoxItem'><a href="http://www10.NanoTechCafe.com/link/U.S.-Naval-Surface-Warfare-Center-Molecular-Nanotechnology-Research-Overview-Tutorial-Slides/13641/view.html" title='View  Download from U.S. Naval Surface Warfare Center : Molecular Nanotechnology Research Overview Tutorial (Slides)'>Molecular Nanotechnology Research Overview Tutorial (Slides),  U.S. Naval Surface Warfare Center</A>
+ As presented by David Forrest, U.S. Naval Surface Warfare Center at the 13th Foresight Conference: Advancing Beneficial Nanotechnology: Focusing on the Cutting Edge, &#8230;
+</div><div class='BoxMore'><a HREF="http://www10.NanoTechCafe.com/link/maint_link.php?category_id=10001">Submit</a> | <a HREF="http://www10.NanoTechCafe.com/link/display_links.php?category_id=10001">More Presentations</a>&nbsp;</div>
+</div><div class='Box'>
+	<div class='boxTitle'>Jobs</div><div class='BoxItem'><B><A HREF="http://NanoTechCafe.TechJobsCafe.com/job/CA-Real-Intent-Field-Applications-Engineer/8213.html" >Field Applications Engineer</a></B> for <i>Real Intent</i> at Sunnyvale, CA</div><div class='BoxItem'><A HREF="http://NanoTechCafe.TechJobsCafe.com/job/CA-Atrenta-Lead-Field-Applications-Engineers-Shanghai-ShenZen-China/8288.html" >Lead Field Applications Engineers (Shanghai & ShenZen, China)</a> for <i>Atrenta</i> at San Jose, CA</div><div class='BoxItem'><A HREF="http://NanoTechCafe.TechJobsCafe.com/job/CA-Mentor-Graphics-Emulation-Applications-Engineer/8292.html" >Emulation Applications Engineer</a> for <i>Mentor Graphics</i> at Fremont, CA</div><div class='BoxItem'><A HREF="http://NanoTechCafe.TechJobsCafe.com/job/CA-EDA-Careers-Sr-Software-Engineer-OREGON-Valley-Front-End/8250.html" >Sr Software Engineer OREGON/Valley Front End</a> for <i>EDA Careers</i> at San Jose, CA</div><div class='BoxItem'><A HREF="http:/!
+ /NanoTechCafe.TechJobsCafe.com/job/CA-Real-Intent-RD-Engineer/8255.html" >R&D Engineer</a> for <i>Real Intent</i> at Sunnyvale, CA</div><div class='BoxItem'><A HREF="http://NanoTechCafe.TechJobsCafe.com/job/CA-DCG-Systems-Sr.-Software-Engineer/8293.html" >Sr. Software Engineer</a> for <i>DCG Systems</i> at Fremont, CA</div><div class='BoxMore'><a HREF="http://NanoTechCafe.TechJobsCafe.com/job_seeker_register.php">Submit Resume</a> | <a HREF="http://NanoTechCafe.TechJobsCafe.com/employer.php">Post Jobs</a> | <a HREF="http://NanoTechCafe.TechJobsCafe.com/job_search_list.php?country%5B%5D=USA">More Jobs</a>&nbsp;</div>
+</div><div class='Box'>
+	<div class='boxTitle'>Books For Sale</div><div class='BoxItem'><a href="http://www10.NanoTechCafe.com/aws/Nanotechnology-Catalysis-Volumes-1-2-Nanostructure-Science-Technology-v.-1amp;2/44578/book.html" title='View the details of Nanotechnology in Catalysis Volumes 1 and 2 (Nanostructure Science and Technology) (v. 1&amp;2)'>Nanotechnology in Catalysis Volumes 1 and 2 (Nanostructure Science and Technology) (v. 1&amp;2)</A>.
+</div><div class='BoxItem'><a href="http://www10.NanoTechCafe.com/aws/Laung-Terng-Wang-Charles-E.-Stroud-Nur-A.-Touba-System-on-Chip-Test-Architectures-Nanometer-Design-Testability-Systems-Silicon/38151/book.html" title='View the details of System-on-Chip Test Architectures: Nanometer Design for Testability (Systems on Silicon)'>System-on-Chip Test Architectures: Nanometer Design for Testability (Systems on Silicon)</A>, by Laung-Terng Wang,Charles E. Stroud,Nur A. Touba.
+</div><div class='BoxMore'><a HREF="http://www10.NanoTechCafe.com/aws/book_list.php">More Books</a>&nbsp;</div>
+</div></div>
+</td>
+<td valign='top' style='width:310px;' >
+<font style='font-size:5px;' valign='top'><br></font>
+<div class='ColumnWide ColumnBorder' style='width:314px;'>
+<div class='Box'>
+	<div class='boxTitle'>Notices</div><div class='BoxMore'><a HREF="http://www10.NanoTechCafe.com/nbc/articles/display_news.php?section=Notices">Notices</a>&nbsp;</div>
+</div><div class='Box'>
+	<div class='boxTitle'>Nano In the News</div>
+<!--NEWSBOX:{Nano_In_News}:BEGIN-->--NEWS{Nano_In_News}--<br>
+      <A HREF="http://www10.NanoTechCafe.com/nl/recommend_it.php?enc_from_email=cHJlc3NAcml3LXN2LmNvbQ%3D%3D" >
+	<font size=-1 color='#0000CE'>Tell a Friend about Nano In the News</font></A>
+	<div class='BoxMore'><a HREF="https://secure.ibsystems.com/NANO/nbc/members/" title='Submit your News and Press Releases to NanoTechCafe.com'>Submit</a>  |   <a HREF="http://www10.NanoTechCafe.com/nbc/articles/display_news.php?section=Nano_In_News">More NANO In The News</a>&nbsp;</div>
+</div>
+<!--NEWSBOX:{Nano_In_News}:END--><div class='Box'>
+	<div class='boxTitle'>Featured Downloads</div><div class='BoxItem'><a href="http://www10.NanoTechCafe.com/link/Xerox-Corporation-Computational-Nanotechnology/11096/view.html" title='View  Download from Xerox Corporation : Computational Nanotechnology'>Computational Nanotechnology,  Xerox Corporation</A>
+ by Ralph C. Merkle, Xerox PARC
+ 
+ Abstract: The major research objectives in molecular nanotechnogy are the design, modeling, and fabrication of &#8230;
+</div>
+<div class='BoxItem'><a href="http://www10.NanoTechCafe.com/link/Nassda-Nanometer-Analysis-Improves-Timing-Accuracy-Synthesis-Driven-Flows/11160/view.html" title='View  Download from Nassda : Nanometer Analysis Improves Timing Accuracy in Synthesis-Driven Flows'>Nanometer Analysis Improves Timing Accuracy in Synthesis-Driven Flows,  Nassda</A>
+ As semiconductor manufacturers move to nanometer process technologies at 130nm and below, digital integrated circuit (IC) designers face increased risk of silicon &#8230;
+</div>
+<div class='BoxItem'><a href="http://www10.NanoTechCafe.com/link/NanoMEMS-Research-LLC-Nanoelectromechanical-Quantum-Circuits-Systems/11345/view.html" title='View  Download from NanoMEMS Research, LLC : Nanoelectromechanical Quantum Circuits and Systems'>Nanoelectromechanical Quantum Circuits and Systems,  NanoMEMS Research, LLC</A>
+ RF MEMS and Nanotechnology papers
+</div>
+<div class='BoxItem'><a href="http://www10.NanoTechCafe.com/link/reason-online-It-Small-Small-World/11094/view.html" title='View  Download from reason online : It&#39;s A Small, Small World'>It&#39;s A Small, Small World,  reason online</A>
+ "Nanotechnology" promises endless abundance courtesy of molecule-manipulating robots. Is that nuts? And do we want it? 
+ 
+ by Ed Regis
+</div>
+<div class='BoxItem'><a href="http://www10.NanoTechCafe.com/link/Evident-Technologies-EviWatt-Flexible-nanotechnology-single-multiple-junction-solar-cells/12003/view.html" title='View  Download from Evident Technologies : EviWatt - Flexible nanotechnology for single and multiple junction solar cells'>EviWatt - Flexible nanotechnology for single and multiple junction solar cells,  Evident Technologies</A>
+ Silicon-based solar cells are the most widely used form of solid-state energy conversion devices. These devices use commonly available silicon &#8230;
+</div>
+<div class='BoxItem'><a href="http://www10.NanoTechCafe.com/link/Nassda-Post-Layout-Analysis-Handles-Nanometer-Design-Challenges/11163/view.html" title='View  Download from Nassda : Post-Layout Analysis Handles Nanometer Design Challenges'>Post-Layout Analysis Handles Nanometer Design Challenges,  Nassda</A>
+ In today&#39;s competitive marketplace, designers of leading-edge integrated circuits (ICs) face unparalleled pressure to deliver first-time working &#8230;
+</div><div class='BoxMore'><a HREF="http://www10.NanoTechCafe.com/link/maint_link.php">Submit</a> | <a HREF="http://www10.NanoTechCafe.com/link/display_categories.php">More Downloads</a>&nbsp;</div>
+</div></div>
+  <TD valign='top' bgcolor='#EEEEEE'><TABLE id='DisplayBannerFOOTER' cellspacing=1 cellpadding=1 border=0 >
+</TABLE>
+</TD>
+	<TR>
+		<TD COLSPAN=3>
+
+		<TABLE CELLPADDING=0 CELLSPACING=5 WIDTH=100% BORDER=0>
+		<TR>
+			<TD BGCOLOR='#cccccc'>
+			<TABLE CELLPADDING=5 CELLSPACING=1 WIDTH=100% BORDER=0>
+			<TR>
+				<TD BGCOLOR='#FFFFFF'>
+				<TABLE CELLPADDING=2 CELLSPACING=1 WIDTH=100% BORDER=0 BGCOLOR=FFFFFF>
+				<TR VALIGN=TOP>
+					<TD><span style='font-size:10px;'>You are registered as: [press@riw-sv.com].<br><br>
+CafeNews is a service for NANO professionals. NanoTechCafe.com respects your online time and Internet privacy.  <A HREF="http://www10.NanoTechCafe.com/nl/newsletter_subscribe.php?action=Edit&ee=cHJlc3NAcml3LXN2LmNvbQ%3D%3D&sk=4bdd13"  style='text-decoration:underline'>Edit or Change</A> my newsletter's profile details. <A HREF="http://www10.NanoTechCafe.com/nl/unsubscribe.php?ee=cHJlc3NAcml3LXN2LmNvbQ%3D%3D&sk=4bdd13"  style='text-decoration:underline'>Unsubscribe</A> me from this newsletter. <br><br/>
+Copyright &copy; 2013, Internet Business Systems, Inc. &mdash; 595 Millich Dr., Suite 210 Campbell, CA 95008 &mdash; +1 (408) 850-9201 &mdash; All rights reserved. </span></TD>
+				</TR>
+				</TABLE>
+				</TD>
+			</TR>
+			</TABLE>
+			</TD>
+		</TR>
+		</TABLE>
+		</TD>
+	</TR>
+	</TABLE>
+	</TD>
+</TR>
+</TABLE>
+</CENTER>
+</HTML>
+

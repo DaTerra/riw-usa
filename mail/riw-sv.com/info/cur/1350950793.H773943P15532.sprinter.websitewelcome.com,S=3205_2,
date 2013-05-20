@@ -1,0 +1,62 @@
+Return-path: <akravchenko2013@student.hult.edu>
+Envelope-to: info@riw-sv.com
+Delivery-date: Mon, 22 Oct 2012 19:06:33 -0500
+Received: from co9ehsobe005.messaging.microsoft.com ([207.46.163.28]:1274 helo=co9outboundpool.messaging.microsoft.com)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:AES128-SHA:128)
+	(Exim 4.80)
+	(envelope-from <akravchenko2013@student.hult.edu>)
+	id 1TQS0v-00042B-Fj
+	for info@riw-sv.com; Mon, 22 Oct 2012 19:06:33 -0500
+Received: from mail74-co9-R.bigfish.com (10.236.132.248) by
+ CO9EHSOBE013.bigfish.com (10.236.130.76) with Microsoft SMTP Server id
+ 14.1.225.23; Tue, 23 Oct 2012 00:06:32 +0000
+Received: from mail74-co9 (localhost [127.0.0.1])	by mail74-co9-R.bigfish.com
+ (Postfix) with ESMTP id EE00A260094	for <info@riw-sv.com>; Tue, 23 Oct 2012
+ 00:06:31 +0000 (UTC)
+X-Forefront-Antispam-Report: CIP:207.46.198.81;KIP:(null);UIP:(null);IPV:NLI;H:CH1PRD0202HT015.namprd02.prod.outlook.com;RD:none;EFVD:NLI
+X-SpamScore: 3
+X-BigFish: PS3(z33fclz1453Izz1d77h1202h1d1ah1d2ahzzz2fh2a8h668h839h944hd25hf0ah107ah1220h1288h12a5h12a9h12bdh137ah13b6h1441h1504h1155h)
+Received-SPF: pass (mail74-co9: domain of student.hult.edu designates 207.46.198.81 as permitted sender) client-ip=207.46.198.81; envelope-from=akravchenko2013@student.hult.edu; helo=CH1PRD0202HT015.namprd02.prod.outlook.com ;.outlook.com ;
+Received: from mail74-co9 (localhost.localdomain [127.0.0.1]) by mail74-co9
+ (MessageSwitch) id 1350950790402069_24387; Tue, 23 Oct 2012 00:06:30 +0000
+ (UTC)
+Received: from CO9EHSMHS008.bigfish.com (unknown [10.236.132.251])	by
+ mail74-co9.bigfish.com (Postfix) with ESMTP id 56A164E0044	for
+ <info@riw-sv.com>; Tue, 23 Oct 2012 00:06:30 +0000 (UTC)
+Received: from CH1PRD0202HT015.namprd02.prod.outlook.com (207.46.198.81) by
+ CO9EHSMHS008.bigfish.com (10.236.130.18) with Microsoft SMTP Server (TLS) id
+ 14.1.225.23; Tue, 23 Oct 2012 00:06:29 +0000
+Received: from CH1PRD0202MB169.namprd02.prod.outlook.com ([169.254.7.239]) by
+ CH1PRD0202HT015.namprd02.prod.outlook.com ([10.42.83.83]) with mapi id
+ 14.15.0129.003; Tue, 23 Oct 2012 00:06:28 +0000
+From: Anton Kravchenko <akravchenko2013@student.hult.edu>
+To: "info@riw-sv.com" <info@riw-sv.com>
+Subject: difficulties with booking
+Thread-Topic: difficulties with booking
+Thread-Index: AQHNsLI/17ZfYJiZiUCcz9E7tXBABw==
+Date: Tue, 23 Oct 2012 00:06:28 +0000
+Message-ID: <96EFBCF5-47E7-44DA-B539-D864A13962D6@student.hult.edu>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [64.213.82.50]
+Content-Type: text/plain; charset="us-ascii"
+Content-ID: <8AF416A22BD9214D9D7488F97FBBFEA7@namprd02.prod.outlook.com>
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-OriginatorOrg: student.hult.edu
+
+Hello,
+
+I have been trying to register for the Russian Innovation Week 2012 since t=
+he last week, but I could not complete it because of some technical issues.=
+ Today, I saw the message that you are all booked up. If there is any way h=
+ow can I made my registration today, let me know. By the way, I am an MIB s=
+tudent from HULT International Business school and I have many people from =
+the school going to the conference.
+
+Regards,
+
+Anton Kravchenko=
+

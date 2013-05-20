@@ -1,0 +1,58 @@
+Return-path: <ilyag@i2bf.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Tue, 16 Oct 2012 14:41:55 -0500
+Received: from exprod5og101.obsmtp.com ([64.18.0.141]:43920)
+	by sprinter.websitewelcome.com with smtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.80)
+	(envelope-from <ilyag@i2bf.com>)
+	id 1TOD1X-00076d-Ak
+	for info@riw-sv.com; Tue, 16 Oct 2012 14:41:55 -0500
+Received: from mail-ie0-f177.google.com ([209.85.223.177]) (using TLSv1) by exprod5ob101.postini.com ([64.18.4.12]) with SMTP
+	ID DSNKUH24geht3cjLikLYOs1eMqd/MIOS9qxH@postini.com; Tue, 16 Oct 2012 12:41:55 PDT
+Received: by mail-ie0-f177.google.com with SMTP id e14so12227086iej.8
+        for <info@riw-sv.com>; Tue, 16 Oct 2012 12:41:53 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type
+         :x-gm-message-state;
+        bh=MR8PkqLtWsJPp6O9aWF7jRoNhMxAd/U7+w4+dl8ZMFA=;
+        b=nBBMuBI/h3nikCcdhkWFNJZr17R1Rr7mddFMegyJXrzR/v+YY55D/kbQdRHg2Rm/Oj
+         dzZDP+jzZFszYatxQhlzkxLlZ5pBc1dWAyX/96I15fKrMRfBTNz9cBcMw2ln5wqvNmJz
+         QPq6gV93pZ5Zjldt7cM2HSParih+xJuZfDqjD1zs87vo/Q01H4pDVzrUoq29eSCaWcZ1
+         Nj5stlssvLNDGI2g6JujywWWgm2N/FWqeat4aHZag4QELWK1dCEblAkkUTpAYZ3qJO16
+         IT3p5tgobiqvHN6lYn21cBOkrW1bDiWwoh/3ompuorQ64PiDEdjrK03l8UUm0CCczz+S
+         KQ0Q==
+MIME-Version: 1.0
+Received: by 10.50.190.230 with SMTP id gt6mr13042572igc.49.1350416513135;
+ Tue, 16 Oct 2012 12:41:53 -0700 (PDT)
+Received: by 10.50.15.162 with HTTP; Tue, 16 Oct 2012 12:41:53 -0700 (PDT)
+Date: Tue, 16 Oct 2012 23:41:53 +0400
+Message-ID: <CALf-H9RUCqJvWgSnV=9HCuFKemkRMJ4v0u1=AOWSBoed4t5V9w@mail.gmail.com>
+Subject: Registration
+From: Ilya Golubovich <ilyag@i2bf.com>
+To: info@riw-sv.com
+Content-Type: multipart/alternative; boundary=14dae93406bb90759e04cc3258d9
+X-Gm-Message-State: ALoCoQmK2N/ln9HBlXPfuXLtbp5AymAfefGg7kn/uJlYd5k12ysvenyTL57lXP7pNiFfHcVWxmTc
+
+--14dae93406bb90759e04cc3258d9
+Content-Type: text/plain; charset=ISO-8859-1
+
+Dear Sirs,
+
+I was trying to register for the RIW 2012, but the system says that that
+there is someone already registered under my email address.
+
+Can you, please, check what's the actual status?
+
+Thanks,
+
+Ilya Golubovich
+*Managing Partner, I2BF Global Ventures*
+
+--14dae93406bb90759e04cc3258d9
+Content-Type: text/html; charset=ISO-8859-1
+
+Dear Sirs,<div><br></div><div>I was trying to register for the RIW 2012, but the system says that that there is someone already registered under my email address.</div><div><br></div><div>Can you, please, check what&#39;s the actual status?</div>
+<div><br></div><div>Thanks,</div><div><br></div><div>Ilya Golubovich</div><div><b><i>Managing Partner, I2BF Global Ventures</i></b></div>
+
+--14dae93406bb90759e04cc3258d9--

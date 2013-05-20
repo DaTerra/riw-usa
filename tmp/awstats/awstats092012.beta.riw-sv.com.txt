@@ -1,0 +1,476 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201209 will be lost/reset.
+# Last config file used to build this data file was /home/riw2012/tmp/awstats/awstats.beta.riw-sv.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2008                
+POS_TIME 2699                
+POS_VISITOR 3671                
+POS_DAY 7123                
+POS_DOMAIN 7887                
+POS_LOGIN 8191                
+POS_ROBOT 8346                
+POS_WORMS 8550                
+POS_EMAILSENDER 8681                
+POS_EMAILRECEIVER 8824                
+POS_SESSION 8900                
+POS_SIDER 9111                
+POS_FILETYPES 11187               
+POS_DOWNLOADS 11496               
+POS_OS 11567               
+POS_BROWSER 11689               
+POS_SCREENSIZE 12095               
+POS_UNKNOWNREFERER 12169               
+POS_UNKNOWNREFERERBROWSER 12379               
+POS_ORIGIN 12584               
+POS_SEREFERRALS 12727               
+POS_PAGEREFS 12884               
+POS_SEARCHWORDS 13081               
+POS_KEYWORDS 13469               
+POS_MISC 2362                
+POS_ERRORS 13653               
+POS_CLUSTER 8047                
+POS_SIDER_404 13776               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20121001092035 38580 8240358 10267408313796
+FirstTime 20120901000133
+LastTime 20120930151115
+LastUpdate 20130104201750 38580 0 38579 0 0
+TotalVisits 191                 
+TotalUnique 83                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 84                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 92 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 219 909 3678154 0 2 0
+1 66 126 2960642 0 6 0
+2 14 58 964672 4 9 2840
+3 16 44 1198417 3 7 3550
+4 0 0 0 0 0 0
+5 0 0 0 3 4 2840
+6 25 100 2217188 2 4 1420
+7 30 89 1998454 3 8 39232
+8 47 143 4199477 2 6 2130
+9 31 147 4164128 4 14 27627
+10 116 417 5161726 7 15 7100
+11 549 2038 8727201 1 25 340147
+12 449 1594 10619352 4 23 218989
+13 280 1037 6117395 5 17 118529
+14 653 2339 5932803 10 12 34041
+15 675 2965 8254071 9 57 1929991
+16 920 4298 8639242 2 14 43494
+17 1014 3889 10687572 10 14 100414
+18 850 3458 13418749 7 37 453777
+19 1026 3629 10767240 28 58 601469
+20 545 2474 7741884 14 18 188478
+21 83 242 2486018 4 8 62133
+22 48 202 2872710 5 10 9258
+23 42 88 927751 2 6 2840
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 84
+50.131.222.2 6392 25723 56970998 20120926114100
+12.9.124.2 447 1698 17773312 20120919113633
+12.9.124.25 80 333 817353 20120910193542
+99.60.31.246 74 231 4628435 20120911193423
+63.150.59.166 67 222 4228768 20120917113435
+194.186.17.254 64 238 6603388 20120911083555
+66.87.118.113 52 238 112979 20120902113702
+24.130.217.7 47 101 1547184 20120903133456
+66.87.118.78 45 78 1775756 20120904015944
+174.253.226.172 33 76 455786 20120902002312
+77.108.80.170 32 78 1950019 20120920082419
+24.5.189.37 29 102 2776786 20120909202613
+186.247.147.160 28 75 284136 20120905214814
+98.210.212.71 27 64 1468158 20120926023816
+65.88.2.2 25 132 1179454 20120905145741
+66.87.119.194 19 103 1770046 20120905223924
+66.87.119.224 16 48 1526053 20120909230217
+91.77.143.238 15 47 1374100 20120911161840
+66.87.118.75 11 32 930674 20120901011228
+24.7.12.168 11 39 1053665 20120903220824
+69.181.24.201 11 13 69943 20120911233428
+98.197.41.28 11 37 994865 20120907073821
+66.87.118.146 7 13 166087 20120901204239
+169.252.4.21 7 37 1209539 20120928063500
+66.87.119.104 7 35 947917 20120908210633
+150.70.172.208 2 3 119012 20120907102937
+66.87.119.166 5 23 731779 20120906225748
+74.125.184.24 1 1 12627 20120907102851
+150.70.172.202 2 2 11882 20120913115033
+66.87.118.59 1 2 22984 20120902113249
+74.125.178.90 1 1 12627 20120906185121
+24.23.251.241 4 18 547458 20120909005249
+150.70.97.43 4 12 179619 20120911105813
+91.151.182.61 5 31 878296 20120907024126
+74.125.183.30 2 25 757541 20120906193943
+66.87.119.116 4 28 9126 20120902113406
+74.125.184.28 1 1 12656 20120907124125
+109.252.34.105 4 8 64263 20120913112615
+198.228.217.155 4 28 1087940 20120903085615
+173.212.140.21 4 11 283881 20120907214455
+209.85.224.105 2 4 50792 20120906193943
+150.70.64.195 5 7 77067 20120913114906
+201.79.189.146 5 21 34784 20120907122509
+66.87.119.207 1 2 62133 20120915014013
+174.254.226.74 2 5 64263 20120913011029
+150.70.75.37 3 5 45006 20120913115132
+150.70.172.105 0 6 106369 
+67.180.210.121 3 4 63553 20120918011848
+74.125.184.31 1 1 12656 20120907134701
+74.125.184.23 2 2 25283 20120907155345
+74.125.184.19 1 1 12627 20120907084421
+66.87.119.70 1 1 710 20120917022035
+74.125.183.25 1 1 12627 20120906193530
+198.228.217.159 5 33 881044 20120911153439
+74.125.184.26 1 1 12656 20120907123830
+74.125.178.30 1 1 12627 20120906193041
+74.125.183.31 1 1 53 20120906193709
+83.149.8.181 1 2 62133 20120922123250
+150.70.172.108 1 3 23699 20120904132708
+74.125.44.83 1 1 12656 20120909194845
+150.70.64.198 2 6 231197 20120911105113
+99.122.48.241 1 1 710 20120927213321
+174.234.68.122 5 22 30521 20120901030010
+70.90.100.129 2 3 62843 20120919101827
+74.125.184.44 1 1 12656 20120907120045
+74.125.18.155 4 28 844318 20120907094637
+46.22.7.72 5 34 895160 20120907094653
+201.79.105.120 6 32 1085021 20120903123222
+76.126.53.234 1 2 710 20120914224036
+150.70.75.29 6 8 67504 20120913114651
+66.87.119.229 1 2 62133 20120919225751
+74.125.178.26 1 1 710 20120918164750
+74.125.178.18 1 1 12656 20120909191540
+66.87.118.13 2 3 62843 20120916165635
+74.125.184.33 1 1 12627 20120907091717
+74.125.18.154 3 7 141478 20120907094637
+209.85.238.37 1 1 53 20120930151115
+198.228.216.15 4 7 64263 20120921193813
+66.87.119.89 4 28 1087198 20120901203856
+74.125.184.30 2 2 25283 20120907123100
+74.125.18.159 1 1 26296 20120907094637
+74.125.184.43 1 1 12627 20120907091647
+212.164.130.156 3 4 63553 20120919024444
+74.125.178.21 1 1 12656 20120909205051
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 26
+20120901 2546 9755 14797730 7
+20120902 423 1730 3789177 5
+20120903 1665 7205 17375336 6
+20120904 168 562 10257308 16
+20120905 540 2499 13955278 16
+20120906 963 4085 14029106 21
+20120907 605 1876 16772532 38
+20120908 130 416 3960633 5
+20120909 45 136 3973432 9
+20120910 376 1307 9963889 11
+20120911 151 573 12760338 18
+20120912 9 15 252792 5
+20120913 20 30 199889 9
+20120914 3 6 3550 2
+20120915 1 2 62133 1
+20120916 3 5 63553 2
+20120917 4 6 3550 3
+20120918 13 21 254922 4
+20120919 8 13 312795 5
+20120920 15 27 694058 1
+20120921 4 7 64263 1
+20120922 1 2 62133 1
+20120926 2 4 63553 2
+20120927 1 1 710 1
+20120928 1 2 62133 1
+20120930 1 1 53 1
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+us 7501 29653 109294757
+ru 129 442 11890912
+br 39 128 1403941
+jp 25 52 861355
+ca 4 11 283881
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+googlebot 204 3544873 20120930234636 37
+unknown 2 9178 20120905204444 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 19
+5mn-15mn 13
+30s-2mn 25
+0s-30s 103
+15mn-30mn 9
+2mn-5mn 13
+30mn-1h 9
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 54
+/typeface/dtr-light-webfont.woff 1545 1290620 2 0
+/typeface/dtr-reg-webfont.woff 1165 1393688 2 8
+/typeface/dtr-med-webfont.woff 1160 1268812 1 7
+/registration 611 10275154 17 16
+/agenda 416 5474432 12 8
+/home 381 3826916 21 36
+/organizers_and_partners 349 4313100 12 8
+/ 277 2867875 89 42
+/speakers_and_participants 211 2299743 2 5
+/agenda/day1 145 1182147 0 0
+/travel_info 140 1228592 3 10
+/teste 117 709157 1 0
+/media 112 595708 4 6
+/new 104 707028 0 0
+/agenda/day1_hahn_auditorium 87 733387 0 0
+/agenda/day2 70 915577 1 2
+/agenda/day2_hahn_auditorium 66 558859 0 0
+/typeface/dtr-light-webfont.eot 64 511707 2 2
+/typeface/dtr-med-webfont.eot 63 475960 2 4
+/typeface/dtr-reg-webfont.eot 63 464980 2 5
+/typeface/dtr-reg-webfont.ttf 55 940348 0 6
+/agenda/day2_grand_hall_1 53 342379 1 2
+/typeface/dtr-light-webfont.ttf 53 814272 0 0
+/typeface/dtr-med-webfont.ttf 51 839188 0 3
+/registration2 45 1001378 10 8
+/typeface/dtr-thin-webfont.eot 14 118490 0 0
+/typeface/dtr-italic-webfont.eot 14 140615 0 0
+/typeface/dtr-xthinit-webfont.eot 14 138955 0 0
+/typeface/dtr-medital-webfont.eot 14 146090 0 0
+/agenda/day1_general_hall_1 5 21784 0 0
+/typeface/dtr-thinital-webfont.eot 14 145920 0 0
+/site/index.php 6 26850 0 0
+/typeface/dtr-lightital-webfont.eot 14 146150 0 0
+/teste-5 6 25581 0 0
+/registration2. 1 5366 0 0
+/typeface/dtr-bold-webfont.eot 14 118055 0 0
+/typeface/dtr-blackit-webfont.eot 14 136045 0 0
+/typeface/dtr-black-webfont.eot 14 114210 0 0
+/registration/ 7 68937 0 0
+/typeface/dtr-xthin-webfont.eot 14 110495 0 1
+/crossdomain.xml 7 36607 0 0
+/t 1 5345 0 0
+/registration_beta 1 710 1 1
+/agenda/day2_grand_hall_2 37 232845 4 3
+/search 31 170631 0 4
+/googlee3aec3c90c1e89ff.html 3 159 2 2
+/app/contact_app.php 23 16845 0 1
+/agenda/day2_general_hall_1 1 8191 0 0
+/beta001 1 710 0 1
+/agenda/day1_general_hall_2 6 22659 0 0
+/registration/2 1 5270 0 0
+/agenda/entire 16 261194 0 0
+/agenda/day2_general_hall_2 1 8191 0 0
+/contact/san-jose-map 1 3008 0 0
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+eot 330 2767672 0 0
+css 3021 6172395 0 0
+png 12440 55287306 0 0
+ttf 159 2593808 0 0
+woff 3870 3953120 0 0
+php 29 43695 0 0
+html 287 2936971 0 0
+xml 7 36607 0 0
+jpg 84 47634 0 0
+js 5489 8008872 0 0
+Unknown 3016 34935042 0 0
+gif 1554 6951724 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 39 0 95934
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 7
+macosx 2890
+linuxandroid 636
+winxp 130
+winlong 282
+Unknown 21
+linux 107
+win7 26220
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 22
+msie6.0 52
+firefox15.0 21396
+chrome17.0.963.56 11
+android 636
+safari6.0 113
+safari5.1.6 62
+chrome12.0.742.112 6
+opera9.80 38
+safari5.1.7 13
+safari5.0.2 28
+msie8.0 530
+firefox14.0.1 199
+msie7.0 76
+safari5.1 281
+chrome21.0.1180.83 1102
+msie9.0 1312
+Unknown 21
+chrome19.0.1084.36 65
+chrome22.0.1221.1 31
+firefox15.0.1 1198
+safari 207
+chrome21.0.1180.89 2909
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+FeedFetcher-Google-CoOp;_(_http://www.google.com/coop/cse/cref) 20120918164750
+Google-Site-Verification/1.0 20120930151115
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+FeedFetcher-Google-CoOp;_(_http://www.google.com/coop/cse/cref) 20120918164750
+Google-Site-Verification/1.0 20120930151115
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 622 781
+From1 0 0
+From2 31 31
+From3 1 8
+From4 7044 29466
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 31 31
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://webcache.googleusercontent.com/search 1 8
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 9
+stempar+sciences 7
+riw-sv.com 3
+russian+innovation+week+2012+rusnano 2
+russian+innovation+week+2012+october 1
+hampton 1
+riw-sv 1
+second+russian+innovation+week+october+25+2012 1
+stempar+sciences+russian 1
+russian+innovation+week+2012 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 13
+stempar 8
+sciences 8
+russian 6
+innovation 5
+2012 5
+week 5
+riw-sv.com 3
+october 2
+rusnano 2
+hampton 1
+riw-sv 1
+25 1
+second 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 24 0
+206 16 515622
+500 4 2964
+404 32 117662
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 7
+/img/red_transparency.png 2 http://beta.riw-sv.com/css/style.css
+/img/btn_registration_rsvp.png 6 http://beta.riw-sv.com/css/style.css
+/img/speaker_victor_vekselberg_skolkovo.png 2 http://beta.riw-sv.com/speakers_and_participants
+/img/speaker_anatoly_chubais_rusnano.png 2 http://beta.riw-sv.com/speakers_and_participants
+/img/text_rollover_up_down.png 14 http://beta.riw-sv.com/css/style.css
+/img/riw2012-logo.png 4 -
+/img/speaker_igor_agamirzian_rvc.png 2 http://beta.riw-sv.com/speakers_and_participants
+END_SIDER_404

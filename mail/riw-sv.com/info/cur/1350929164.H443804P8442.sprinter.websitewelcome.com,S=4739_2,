@@ -1,0 +1,113 @@
+Return-path: <bdevani@ebay.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Mon, 22 Oct 2012 13:06:04 -0500
+Received: from rhv-mipot-002.corp.ebay.com ([216.33.244.7]:60116)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <bdevani@ebay.com>)
+	id 1TQMO4-0002BW-0b
+	for info@riw-sv.com; Mon, 22 Oct 2012 13:06:04 -0500
+DomainKey-Signature: s=corp; d=ebay.com; c=nofws; q=dns;
+  h=X-EBay-Corp:X-IronPort-AV:Received:Received:From:To:
+   Subject:Thread-Topic:Thread-Index:Date:Message-ID:
+   Accept-Language:Content-Language:X-MS-Has-Attach:
+   X-MS-TNEF-Correlator:user-agent:x-originating-ip:
+   Content-Type:MIME-Version:X-CFilter-Loop;
+  b=CLoE6Bu+e7yYhLkZa2lOqo2yto8igO8DM/5XD4krBHJ6xCfqARMOIcH5
+   kEKuokue9geUllnwXRPBL7uZv3VxTRrTquId2/snZB+bMvPC5OOu09Lku
+   11UdHMksqoz6399;
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=ebay.com; i=bdevani@ebay.com; q=dns/txt; s=corp;
+  t=1350929164; x=1382465164;
+  h=from:to:subject:date:message-id:mime-version;
+  bh=ORpRruLkSoWTd5Remr8Shj5qdT/bWMXVzVZRqhDS5fM=;
+  b=uLdV/HvUNfJJeHa6w3eypM2hGu0XjQJSErAzRGdkIzfYFMpdYrpoBA65
+   HltQYra77U7eXHZ6xmyeSBvHw8TVN8WR5QNErTpWA2/UnXuhN7FHuiJFv
+   8w01aTx9WJ6XXIl;
+X-EBay-Corp: Yes
+X-IronPort-AV: E=Sophos;i="4.80,631,1344236400"; 
+   d="scan'208,217";a="87550302"
+Received: from rhv-vtenf-002.corp.ebay.com (HELO RHV-EXMHT-006.corp.ebay.com) ([10.112.113.53])
+  by rhv-mipot-002.corp.ebay.com with ESMTP; 22 Oct 2012 11:06:03 -0700
+Received: from RHV-EXRDA-S12.corp.ebay.com ([fe80::cd6d:dcc6:c43:4e92]) by
+ RHV-EXMHT-006.corp.ebay.com ([fe80::35ea:75f7:a95d:3f89%16]) with mapi id
+ 14.02.0318.001; Mon, 22 Oct 2012 11:06:01 -0700
+From: "Devani, Bhavna" <bdevani@ebay.com>
+To: "info@riw-sv.com" <info@riw-sv.com>
+Subject: attendance at Thursday's gathering
+Thread-Topic: attendance at Thursday's gathering
+Thread-Index: AQHNsH/kXilBRqbTM0+rgoMafPNQHA==
+Date: Mon, 22 Oct 2012 18:06:01 +0000
+Message-ID: <55290050CBE25143891DCDE7419A496AA6FB66@RHV-EXRDA-S12.corp.ebay.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+user-agent: Microsoft-MacOutlook/14.2.3.120616
+x-originating-ip: [10.245.27.242]
+Content-Type: multipart/alternative;
+	boundary="_000_55290050CBE25143891DCDE7419A496AA6FB66RHVEXRDAS12corpeb_"
+MIME-Version: 1.0
+X-CFilter-Loop: Reflected
+
+--_000_55290050CBE25143891DCDE7419A496AA6FB66RHVEXRDAS12corpeb_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Our emerging markets Mobile team is currently focusing on Russia. We'd love=
+ to attend Russian Innovation Week and become aware of the current activity=
+ in the current start-up scene, especially as it pertains to social commerc=
+e and related needs.
+
+Please do let me know if there are additional invitations available.
+
+Thank you
+
+Bhavna Devani
+
+Product Manager | eBay Mobile Emerging Markets
+
+--_000_55290050CBE25143891DCDE7419A496AA6FB66RHVEXRDAS12corpeb_
+Content-Type: text/html; charset="us-ascii"
+Content-ID: <84186868068680479C3C0AC4D03DC0A4@corp.ebay.com>
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+</head>
+<body style=3D"word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-lin=
+e-break: after-white-space; color: rgb(95, 95, 95); ">
+<div style=3D"font-family: 'Gill Sans', sans-serif; font-size: 14px; ">Hi,<=
+/div>
+<div style=3D"font-family: 'Gill Sans', sans-serif; font-size: 14px; "><br>
+</div>
+<div style=3D"font-family: 'Gill Sans', sans-serif; font-size: 14px; ">Our =
+emerging markets Mobile team is currently focusing on Russia. We'd love to =
+attend Russian Innovation Week and become aware of the current activity in =
+the current start-up scene, especially
+ as it pertains to social commerce and related needs.&nbsp;</div>
+<div style=3D"font-family: 'Gill Sans', sans-serif; font-size: 14px; "><br>
+</div>
+<div style=3D"font-family: 'Gill Sans', sans-serif; font-size: 14px; ">Plea=
+se do let me know if there are additional invitations available.&nbsp;</div=
+>
+<div style=3D"font-family: 'Gill Sans', sans-serif; font-size: 14px; "><br>
+</div>
+<div style=3D"font-family: 'Gill Sans', sans-serif; font-size: 14px; ">Than=
+k you</div>
+<div style=3D"font-family: 'Gill Sans', sans-serif; font-size: 14px; "><br>
+</div>
+<div style=3D"font-family: 'Gill Sans', sans-serif; font-size: 14px; ">Bhav=
+na Devani</div>
+<div style=3D"font-family: 'Gill Sans', sans-serif; font-size: 14px; "><br>
+</div>
+<div><span style=3D"font-size: 12px; "><font face=3D"Century Gothic">Produc=
+t Manager |&nbsp;eBay Mobile Emerging Markets&nbsp;</font></span></div>
+</body>
+</html>
+
+--_000_55290050CBE25143891DCDE7419A496AA6FB66RHVEXRDAS12corpeb_--

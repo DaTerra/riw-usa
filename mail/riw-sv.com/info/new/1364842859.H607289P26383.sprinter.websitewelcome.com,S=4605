@@ -1,0 +1,83 @@
+Return-path: <silvanalrp@ig.com.br>
+Envelope-to: info@riw-sv.com
+Delivery-date: Mon, 01 Apr 2013 14:00:59 -0500
+Received: from mail-la0-f48.google.com ([209.85.215.48]:53078)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <silvanalrp@ig.com.br>)
+	id 1UMjyV-0006qo-An
+	for info@riw-sv.com; Mon, 01 Apr 2013 14:00:59 -0500
+Received: by mail-la0-f48.google.com with SMTP id fq13so2358084lab.7
+        for <info@riw-sv.com>; Mon, 01 Apr 2013 12:00:57 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=x-received:message-id:reply-to:from:to:subject:date:mime-version
+         :content-type:content-transfer-encoding:x-priority:x-msmail-priority
+         :x-mailer:x-mimeole:x-gm-message-state;
+        bh=in51lNulmIMV7lILYJwx+b09idEouqmTfOJIhAuWF7k=;
+        b=d+UvRFEH7sBOZ6SL5RYm/UdK1FumtYtb2hyk+1NsMBkPONrkasrj/XYl2YiPVJeTmM
+         1xjp4oIAoWig0TEGUr+kxsyz6+nuOGvfEOYavI6uCvPF37hN5SBUwslc269/m09vg/Ia
+         M/wYFGnichsvSW0urDoDNPJtSsSVp5jEvY9bZNNDLxyIv3RnoeK/WBZ3/1kIoe2BHbiV
+         SAMvwqEa66s911pR3De50oP8lsw9hXT2OzAV7KCVnP5B/jIZkdA+vzllkP3pEPzJd+Vv
+         X1yKkF6QOu2d5Mc5yi5+eKwU7VUlAxjpRLkHhmbYdaykPN+GIIF0H41Q8vd6/bKD7X5z
+         6U2g==
+X-Received: by 10.152.122.100 with SMTP id lr4mr6274135lab.28.1364842856994;
+        Mon, 01 Apr 2013 12:00:56 -0700 (PDT)
+Received: from Unknown ([109.122.2.83])
+        by mx.google.com with ESMTPS id c10sm5890072lbu.11.2013.04.01.12.00.50
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Mon, 01 Apr 2013 12:00:56 -0700 (PDT)
+Message-ID: <5B675F437AF540219FC4FEED0BAFAFC7@krkenq>
+Reply-To: =?windows-1251?B?0e7y8PPk7ejq6CDv7iDw4OHu8uUg8SDv5fDx?=
+	=?windows-1251?B?7u3g6/zt++zoIOTg7e377Og=?= <tomiko1990rossean@ngs.ru>
+From: "=?windows-1251?B?0e7y8PPk7ejq6CDv7iDw4OHu8uUg8SDv5fDx?==?windows-1251?B?7u3g6/zt++zoIOTg7e377Og=?=" <silvanalrp@ig.com.br>
+To: =?windows-1251?B?xOjt4CDZ5fDh4Oru4uA=?= <vinodhjerald@escortcorp.com>
+Subject: =?windows-1251?B?4Ory8+Dr/O3g/yDs7uTl6/wg8+Pw7ucg5Ov/?=
+	=?windows-1251?B?IOrg5uTu6SDo7fTu8Ozg9uju7e3u6SDx6PHy?=
+	=?windows-1251?B?5ez7IO7h8ODh7vLq6CDv5fDx7u3g6/zt+/Ug?=
+	=?windows-1251?B?5ODt7fv1ICjI0c/E7Sk=?=
+Date: Tue, 2 Apr 2013 00:00:46 +0500
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="windows-1251";
+	reply-type=original
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Windows Live Mail 16.4.3505.912
+X-MimeOLE: Produced By Microsoft MimeOLE V16.4.3505.912
+X-Gm-Message-State: ALoCoQlXZfvAhjZYYqTy51OYVJTcTVhuPpeH6O2yHBaiojhGWEe5dSnLCWXFFAe/+cfK3RdSenLe
+
+=C2 =F1=EE=E2=F0=E5=EC=E5=ED=ED=EE=EC =EC=E8=F0=E5 =E8=ED=F4=EE=F0=EC=E0=F6=
+=E8=FF - =F6=E5=ED=ED=FB=E9 =F0=E5=F1=F3=F0=F1, =E8 =E5=E5 =E7=E0=F9=E8=F2=
+=E0 =EE=E4=ED=E0 =E8=E7 =E2=E0=E6=ED=E5=E9=F8=E8=F5 =E7=E0=E4=E0=F7.
+
+8 =E8 9 =E0=EF=F0=E5=EB=FF =E2 =D1=E0=ED=EA=F2-=CF=E5=F2=E5=F0=E1=F3=F0=E3=
+=E5 =E1=F3=E4=E5=F2 =EF=F0=EE=F5=EE=E4=E8=F2=FC =F3=ED=E8=EA=E0=EB=FC=ED=FB=
+=E9 =F1=E5=EC=E8=ED=E0=F0, =E2 =F0=E0=EC=EA=E0=F5 =EA=EE=F2=EE=F0=EE=E3=EE
+=E1=F3=E4=F3=F2 =F0=E0=F1=F1=EC=EE=F2=F0=E5=ED=FB =E2=E0=E6=ED=FB=E5 =E2=EE=
+=EF=F0=EE=F1=FB =E7=E0=F9=E8=F2=FB =EA=EE=ED=F4=E8=E4=E5=ED=F6=E8=E0=EB=FC=
+=ED=EE=E9 =E8=ED=F4=EE=F0=EC=E0=F6=E8=E8 =F4=E8=E7=E8=F7=E5=F1=EA=E8=F5 =E8
+=FE=F0=E8=E4=E8=F7=E5=F1=EA=E8=F5 =EB=E8=F6. =D1=F0=E5=E4=E8 =F2=E5=EC =F1=
+=E5=EC=E8=ED=E0=F0=E0:
+
+=95 =CF=F0=E0=E2=EE=E2=FB=E5 =EE=F1=ED=EE=E2=FB =E7=E0=F9=E8=F2=FB =EA=EE=
+=ED=F4=E8=E4=E5=ED=F6=E8=E0=EB=FC=ED=EE=E9 =E8=ED=F4=EE=F0=EC=E0=F6=E8=E8
+=95 =D2=E5=F5=ED=E8=F7=E5=F1=EA=E8=E5 =F1=F0=E5=E4=F1=F2=E2=E0 =E7=E0=F9=E8=
+=F2=FB =EF=E5=F0=F1=EE=ED=E0=EB=FC=ED=FB=F5 =E4=E0=ED=ED=FB=F5
+=95 =CF=EE=F0=FF=E4=EE=EA =EF=F0=EE=E2=E5=E4=E5=ED=E8=FF =EA=E0=E4=F0=EE=E2=
+=FB=F5 =EC=E5=F0=EE=EF=F0=E8=FF=F2=E8=E9 =EF=EE =E7=E0=F9=E8=F2=E5 =EF=E5=
+=F0=F1=EE=ED=E0=EB=FC=ED=FB=F5 =E4=E0=ED=ED=FB=F5
+=95 =C8=ED=F4=EE=F0=EC=E0=F6=E8=FF, =EA=EE=F2=EE=F0=E0=FF =ED=E5 =EC=EE=E6=
+=E5=F2 =F1=EE=F1=F2=E0=E2=EB=FF=F2=FC =EA=EE=EC=EC=E5=F0=F7=E5=F1=EA=F3=FE=
+ =F2=E0=E9=ED=F3 =E8 =E8=ED=F4=EE=F0=EC=E0=F6=E8=FF,
+=EA=EE=F2=EE=F0=E0=FF =EE=E1=FF=E7=E0=ED=E0 =FF=E2=EB=FF=F2=FC=F1=FF =EA=EE=
+=EC=EC=E5=F0=F7=E5=F1=EA=EE=E9 =F2=E0=E9=ED=EE=E9.
+=95 =CE=F2=E2=E5=F2=F1=F2=E2=E5=ED=ED=EE=F1=F2=FC =E7=E0 =F0=E0=E7=E3=EB=E0=
+=F8=E5=ED=E8=E5 =EA=EE=EC=EC=E5=F0=F7=E5=F1=EA=EE=E9 =F2=E0=E9=ED=FB, =E0=
+ =F2=E0=EA=E6=E5 =EC=ED=EE=E3=EE=E5 =E4=F0=F3=E3=EE=E5.
+
+
+=D0=E5=E3=E8=F1=F2=F0=E0=F6=E8=FF =EF=EE =F2=E5=EB=E5=F4=EE=ED=F3: (=EF=E5=
+=F2=E5=F0=E1=F3=F0=E3) 9--8.6'- 8.2 -- "8.. 1=20

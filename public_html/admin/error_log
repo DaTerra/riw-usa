@@ -1,0 +1,27 @@
+[21-Sep-2012 18:27:47] PHP Fatal error:  Cannot redeclare class DB in /home/riw2012/public_html/includes/db.class.php on line 10
+[21-Sep-2012 18:28:05] PHP Fatal error:  Cannot redeclare class DB in /home/riw2012/public_html/includes/db.class.php on line 10
+[21-Sep-2012 18:28:17] PHP Fatal error:  Cannot redeclare class DB in /home/riw2012/public_html/includes/db.class.php on line 10
+[21-Sep-2012 18:28:23] PHP Fatal error:  Cannot redeclare class DB in /home/riw2012/public_html/includes/db.class.php on line 10
+[21-Sep-2012 18:28:50] PHP Fatal error:  Cannot redeclare class DB in /home/riw2012/public_html/includes/db.class.php on line 10
+[21-Sep-2012 18:28:59] PHP Fatal error:  Cannot redeclare class DB in /home/riw2012/public_html/includes/db.class.php on line 10
+[21-Sep-2012 18:29:05] PHP Fatal error:  Cannot redeclare class DB in /home/riw2012/public_html/includes/db.class.php on line 10
+[21-Sep-2012 18:29:37] PHP Fatal error:  Cannot redeclare class DB in /home/riw2012/public_html/includes/db.class.php on line 10
+[21-Sep-2012 18:30:02] PHP Fatal error:  Cannot redeclare class DB in /home/riw2012/public_html/includes/db.class.php on line 10
+[21-Sep-2012 18:30:30] PHP Fatal error:  Cannot redeclare class DB in /home/riw2012/public_html/includes/db.class.php on line 10
+[21-Sep-2012 18:30:33] PHP Fatal error:  Cannot redeclare class DB in /home/riw2012/public_html/includes/db.class.php on line 10
+[21-Sep-2012 18:31:28] PHP Fatal error:  Cannot redeclare class DB in /home/riw2012/public_html/includes/db.class.php on line 10
+[21-Sep-2012 18:35:30] PHP Fatal error:  Cannot redeclare class DB in /home/riw2012/public_html/includes/db.class.php on line 10
+[21-Sep-2012 18:38:18] PHP Fatal error:  Cannot redeclare class DB in /home/riw2012/public_html/includes/db.class.php on line 10
+[21-Sep-2012 18:39:24] PHP Fatal error:  Cannot redeclare class DB in /home/riw2012/public_html/includes/db.class.php on line 10
+[21-Sep-2012 18:39:27] PHP Fatal error:  Cannot redeclare class DB in /home/riw2012/public_html/includes/db.class.php on line 10
+[21-Sep-2012 18:39:29] PHP Fatal error:  Cannot redeclare class DB in /home/riw2012/public_html/includes/db.class.php on line 10
+[21-Sep-2012 18:39:30] PHP Fatal error:  Cannot redeclare class DB in /home/riw2012/public_html/includes/db.class.php on line 10
+[21-Sep-2012 18:39:31] PHP Fatal error:  Cannot redeclare class DB in /home/riw2012/public_html/includes/db.class.php on line 10
+[21-Sep-2012 18:39:32] PHP Fatal error:  Cannot redeclare class DB in /home/riw2012/public_html/includes/db.class.php on line 10
+[21-Sep-2012 18:39:35] PHP Fatal error:  Cannot redeclare class DB in /home/riw2012/public_html/includes/db.class.php on line 10
+[21-Sep-2012 18:40:02] PHP Fatal error:  Cannot redeclare class DB in /home/riw2012/public_html/includes/db.class.php on line 10
+[21-Sep-2012 18:40:05] PHP Fatal error:  Cannot redeclare class DB in /home/riw2012/public_html/includes/db.class.php on line 10
+[26-Sep-2012 23:29:35] PHP Fatal error:  Call to undefined function  sistema_paginacao2() in /home/riw2012/public_html/admin/modulos/invitation.php on line 94
+[26-Sep-2012 23:29:45] PHP Fatal error:  Call to undefined function  sistema_paginacao2() in /home/riw2012/public_html/admin/modulos/invitation.php on line 94
+[12-Oct-2012 11:20:02] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/riw2012/public_html/includes/db.class.php on line 41
+[12-Oct-2012 11:20:02] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/riw2012/public_html/includes/db.class.php on line 363

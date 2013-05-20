@@ -1,0 +1,73 @@
+Return-path: <ejahjerry77@gmail.com>
+Envelope-to: press@riw-sv.com
+Delivery-date: Mon, 04 Mar 2013 06:28:56 -0600
+Received: from mail-wg0-f65.google.com ([74.125.82.65]:46805)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <ejahjerry77@gmail.com>)
+	id 1UCUVk-0004SU-LC
+	for press@riw-sv.com; Mon, 04 Mar 2013 06:28:56 -0600
+Received: by mail-wg0-f65.google.com with SMTP id e12so1049741wge.8
+        for <press@riw-sv.com>; Mon, 04 Mar 2013 04:28:50 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:x-received:sender:date:x-google-sender-auth:message-id
+         :subject:from:to:content-type;
+        bh=LbIw1LpYHVZtB03GTQ3WTQ1OjGJQ/9rgDcNW8Lm3KVk=;
+        b=YQpQAHTJIS+MyXbRnhHUHLPjIAi5aL8vb9qyqayV6tszz6jFSWmkycXJOwZ//sR3Mz
+         94n3byq1hG+CqX35q6NM5mCqZcw3nnoXR5RKcRuazggMUY5oKovLQ39lzukHeFk/f2r7
+         88j2nwBdpCfneGNz1qnhehO0igIVoO/pnZVh2Xxr5cJTqr3GN2d8pZkGDw9Atzkw2zA0
+         54Bmsh242X8VB3Kg1fWKc+Oa8z2UUXlBugM8gmHFTjRLcqLx6I126uDbfjRx4Nu9i3+4
+         d4M8fDYR67NtYFX0iPJc+5o1vTqFVH6i5g6HRhomx+I3Sxo14hJxKuaaektQI7v1t+g4
+         j+wQ==
+MIME-Version: 1.0
+X-Received: by 10.194.9.166 with SMTP id a6mr31366817wjb.2.1362398322870; Mon,
+ 04 Mar 2013 03:58:42 -0800 (PST)
+Sender: ejahjerry77@gmail.com
+Received: by 10.216.58.202 with HTTP; Mon, 4 Mar 2013 03:58:42 -0800 (PST)
+Date: Mon, 4 Mar 2013 11:58:42 +0000
+X-Google-Sender-Auth: gYvictm79TAYOz3I7D5DmCylfWw
+Message-ID: <CAFv=BanE5GR5qC_1NGpek61-V_zjUGZ6AOj_L+POO5whw3WBKg@mail.gmail.com>
+Subject: =?KOI8-R?B?8SDQydvVLCDe1M/C2SDTz8/C3cnU2CDXwc0sIN4=?=
+	=?KOI8-R?B?1M8g19kgzsHIz8TJ1MXT2CDCxc7FxsnDycHSz80gz8I=?=
+	=?KOI8-R?B?3dXAINPVzc3VINPFzc7BxMPB1NggzcnMzMnPzs/XINc=?=
+	=?KOI8-R?B?z9PFzdjTz9Qg0NHU2MTF09HUINDR1Ngg1NnT0d4gxM8=?=
+	=?KOI8-R?B?zMzB0s/XICgkIDE3LDg1NSwwMDAuMDApLCDLz9TP0tnKIMLZzCDPxM8=?=
+	=?KOI8-R?B?wtLFziDJIMfP1M/XIMsg19nQ1dPL1SDXINfB2yDT3sXUIA==?=
+	=?KOI8-R?B?1yDXwdvFyiDT1NLBzsUuIO3FztEg2s/X1dQg5NbF0tLJ?=
+	=?KOI8-R?B?IPDP3sXUztnKIEVqYWgsIMvP1M/S2cUgwtXE1dQg0M/Nz8c=?=
+	=?KOI8-R?B?wdTYINfBzSDXIMvB3sXT1NfFINDSwcvUycvVwN3Fx88=?=
+	=?KOI8-R?B?IMDSydPUwSwg3tTPwtkg0M/M1d7J1Ngg3NTVINPVzc3V?=
+	=?KOI8-R?B?INcg18Hbxcog09TSwc7FLiDz0s/ezs8g18XSztXU2CDN?=
+	=?KOI8-R?B?zsUg187P19gg0M/E1NfF0sTJ1Ngg18Hb1SDMyd7O1cA=?=
+	=?KOI8-R?B?IMnOxs/SzcHDycAg1yDLwd7F09TXxSDCxc7FxsnDycE=?=
+	=?KOI8-R?B?0sEsIM7J1sUgyc7Gz9LNwcPJwCDOxc/CyM/Eyc3PINM=?=
+	=?KOI8-R?B?0s/ezs86IDEuIPfB28Ug0M/Mzs/FIMnN0SwgMi4g98HbIMTP?=
+	=?KOI8-R?B?zSDJzMkgz8bJ0yDBxNLF0ywgMy4g98HbINDSwdfJzNjO2Q==?=
+	=?KOI8-R?B?yiDOz83F0iDUxczFxs/OwSwgNC4g98HbINfP2tLB09QgySA=?=
+	=?KOI8-R?B?0M/MLCA1LiD3wdsg0s/EINrBztHUycogySDTxc3Fys7PxSA=?=
+	=?KOI8-R?B?0M/Mz9bFzsnFLCA2LiD3wdsgzMneztnKIMHE0sXTINzMxQ==?=
+	=?KOI8-R?B?y9TSz87Oz8og0M/e1NksINTByyDe1M8g0SDNz8fVIMTB?=
+	=?KOI8-R?B?1Ngg18HNIMLPzMXFINDPxNLPws7VwCDJzsbP0s3Bw8k=?=
+	=?KOI8-R?B?wCDJINDSz8PFxNXS2Swgy8/Uz9LZxSDX2SDC1cTF1MUg?=
+	=?KOI8-R?B?08zFxM/XwdTYLCDe1M/C2SDQz8zV3snU2CDc1NUg09U=?=
+	=?KOI8-R?B?zc3VIM7BINfB2yDT3sXULiDz0MHTycLPIMLPzNjbz8UsIA==?=
+	=?KOI8-R?B?0SDWxNUg18HbxcfPINPSz97Oz8fPIM/U18XUwS4g8yDV?=
+	=?KOI8-R?B?18HWxc7Jxc0sIPDP3sXUztnKIOTWxdLSySBFamFoIEUtbWFpbDo=?=
+	=?KOI8-R?B?IGJqZXJyZWphaEBnbWFpbC5jb20=?=
+From: ejah jerry <bjerrejah@gmail.com>
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary=047d7b450e0a13d25104d718149f
+Bcc: press@riw-sv.com
+
+--047d7b450e0a13d25104d718149f
+Content-Type: text/plain; charset=ISO-8859-1
+
+
+
+--047d7b450e0a13d25104d718149f
+Content-Type: text/html; charset=ISO-8859-1
+
+<div dir="ltr"><br></div>
+
+--047d7b450e0a13d25104d718149f--

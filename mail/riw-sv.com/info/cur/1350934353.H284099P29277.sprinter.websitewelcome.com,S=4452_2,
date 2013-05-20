@@ -1,0 +1,72 @@
+Return-path: <azabrovskaya@google.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Mon, 22 Oct 2012 14:32:33 -0500
+Received: from mail-lb0-f177.google.com ([209.85.217.177]:56853)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <azabrovskaya@google.com>)
+	id 1TQNjl-0007ba-1P
+	for info@riw-sv.com; Mon, 22 Oct 2012 14:32:33 -0500
+Received: by mail-lb0-f177.google.com with SMTP id gi11so2196553lbb.8
+        for <info@riw-sv.com>; Mon, 22 Oct 2012 12:32:31 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=date:from:to:message-id:subject:mime-version:content-type
+         :content-transfer-encoding:content-disposition:precedence
+         :x-autoreply:auto-submitted:x-system-of-record;
+        bh=qS2E6whvN2679gxv/N5PMLs0X3TF+IpIKZ567fmwTW0=;
+        b=lnu0Je9GVxxK0aE7441v2mazB24h1YXGvo5v0s/LGOhnhRWAaUB780ktA/2djoieZ3
+         kciOVy84cD0kbyQSWyYns1cwgLFu9pUk9vsl/lsUIWVk8SISPH61q169NlMdbAXy2b4d
+         kwVXh0V8iEyGfq/wlNWrgPaZJrNXBGdv8zjenD3BeO9rYTG4Wts3pRoMjuvKbQtj6wFM
+         FDnCwhLc1myu+mx2DEtbeOFAyI37ggopNZynM2kVVEHhcKhHDTwIrLFVPr4qWF15UKZG
+         KzwdG+ZsSBqWDtV9OeVopoaMWxR7v2iCOMZXSt50FxADR9sieEn7gCFwgYuHe5RNbH3z
+         yMAg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=date:from:to:message-id:subject:mime-version:content-type
+         :content-transfer-encoding:content-disposition:precedence
+         :x-autoreply:auto-submitted:x-system-of-record:x-gm-message-state;
+        bh=qS2E6whvN2679gxv/N5PMLs0X3TF+IpIKZ567fmwTW0=;
+        b=FYzICxvDYvmrJqKLzoq4Ks5cZD2VbVk9sAk/Fv9oL/Q7imjocbaZQ4ece1/Ole24gL
+         Io8OEnpqkbBqD2DYcESIkF4WDWJUNragWN6aajz8UGrUE0j/rlaYCID0YtOc15ZkGJC0
+         bFWsRN+E4zLbmAIfkqmmrxjbhEZHjBnHrg9+pduMr6AO1IrX6s2Rz+9KPZGu458mpV25
+         HaQ63COUWs/vakF5caf4dN54QnD0KTcGtouspPaovj/0dzBWAYRHbXAHZXMj5075XUAS
+         hG4pv+ryJ2cPZCdckyHMWRB2qnb088/W+M79yr/zYxNlz6ipoB3mLf9kXM3xcflbHi+J
+         w0vA==
+Received: by 10.152.105.103 with SMTP id gl7mr9071906lab.10.1350934350811;
+        Mon, 22 Oct 2012 12:32:30 -0700 (PDT)
+Date: Mon, 22 Oct 2012 12:32:30 -0700
+From: "Alla Zabrovskaya" <azabrovskaya@google.com>
+To: info@riw-sv.com
+Message-ID: <CAJp__WADqTB6Ms8TfUqXSxDZjw69mMf5d8+fd6jUdpfTH8q0VQ@mail.gmail.com>
+Subject: =?KOI8-R?Q?Oct_20-30_Travelling/=F7_=CB=CF=CD=C1?= =?KOI8-R?Q?=CE=C4=C9=D2=CF=D7=CB=C5_20-30_=CF=CB=D4=D1=C2=D2=D1_Re:_?= =?KOI8-R?Q?Don't_Miss_Out!_Russian_Innovation_Week_Invite_Reminder?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=KOI8-R
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+Precedence: bulk
+X-Autoreply: yes
+Auto-Submitted: auto-replied
+X-System-Of-Record: true
+X-Gm-Message-State: ALoCoQmSXZO7+vi4jdDx2s4b2Pee1slAB7UY24Q5E4q891xGP0NXaeZNBVxB0bxXZvtn10lG5FfX/YdpEEqrcHY8XUbT5D0QacZch6Q7qIyCl4bpfHPbBCUWNCK1SsqMRI3iSvlLVYGJp7n1pz7kEqO9j/cL7JPTXG3iLoVGvPalo6y+p1+BND9VrCb2IAaHgOpj7BlG2LQW
+
+VGhhbmsgeW91IGZvciB5b3VyIGxldHRlciEKCkkgYW0gdHJhdmVsbGluZyB0byBVUyBPY3QgMjAt
+MzAsIDIwMTIgd2l0aCBsaW1pdGVkIGFjY2VzcyB0byBteQptYWlsYm94IGFuZCAxMSBob3VycyBv
+ZiB0aW1lIGRpZmZlcmVuY2UuIFBsZWFzZSBzZW5kIG1lZGlhIGlucXVpcmllcwp0byBvdXIgUFIg
+YWdlbmN5IGF0IG1vc2Nvdy5nb29nbGVAa2V0Y2h1bS5jb20uIFRoYW5rcyEKCvPQwdPJws8g2sEg
+98HbxSDQydPYzc8hCvEg1yDLz83BzsTJ0s/Xy8Ug1yDz++Eg0yAyMCDQzyAzMCDPy9TRwtLRLCDV
+IM3FztEgwtXExdQgz8fSwc7J3sXOztnKCsTP09TV0CDLINDP3tTFIMkg0sHazsnDwSDXzyDX0sXN
+xc7JIDExIN7B08/XINMg7c/Ty9fPyi4K8NLFxNPUwdfJ1MXMxcog0NLF09PZINDSz9vVIM7B0NLB
+18zR1Ngg2sHQ0s/T2SDXIM7B28UgUFItwcfFztTT1NfPINDPCsHE0sXT1SBtb3Njb3cuZ29vZ2xl
+QGtldGNodW0uY29tLiDz0MHTycLPIQoKLS0gCkFsbGEgWmFicm92c2theWEKQ29tbXVuaWNhdGlv
+bnMgYW5kIFB1YmxpYyBBZmZhaXJzCkdvb2dsZSBDRUUsIFJ1c3NpYSBhbmQgQ0lTCk9mZmljZTog
+KyA3IDQ5NSA2NDQxNTg3CkZheDogKzcgNDk1IDY0NDE0MDEKCgoKVGhpcyBlbWFpbCBtYXkgY29u
+dGFpbiBjb25maWRlbnRpYWwgaW5mb3JtYXRpb24uICBJZiB5b3UgcmVjZWl2ZWQgdGhpcwplbWFp
+bCBieSBtaXN0YWtlLCBwbGVhc2UgZG8gbm90IHBhc3MgaXQgdG8gdGhpcmQgcGFydGllcywgZGVs
+ZXRlIGFsbApjb3BpZXMgYW5kIGVuY2xvc3VyZXMsIGFuZCBsZXQgdXMga25vdyB0aGF0IGl0IGhh
+cyBiZWVuIGRlbGl2ZXJlZCB0bwp0aGUgd3JvbmcgYWRkcmVzcy4gIFRoYW5rIHlvdS4KCvzUzyDc
+zMXL1NLPzs7PxSDQydPYzc8gzc/WxdQg08/ExdLWwdTYIMvPzsbJxMXOw8nBzNjO1cAgyc7Gz9LN
+wcPJwC4K5dPMySD32SDQz8zV3snMySDc1M8g08/Pwt3FzsnFINDPIM/bycLLxSwg0M/WwczVytPU
+wSwgzsUgINDF0sXEwdfBytTFCsXHzyDU0sXU2MnNIMzJw8HNLCDVxMHMydTFINfTxSDLz9DJySDJ
+INDSyczP1sXOydEgySDTz8/C3cnUxSDOwc0sIN7UzwrPzs8g0M/QwczPIM7FINDPIMHE0sXT1S4g
+IPPQwdPJws8uCg==

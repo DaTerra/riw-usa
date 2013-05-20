@@ -1,0 +1,172 @@
+Return-path: <marina_aquafairy@yahoo.com.au>
+Envelope-to: info@riw-sv.com
+Delivery-date: Wed, 10 Oct 2012 00:45:05 -0500
+Received: from nm23-vm1.bullet.mail.bf1.yahoo.com ([98.139.213.141]:24437)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.80)
+	(envelope-from <marina_aquafairy@yahoo.com.au>)
+	id 1TLp6O-0005hi-Ul
+	for info@riw-sv.com; Wed, 10 Oct 2012 00:45:05 -0500
+Received: from [98.139.212.148] by nm23.bullet.mail.bf1.yahoo.com with NNFMP; 10 Oct 2012 05:45:04 -0000
+Received: from [98.139.212.197] by tm5.bullet.mail.bf1.yahoo.com with NNFMP; 10 Oct 2012 05:45:04 -0000
+Received: from [127.0.0.1] by omp1006.mail.bf1.yahoo.com with NNFMP; 10 Oct 2012 05:45:04 -0000
+X-Yahoo-Newman-Property: ymail-5
+X-Yahoo-Newman-Id: 93055.47717.bm@omp1006.mail.bf1.yahoo.com
+Received: (qmail 4133 invoked by uid 60001); 10 Oct 2012 05:45:04 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com.au; s=s1024; t=1349847904; bh=17IJzX+bfcN18p4hNFaJBUU+zAISH+bsxwT4pU5oVrs=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:References:Message-ID:Date:From:Reply-To:Subject:To:In-Reply-To:MIME-Version:Content-Type; b=CpEg9U23XYsItJLCBMJVxbdQSc7i3t4SkilpijmihhdDiKyiucu9+GWgsZRa69RYwb2BizZUI+IICYWlNm9xDjtllal3x7TFY83s5aQ899eG84C7qTRpBupyOyE9llOpExgh0f1ZEsHGS7cR0jZ1m6GxI0eCjihhDFXVCxJaLyk=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.au;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:References:Message-ID:Date:From:Reply-To:Subject:To:In-Reply-To:MIME-Version:Content-Type;
+  b=ltcAyiov+YcqJjWMLwYsVRjxazg+Pp1IlgGQdtG2ZXHVf3KUQwEHHNSdYqvwCUu+U5QQ7g8VsruvU6AHM69dKIPFqU3dQw8v+5yS8GvBvomsDsFeobqP2P14SKhOPbCYMUVSep8ndBOKX6NEnSlxPXjbtsUrAtNdMm0WBjnCwwg=;
+X-YMail-OSG: taH64UYVM1l6ayf3zsaOIW76G_tHhewGg7sDYedWCZn98aT
+ _5wGGKW.9AzD55zFSiegI_W7KiL29KUH3wQZsZ9dRvv97a19XciKh.G76i.Z
+ XCHwch3MBGM3fADZM1t6EHFa3V.b__NusMJPafUQZ3_bX5fytFWPEILcRaN5
+ JMfkMA5XoJy7SvMqCNOgdfVHxEzQQQLQOo_w3oTsNP.VinenTCdCUGiwmJsW
+ Oq3JdAxmXa1Z0R6UrqHUxmrcfBXkOnq2woEqBcoFzl0TGf0SYNjyFXIgYriy
+ Cru8q8cX4CQMwON.Y197cq7hfX9sO0FtIl0V_.sLuiOwd3IfsZDs9jhwqeNT
+ sTCiIUB1QgevpVXf6qYBoJXuPGS6fL4zhEcmjOQvB_z2SXMy7EsewAqpD2nu
+ B0dUTe.RZEEtc_LZqjZarLLAe0l4lLvCiH86ygkj4XZA5ztLOdghKrYNGvV0
+ 5nWG99E3Do9mbsAWSemYDhIWFkyhPtpJxBI5Qjl4_dWqJlSRTxRZSMOx6uMb
+ H2fFXOMCVdr7tFX.b8Btpj5IBq5Y4IzLNgvKHU2cS6.3VSK8j0BQvRvLCjC7
+ py3qfZiWVbAqzXsdKkdxZelTb0r3AFqyd7B4l_inqLmVFsDy48NNFwup2lxB
+ om8yPDxEk2HezeaRCmhqi8Xmj0IAPJozmstYKH4LVKit3iujozpzHfD_9zWd
+ hO21RFUEwxHqRWgT_DtCYQxM5_fUHcwPF_WAdfhdFP6eOvbD6GCKmulAQHGC
+ mSVSbvbwGHIfxjzpm9szh1ET2keNox4dlsSweuj_txz2NDtTD1X6jLzpMy9F
+ t3qWbHlqe1SQQsBDjTTQBX__ugUUxr73QpbfPbgxml7Ds4h9q5hxV7lporez
+ H1ubQLPDfEl9TqJgFSL6dt.I..gOR0xJ9TsKETnGDc_a3uXgm.k4cs3NBCUM
+ eUvNsHnqyasHTX2k6S2vw_8YDxf9vC1FJAG6WwyEt6G_V9.8nX3.8RIsRNc2
+ 4zG7uRNKo
+Received: from [67.169.180.214] by web162901.mail.bf1.yahoo.com via HTTP; Tue, 09 Oct 2012 22:45:03 PDT
+X-Rocket-MIMEInfo: 001.001,RGVhciBTaXIvTWFkYW0hCgpJYHZlIGdvdCB0aGUgZm9sbG93aW5nIGUtbWFpbCBmcm9tIHlvdSB3aXRoIG15IHVuaXF1ZSBrZXkgKEE3REJCMDQpIGZvciByZWdpc3RyYXRpb24uIFVuZm9ydHVuYXRlbHksIHRoaXMga2V5IGRvZXNgdCB3b3JrLiBJIHdvdWxkIHJlYWxseSBhcHByZWNpYXRlLCBpZiB5b3UgY2FuIHByb3ZpZGUgYW5vdGhlciBrZXkgZm9yIG1lIQoKVGhhbmsgeW91IGluIGFkdmFuY2UsIAoKTWFyaW5hIE1hc3Rlcm92YQpURUMtQ0xVQgpQcm9qZWN0IE1hbmFnZXIKCgotLS0tLSBGb3J3YXJkZWQBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.123.450
+References: <1be07edf7598f01482903e64551204ad@riw-sv.com>
+Message-ID: <1349847903.3788.YahooMailNeo@web162901.mail.bf1.yahoo.com>
+Date: Tue, 9 Oct 2012 22:45:03 -0700 (PDT)
+From: Aqua Fairy <marina_aquafairy@yahoo.com.au>
+Reply-To: Aqua Fairy <marina_aquafairy@yahoo.com.au>
+Subject: Fw: Russian Innovation Week  Conference 2012 Invitation - Please RSVP
+To: "info@riw-sv.com" <info@riw-sv.com>
+In-Reply-To: <1be07edf7598f01482903e64551204ad@riw-sv.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-1846104760-761412931-1349847903=:3788"
+
+---1846104760-761412931-1349847903=:3788
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Sir/Madam!=0A=0AI`ve got the following e-mail from you with my unique =
+key (A7DBB04) for registration. Unfortunately, this key does`t work. I woul=
+d really appreciate, if you can provide another key for me!=0A=0AThank you =
+in advance, =0A=0AMarina Masterova=0ATEC-CLUB=0AProject Manager=0A=0A=0A---=
+-- Forwarded Message -----=0AFrom: RIW 2012 <registration@riw-sv.com>=0ATo:=
+ marina_aquafairy@yahoo.com.au =0ASent: Saturday, 6 October 2012 5:48 PM=0A=
+Subject: Russian Innovation Week  Conference 2012 Invitation - Please RSVP=
+=0A =0A=0A =0ADear Marina Masterova, =0A=0ARusnano, RVC and Skolkovo - thre=
+e technology and Russian innovation powerhouses - cordially invite you to a=
+ttend the inaugural Russian Innovation Week Conference. Join leading startu=
+p entrepreneurs, venture capitalists and successful business leaders from t=
+he U.S. and Russia at this exclusive, invite-only event on October 25 - 26,=
+ 2012 in the heart of Silicon Valley, at the Computer History Museum in Mou=
+ntain View, California. This much-anticipated conference is your opportunit=
+y to participate in stimulating discussions, keynotes and networking events=
+.=0A=0AThe Russian Innovation Week Conference brings Russian innovators and=
+ startups to the U.S. in search of the perfect investment partners and stra=
+tegies on taking their products to the global market. It is the perfect ven=
+ue for investors looking for the next new innovative project and opportunit=
+ies to explore up-and-coming developments in the fields of clean-tech, bio-=
+tech, pharmaceuticals, the life sciences, nanot=0A echnology and IT. Invest=
+ors and companies with successful business experience in Russia will share =
+insights on tapping the best funding opportunities.=0A=0AMingle with your n=
+ew business contacts at the end of each day at the Keynote Dinner on Thursd=
+ay, October 25, at the Sharon Heights Country Club and the post-conference =
+networking reception on Friday, October 26, at the Computer History Museum.=
+=0A=0AThis event is by invitation only; - there is no cost to attend. Don't=
+ miss this opportunity to mingle, connect and learn from successful busines=
+s leaders with footholds in the Silicon Valley and Russia! For more informa=
+tion on the host companies, scheduled speakers or travel info, visit: riw-s=
+v.com .=0A=0ASpace is limited. RSVP HERE for the Russian Innovation Week Co=
+nference today or use your unique key (A7DBB04) at riw-sv.com/invitation. W=
+e look forward to seeing  you this year at the Russian Innovation Week Conf=
+erence! =0A=0ASincerely, =0ARusnano, RVC and Skolkovo =0A=0AFor more inform=
+ation on Russian Innovation Week Conference go to: riw-sv.com=0AFollow Us: =
+Twitter, Facebook, Google+ and YouTube=0AQuestions: info@riw-sv.com
+---1846104760-761412931-1349847903=:3788
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ar=
+ial, helvetica, sans-serif;font-size:14pt"><div><span>Dear Sir/Madam!</span=
+></div><div style=3D"color: rgb(0, 0, 0); font-size: 18.6667px; font-family=
+: arial,helvetica,sans-serif; background-color: transparent; font-style: no=
+rmal;"><br><span></span></div><div style=3D"color: rgb(0, 0, 0); font-size:=
+ 18.6667px; font-family: arial,helvetica,sans-serif; background-color: tran=
+sparent; font-style: normal;"><span>I`ve got the following e-mail from you =
+with my unique key (A7DBB04) for registration. Unfortunately, this key does=
+`t work. I would really appreciate, if you can provide another key for me!<=
+/span></div><div style=3D"color: rgb(0, 0, 0); font-size: 18.6667px; font-f=
+amily: arial,helvetica,sans-serif; background-color: transparent; font-styl=
+e: normal;"><br><span></span></div><div style=3D"color: rgb(0, 0, 0); font-=
+size: 18.6667px; font-family: arial,helvetica,sans-serif; background-color:
+ transparent; font-style: normal;"><span>Thank you in advance, <br></span><=
+/div><div style=3D"color: rgb(0, 0, 0); font-size: 18.6667px; font-family: =
+arial,helvetica,sans-serif; background-color: transparent; font-style: norm=
+al;"><span>Marina Masterova</span></div><div style=3D"color: rgb(0, 0, 0); =
+font-size: 18.6667px; font-family: arial,helvetica,sans-serif; background-c=
+olor: transparent; font-style: normal;"><span>TEC-CLUB</span></div><div sty=
+le=3D"color: rgb(0, 0, 0); font-size: 18.6667px; font-family: arial,helveti=
+ca,sans-serif; background-color: transparent; font-style: normal;"><span>Pr=
+oject Manager<br></span></div><div><br></div>  <div style=3D"font-family: a=
+rial, helvetica, sans-serif; font-size: 14pt;"> <div style=3D"font-family: =
+times new roman, new york, times, serif; font-size: 12pt;"> <div dir=3D"ltr=
+"> <font face=3D"Arial" size=3D"2"> ----- Forwarded Message -----<br>  <b><=
+span style=3D"font-weight:bold;">From:</span></b> RIW 2012
+ &lt;registration@riw-sv.com&gt;<br> <b><span style=3D"font-weight: bold;">=
+To:</span></b> marina_aquafairy@yahoo.com.au <br> <b><span style=3D"font-we=
+ight: bold;">Sent:</span></b> Saturday, 6 October 2012 5:48 PM<br> <b><span=
+ style=3D"font-weight: bold;">Subject:</span></b> Russian Innovation Week  =
+Conference 2012 Invitation - Please RSVP<br> </font> </div> <br><meta http-=
+equiv=3D"x-dns-prefetch-control" content=3D"off"><div id=3D"yiv668593846"><=
+div style=3D"width:700px;"><img alt=3D"">=0A<div style=3D"margin-left:50px;=
+">Dear Marina Masterova, <br>=0A<div>Rusnano, RVC and Skolkovo - three tech=
+nology and Russian innovation powerhouses - cordially invite you to attend =
+the inaugural Russian Innovation Week Conference. Join leading startup entr=
+epreneurs, venture capitalists and successful business leaders from the U.S=
+. and Russia at this exclusive, invite-only event on October 25 - 26, 2012 =
+in the heart of Silicon Valley, at the Computer History Museum in Mountain =
+View, California. This much-anticipated conference is your opportunity to p=
+articipate in stimulating discussions, keynotes and networking events.<br> =
+<br> The Russian Innovation Week Conference brings Russian innovators and s=
+tartups to the U.S. in search of the perfect investment partners and strate=
+gies on taking their products to the global market. It is the perfect venue=
+ for investors looking for the next new innovative project and opportunitie=
+s to explore up-and-coming developments in the fields of clean-tech, bio-te=
+ch, pharmaceuticals, the
+ life sciences, nanot=0A echnology and IT. Investors and companies with suc=
+cessful business experience in Russia will share insights on tapping the be=
+st funding opportunities.<br> <br> Mingle with your new business contacts a=
+t the end of each day at the Keynote Dinner on Thursday, October 25, at the=
+ Sharon Heights Country Club and the post-conference networking reception o=
+n Friday, October 26, at the Computer History Museum.<br><br> This event is=
+ by invitation only; - there is no cost to attend. Don't miss this opportun=
+ity to mingle, connect and learn from successful business leaders with foot=
+holds in the Silicon Valley and Russia! For more information on the host co=
+mpanies, scheduled speakers or travel info, visit: <a href=3D"" rel=3D"nofo=
+llow">riw-sv.com</a> .<br> <br> Space is limited. <a href=3D"" rel=3D"nofol=
+low"> RSVP HERE</a> for the Russian Innovation Week Conference today or use=
+ your unique key (A7DBB04) at <a href=3D"" rel=3D"nofollow">riw-sv.com/invi=
+tation</a>. We look forward
+ to seeing =0A you this year at the Russian Innovation Week Conference! <br=
+> <br> Sincerely, <br> Rusnano, RVC and Skolkovo <br> <br> For more informa=
+tion on Russian Innovation Week Conference go to: <a href=3D"" rel=3D"nofol=
+low">riw-sv.com</a><br> Follow Us: <a rel=3D"nofollow" target=3D"_blank" hr=
+ef=3D"http://twitter.com/riw_sv">Twitter</a>, <a rel=3D"nofollow" target=3D=
+"_blank" href=3D"https://www.facebook.com/pages/Russian-Innovation-Week/408=
+163625899875">Facebook</a>, <a rel=3D"nofollow" target=3D"_blank" href=3D"h=
+ttps://plus.google.com/u/0/103179661446801281383/posts">Google+</a> and <a =
+rel=3D"nofollow" target=3D"_blank" href=3D"http://www.youtube.com/channel/U=
+CL39Q4f-izAVgoCj-3jh6Kw?feature=3Dguide">YouTube</a><br> Questions: <a rel=
+=3D"nofollow" ymailto=3D"mailto:info@riw-sv.com" target=3D"_blank" href=3D"=
+mailto:info@riw-sv.com">info@riw-sv.com</a></div>=0A</div>=0A</div>=0A=0A=
+=0A</div><meta http-equiv=3D"x-dns-prefetch-control" content=3D"on"><br><br=
+> </div> </div>  </div></body></html>
+---1846104760-761412931-1349847903=:3788--

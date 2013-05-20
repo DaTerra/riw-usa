@@ -1,0 +1,87 @@
+Return-path: <dave@500startups.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Fri, 15 Mar 2013 22:59:28 -0500
+Received: from mail-wg0-f41.google.com ([74.125.82.41]:53584)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <dave@500startups.com>)
+	id 1UGiHI-0001kC-Ie
+	for info@riw-sv.com; Fri, 15 Mar 2013 22:59:28 -0500
+Received: by mail-wg0-f41.google.com with SMTP id ds1so1102529wgb.0
+        for <info@riw-sv.com>; Fri, 15 Mar 2013 20:59:27 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=500startups.com; s=google;
+        h=x-received:date:from:to:message-id:in-reply-to:references:subject
+         :mime-version:content-type:content-transfer-encoding
+         :content-disposition:precedence:x-autoreply:auto-submitted;
+        bh=sQpv48IswY1CITcNdXkDlun25+ppY+j0gV/Gvkls8r0=;
+        b=OhuTYBbvMeLCHvbhrwe1Y/RUb/YCSmYS36tc4DnF+t/YY0Bnp57gRoSpAxkSVeecPi
+         lG9pyKVt91B8oHQHY2C35KRnMWf9ymDzW/1OGiwCv8Vabb8a0XHuM82DNLcGaQ4RuOiD
+         q502pAndKySGIKfTMWPNYuU9rmnAYB4dWAGHM=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=x-received:date:from:to:message-id:in-reply-to:references:subject
+         :mime-version:content-type:content-transfer-encoding
+         :content-disposition:precedence:x-autoreply:auto-submitted
+         :x-gm-message-state;
+        bh=sQpv48IswY1CITcNdXkDlun25+ppY+j0gV/Gvkls8r0=;
+        b=M+3h0MJbAiHioUlnSIHNqM08jXJ3b/9LQjDMj0nh7aE/eU4Y5bf6s/RWS2/Qp0UCjE
+         MZk3IeLfVGyuH8I9apRYHH//J3qbJeF2rLkfc2GhhIiZkp8mBrm4vjbLVO/JZe94QOan
+         LD0hJCK9p+xyT2d6ycIl5U8dbijJ7c9kJPwKjLaEArD4h3RECSwdiUHfLYn/v2b4Z/jL
+         I5BIHLa3nn/HHaL26BUEm/Xriq1Tq+2VcG0WgxjoNRJxjhYw3fdjnS2XiVOb2rmGGRNU
+         9mjhCHuM/q8hLjRnHj1ZeGvJiDYS4eBucwPGrHwk2DGrekhG748VCXcNdQUjUV+1LhbW
+         QP2g==
+X-Received: by 10.194.242.163 with SMTP id wr3mr14561183wjc.35.1363406367072;
+        Fri, 15 Mar 2013 20:59:27 -0700 (PDT)
+Date: Fri, 15 Mar 2013 20:59:26 -0700
+From: "Dave McClure" <dave@500startups.com>
+To: info@riw-sv.com
+Message-ID: <CABr3vGHMZrBFRKDZdMhSoASpi7ds0NGN_gdM4_1PE8FO79B7rQ@mail.gmail.com>
+In-Reply-To: <ef3b1b41a83339e834fad9cb82f9c7ad@riw-sv.com>
+References: <ef3b1b41a83339e834fad9cb82f9c7ad@riw-sv.com>
+Subject: [Dave traveling NYC/Brazil thru Fri 3/22] Re: Russian Innovation Week 2013 Save the Date and GTS Announcement!
+MIME-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+Precedence: bulk
+X-Autoreply: yes
+Auto-Submitted: auto-replied
+X-Gm-Message-State: ALoCoQlhL0vS9fwcLBGf9pjM1kkw97547ILrV7doNIhe2WVe+Qgyo3wL+Ykh+DxohO7Bi9K/YMyQ
+
+hi there -- i get a *lot* of email. guessing you do too. this is one of tho=
+se annoying auto-replies that makes me seem pretentious &amp; full of crap =
+(likely accurate), however i try to make it interesting for folks since i'm=
+ better at creative writing than answering emails.<br><br><div><div>NOTE: o=
+ver the next two weeks, i'll be traveling on business in NYC and Brazil, so=
+ my apologies if i miss your email. &nbsp;</div></div><div><br></div><div>f=
+ull disclosure: hope you won't be bummed when i confess there's probably ~2=
+0% chance i'll read your email, and maybe only ~5% chance i'll respond. yea=
+h, it's that bad.<br><br>look: it's not like you're not all kinds of sexy &=
+amp; awesome &amp; amazing, but if i spent all my time answering email, i'd=
+ never get any other shit done. and since i'm planning on changing the worl=
+d, i really need to make sure i GET SHIT DONE.<br><br>so i'll do my best to=
+ read &amp; maybe respond to email, but if it's really important you may ne=
+ed to reach me through other channels, and it's also possible that it just =
+doesn't happen at all (which might be my loss).<br><br>if it's URGENT, and/=
+or you are a 500 Startups investor, founder, mentor or partner, or if we ar=
+e in the middle of a deal, then PLEASE give me a call or text if you have m=
+y phone #. &nbsp;you can also put a respond by date in the subject line so =
+i have a better chance of catching it. or read below for more info on how t=
+o get in touch.&nbsp;<br><br>OR YOU CAN SEND ME AN ALL-CAPS EMAIL AND I MIG=
+HT READ THAT. &nbsp;<br><br>or i might not.<br><br>if you'd like, you may b=
+e able to reach other members of the 500 team or me faster by filling out t=
+his form:<br>&nbsp;http://awayfind.com/500startups<br><br>in the meantime, =
+if you want to follow extremely interesting updates about me brushing my te=
+eth &amp; other crap, go here:<br>&nbsp;http://facebook.com/davemcclure<br>=
+&nbsp;http://twitter.com/davemcclure<br><br>for completely unproductive &am=
+p; NSFW images &amp; videos, go here:<br>&nbsp;http://9GAG.com/<br><br>if y=
+ou've read this far, you are very dedicated. i encourage you to spend less =
+time reading my auto responder, and more time reading a good book or playin=
+g Angry Birds.<br><br>peace out.<br><br>- dave mcclure</div><br/><br/>-- <b=
+r/>--<br>Dave McClure<br>Founding Partner, 500 Startups &lt;<a href=3D"http=
+://500.co/" target=3D"_blank">http://500.co/</a>&gt;<br><a href=3D"mailto:d=
+ave@500.co" target=3D"_blank">dave@500.co</a> | +1.650.743.4738 | @DaveMcCl=
+ure<br><a href=3D"http://linkedin.com/in/davemcclure" target=3D"_blank">htt=
+p://linkedin.com/in/davemcclure</a>=A0| <a href=3D"http://500hats.com" targ=
+et=3D"_blank">http://500hats.com</a><br/>

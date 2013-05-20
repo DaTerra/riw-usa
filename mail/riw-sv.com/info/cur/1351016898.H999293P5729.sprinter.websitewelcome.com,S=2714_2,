@@ -1,0 +1,72 @@
+Return-path: <srinath.mit@gmail.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Tue, 23 Oct 2012 13:28:18 -0500
+Received: from mail-pa0-f49.google.com ([209.85.220.49]:35150)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <srinath.mit@gmail.com>)
+	id 1TQjD8-0001U3-S4
+	for info@riw-sv.com; Tue, 23 Oct 2012 13:28:18 -0500
+Received: by mail-pa0-f49.google.com with SMTP id bi5so3047898pad.8
+        for <info@riw-sv.com>; Tue, 23 Oct 2012 11:28:18 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:cc:content-type;
+        bh=vbUnwnxcTVkNFLvyAKP47Hap46Im5ewnwJGkmWhtnd4=;
+        b=sPKkUUFQB35aw5iAcqWf0uQsV/kzsj0dUI/SPYws2FdQZJdh6I9n/o/ihx7kneuNlh
+         W/BueJt/Z2j6QwZBUx51VeH+2y84GOUZCV5aOqT63u7RnFxBMfvSoi4mGrUY2y+1xGbl
+         eiKJfsFcaExE3jh64vXBKOuRWHIfKE5TpqZp4NvGKpqkdn0f2AdoB2+5qJmiIFEuqooA
+         63jFtEkIJijPme2jywUQ4E05IlJq1z421IuKBnUXRcx53mfu18StJ4ewXIeJUH0rrYWA
+         Oz7YFR4YvrZomq4U3dTJmrIfHAF0GZbL+sdBFwuADBN8+2zLZhzDwanc1Gs92ima2pHm
+         DMSQ==
+MIME-Version: 1.0
+Received: by 10.68.218.226 with SMTP id pj2mr43060611pbc.33.1351016898058;
+ Tue, 23 Oct 2012 11:28:18 -0700 (PDT)
+Received: by 10.66.149.226 with HTTP; Tue, 23 Oct 2012 11:28:18 -0700 (PDT)
+Date: Tue, 23 Oct 2012 11:28:18 -0700
+Message-ID: <CAFCDP3+SZrAVU=Kf8JyfS-P6_cicm=i0b6=WuEDYzd+X2FZO7w@mail.gmail.com>
+Subject: follow-up
+From: Srinath Narayanan <srinath.mit@gmail.com>
+To: info@riw-sv.com
+Cc: Dmitry Akhanov <Dmitry.Akhanov@rusnano.com>
+Content-Type: multipart/alternative; boundary=047d7b2ed8254b5a3604ccbe22f4
+
+--047d7b2ed8254b5a3604ccbe22f4
+Content-Type: text/plain; charset=UTF-8
+
+I would appreciate if you can register me to the event on Thursday.
+
+My Details:
+Srinath Narayanan
+Admit Capital LLC
+financial advisor to Kleiner Perkins
+130 Lytton Avenue, Palo Alto, CA - 94301
+ph: 4152057937
+
+Rgds,
+Srinath
+-- 
+Srinath Narayanan
+email: srinath.mit@gmail.com
+phone: 415-2057937
+
+--047d7b2ed8254b5a3604ccbe22f4
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div>I would appreciate if you can register me to the event on Thursday.</d=
+iv>
+<div>=C2=A0</div>
+<div>My Details:</div>
+<div>Srinath Narayanan</div>
+<div>Admit Capital LLC</div>
+<div>financial advisor to Kleiner Perkins </div>
+<div>130 Lytton Avenue, Palo Alto, CA - 94301</div>
+<div>ph: 4152057937<br clear=3D"all"></div>
+<div>=C2=A0</div>
+<div>Rgds,</div>
+<div>Srinath<br>-- <br>Srinath Narayanan<br>email: <a href=3D"mailto:srinat=
+h.mit@gmail.com" target=3D"_blank">srinath.mit@gmail.com</a><br>phone: 415-=
+2057937<br></div>
+
+--047d7b2ed8254b5a3604ccbe22f4--

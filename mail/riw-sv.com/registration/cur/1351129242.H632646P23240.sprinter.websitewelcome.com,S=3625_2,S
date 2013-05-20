@@ -1,0 +1,81 @@
+Return-path: <irina@gopago.com>
+Envelope-to: registration@riw-sv.com
+Delivery-date: Wed, 24 Oct 2012 20:40:42 -0500
+Received: from mail-vc0-f177.google.com ([209.85.220.177]:54551)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <irina@gopago.com>)
+	id 1TRCR8-000628-HK
+	for registration@riw-sv.com; Wed, 24 Oct 2012 20:40:42 -0500
+Received: by mail-vc0-f177.google.com with SMTP id p16so1481881vcq.8
+        for <registration@riw-sv.com>; Wed, 24 Oct 2012 18:40:41 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:x-originating-ip:date:message-id:subject:from:to:cc
+         :content-type:x-gm-message-state;
+        bh=41ZFw2mSEAdXjSpFWFI/qQNKS41H3SqMNSCdrUrIpAU=;
+        b=bkfdDJuPCDCtOcSd1sMBosXhPwinwdcJgsUL5/KRTTOUoq+aLimBmxHAoZDHoLvrmh
+         Q3zRV1e2l2Ff/3ZaHDdd2Zin0b9nSfOLH8Mu6DIa0C5H4YRQI/ulR9h+Ydi+fyoLxNT2
+         QvGlXuubjxiCwxaCjbuKGA2in7WulMhl4tjNxcL7FHlflM2LORzt1x4MFgAa6FEzZgKA
+         eHrfYcPMUTzCk+9Z4IWg+uplSc/nc0FQ8ubFB603IFCQ9P1t3hZHITO98V9JSD1uV6rt
+         CkLGKL+ew4JUVRxxo6f5TsDGNXDfReCSdc5JwkJPXT57iuwUgOtGg/cNibfyGOZSx1Gn
+         Qaqw==
+MIME-Version: 1.0
+Received: by 10.220.225.138 with SMTP id is10mr11333092vcb.24.1351129241763;
+ Wed, 24 Oct 2012 18:40:41 -0700 (PDT)
+Received: by 10.58.56.6 with HTTP; Wed, 24 Oct 2012 18:40:41 -0700 (PDT)
+X-Originating-IP: [38.99.18.114]
+Date: Wed, 24 Oct 2012 18:40:41 -0700
+Message-ID: <CAMW5AF0KEj=Q9SphRaU_t62WGCpqLpm1nLfhbAJ4jOuUs-tczg@mail.gmail.com>
+Subject: Russian Innovation Week_Irina Lozhkina
+From: Irina Lozhkina <irina@gopago.com>
+To: registration@riw-sv.com
+Cc: George Kartashov <georgy@stanford.edu>
+Content-Type: multipart/alternative; boundary=14dae9ccd47680401904ccd84a7e
+X-Gm-Message-State: ALoCoQlEE11NoY7xA9V2d1s0Dp03lVVVwJkszvNQFQ2moX44CiKvLhRIhdLE3iWP3nitJRbY1fhv
+
+--14dae9ccd47680401904ccd84a7e
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hello,
+
+Please add two people to register for Oct. 25,26 RIW event:
+1) Irina Lozhkina (Gopago, Inc)
+2) Georgy Kartashov (Stanford GSB), CC'd
+
+Thank you,
+
+-- 
+Irina Lozhkina
+
+Financial Analyst| 510 504 1897 | www.gopago.com | http://twitter.com/gopago
+
+GoPago Inc. | 44 Montgomery St, Suite 250 San Francisco CA 94104
+
+--14dae9ccd47680401904ccd84a7e
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hello,<div><br></div><div>Please add two people to register for Oct. 25,26 =
+RIW event:</div><div>1) Irina Lozhkina (Gopago, Inc)</div><div>2) Georgy Ka=
+rtashov (Stanford GSB), CC&#39;d</div><div><br></div><div>Thank you,<br cle=
+ar=3D"all">
+<div><br></div>-- <br><div><font style color=3D"#333399" face=3D"trebuchet =
+ms,sans-serif">Irina Lozhkina</font></div><div><font face=3D"Trebuchet MS">=
+</font>=A0</div><div><font face=3D"trebuchet ms,sans-serif">Financial Analy=
+st|=A0<a href=3D"tel:510%20504%201897" value=3D"+15105041897" target=3D"_bl=
+ank">510 504 1897</a>=A0| <a href=3D"http://www.gopago.com" target=3D"_blan=
+k">www.gopago.com</a>=A0|</font><span style=3D"color:rgb(34,34,34);font-siz=
+e:13px;font-family:arial,sans-serif">=A0</span><a href=3D"http://twitter.co=
+m/gopago" style=3D"color:rgb(17,85,204);font-size:13px;font-family:arial,sa=
+ns-serif" target=3D"_blank">http://twitter.com/gopago</a></div>
+
+<div><font face=3D"trebuchet ms,sans-serif"></font>=A0</div><div><font face=
+=3D"trebuchet ms,sans-serif">GoPago Inc. | 44 Montgomery St, Suite 250 San =
+Francisco CA 94104</font></div><div><font face=3D"trebuchet ms,sans-serif">=
+</font>=A0</div>
+
+<br>
+</div>
+
+--14dae9ccd47680401904ccd84a7e--

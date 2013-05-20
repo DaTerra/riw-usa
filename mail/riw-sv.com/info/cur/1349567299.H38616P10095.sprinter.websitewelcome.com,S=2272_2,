@@ -1,0 +1,54 @@
+Return-path: <s.sergeev@displair.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Sat, 06 Oct 2012 18:48:19 -0500
+Received: from mail-wi0-f169.google.com ([209.85.212.169]:47458)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <s.sergeev@displair.com>)
+	id 1TKe6U-0002bw-Kz
+	for info@riw-sv.com; Sat, 06 Oct 2012 18:48:18 -0500
+Received: by mail-wi0-f169.google.com with SMTP id hq4so1991497wib.2
+        for <info@riw-sv.com>; Sat, 06 Oct 2012 16:48:16 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=date:from:to:message-id:subject:mime-version:content-type
+         :content-transfer-encoding:content-disposition:precedence
+         :x-autoreply:auto-submitted:x-gm-message-state;
+        bh=heQDjhTqY5nbOf2tT2hpp1mnQXLVAj3vrG4tskSkmEo=;
+        b=ey7DUdxWIZQbwElo385UAffl1mNx9JB1b5mygseWgq/Rnto5+b5moQKYX2xEzT0y8a
+         04/6Q6n/8AV5AtTMDYZ5fxpXcQNe3kwIhu88S/iTBP2DFG4ZHfaUyIFPDoiBxnlITDoL
+         +bw21xW9RZfTSDSqvEK0Wrzml8FPNb9VDlzFi6H81YPkMgwL1NOx35Mo0AUiht1kLnUb
+         Hwxsmwqi9gJp94vr5B7u7SEVRws3FoLTUzo25o3xU3sJAtDQrrsLFvMzPVlQzbwYEG+6
+         JYK4Lm2p1uEFeScjLs/EiEFSmJhMJ2NzVNVR7WZOQ8f0kxdBDam+JNQWaID8/KgRkmLy
+         8fVA==
+Received: by 10.180.87.132 with SMTP id ay4mr11638247wib.5.1349567296658;
+        Sat, 06 Oct 2012 16:48:16 -0700 (PDT)
+Date: Sat, 6 Oct 2012 16:48:16 -0700
+From: "Sergey Sergeev" <s.sergeev@displair.com>
+To: info@riw-sv.com
+Message-ID: <CAKxR6gE+6ajvV7G3fw7oxwvSmA-V=-PENWFmL2_J4JaPj-1n6g@mail.gmail.com>
+Subject: not available till Re: Russian Innovation Week Conference 2012 Invitation - Please RSVP
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+Precedence: bulk
+X-Autoreply: yes
+Auto-Submitted: auto-replied
+X-Gm-Message-State: ALoCoQmSL+9mogFlcrRlYhFkr+D7IoH5cuPgRo6x92u+o+W/gjbgLUhxG4sqmDN1TtExj1fTybBc
+
+I am out of the office till Monday, the 8th of October with a limited
+or no access to email.
+
+Please, feel free to contact Displair COO, Andrey
+Melnikov at a.melnikov@displair.com.
+
+--
+Yours faithfully,
+
+Sergey Sergeev
+Director of Marketing
+Displair
+s.sergeev@displair.com
+www.displair.com
+http://www.facebook.com/displair

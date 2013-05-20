@@ -1,0 +1,55 @@
+Return-path: <advornikova@gmail.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Thu, 11 Oct 2012 17:13:06 -0500
+Received: from mail-oa0-f49.google.com ([209.85.219.49]:38131)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <advornikova@gmail.com>)
+	id 1TMR06-0000I5-EH
+	for info@riw-sv.com; Thu, 11 Oct 2012 17:13:06 -0500
+Received: by mail-oa0-f49.google.com with SMTP id l10so2727007oag.8
+        for <info@riw-sv.com>; Thu, 11 Oct 2012 15:13:06 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=date:from:to:message-id:subject:mime-version:content-type
+         :content-transfer-encoding:content-disposition:precedence
+         :x-autoreply:auto-submitted;
+        bh=CXRlYoHnt39Gvu/p43HUIzRYmZix2pYGWXpKLcvcDFc=;
+        b=HpIyktfyLfrwHZ2THTgcbsX3oFVueJc3+tv1gtppMRA2RuvnTzqbOPo1KnJGlkRDHN
+         bmF+gLb5hcstZh+NJsy5Ysgdy+rDuFc/PBoGlkXlKxMBGclpXlXAvX9r/dlGi4jLpj4P
+         NwZSIJeKG6nMjF4M4rfQBxQvFVueXa+QwVojFPZkm/WfUHZeni1H4p7oDoEUhYna4VBV
+         1cCDDLsCZt72I5pP5pQ0PMPmAcT9YqWCiiPcmOgWwKGt7jRqvJn9qB5BuzUS7QNZgfly
+         bQL1Fjfvk57KDHTMvAkWrMuXSy0LIcrNww6EvzxH5lpRGY6KxgTVDLspOWJPVh+LU4r/
+         6bKg==
+Received: by 10.182.5.168 with SMTP id t8mr1992923obt.32.1349993586124;
+        Thu, 11 Oct 2012 15:13:06 -0700 (PDT)
+Date: Thu, 11 Oct 2012 15:13:05 -0700
+From: "Anna Dvornikova" <advornikova@gmail.com>
+To: info@riw-sv.com
+Message-ID: <CAK5oQQBbkq-H6iujRisdbZ_q83=3qS7Z6xjxeuaDzWPWmD-cLw@mail.gmail.com>
+Subject: Re: Out of Office AutoReply Re: Russian Innovation Week 2012 Registration Confirmation
+MIME-Version: 1.0
+Content-Type: text/plain; charset=WINDOWS-1252
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+Precedence: bulk
+X-Autoreply: yes
+Auto-Submitted: auto-replied
+
+I will be out of the country with limited access to email. I will
+respond upon my return.
+
+Best regards,
+Anna
+
+--=20
+Anna S. Dvornikova
+Managing Partner, TEC Ventures
+555 Bryant Street, Suite 392
+Palo Alto, CA 94301
+Tel: (650) 278-0431
+E-mail: advornikova@gmail.com
+
+See also:
+The Entrepreneurs=92 Club (TEC)
+www.tecglobal.org

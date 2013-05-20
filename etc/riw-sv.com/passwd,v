@@ -1,0 +1,69 @@
+head	1.4;
+access;
+symbols;
+locks
+	riw2012:1.4; strict;
+comment	@# @;
+
+
+1.4
+date	2012.09.06.01.54.24;	author riw2012;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2012.09.06.01.53.50;	author riw2012;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2012.09.06.01.35.01;	author riw2012;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2012.09.06.01.35.01;	author riw2012;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.4
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@registration:x:7595:7593::/home/riw2012/mail/riw-sv.com/registration:/usr/local/cpanel/bin/noshell
+info:x:7595:7593::/home/riw2012/mail/riw-sv.com/info:/usr/local/cpanel/bin/noshell
+press:x:7595:7593::/home/riw2012/mail/riw-sv.com/press:/usr/local/cpanel/bin/noshell
+@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d3 1
+@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

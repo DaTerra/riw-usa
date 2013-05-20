@@ -1,0 +1,180 @@
+Return-path: <r.grinyer@sky.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Tue, 30 Oct 2012 14:03:17 -0500
+Received: from mail-la0-f49.google.com ([209.85.215.49]:64523)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <r.grinyer@sky.com>)
+	id 1TTH5p-00087s-6W
+	for info@riw-sv.com; Tue, 30 Oct 2012 14:03:17 -0500
+Received: by mail-la0-f49.google.com with SMTP id z14so541450lag.8
+        for <info@riw-sv.com>; Tue, 30 Oct 2012 12:03:15 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=message-id:reply-to:from:to:subject:date:mime-version:content-type
+         :x-priority:x-msmail-priority:x-mailer:x-mimeole:x-gm-message-state;
+        bh=X9mHTtqiba/OFot8twpEabFrWv6caUi+MmBil5BAIiY=;
+        b=FBtIxIX3tIOFTGAbhL5toNuYlsPs5wpeGiiKu5CIgp+c6MoPW0dH/tLPiB0mVl7WL8
+         28HpTtYssD6ac7akFi4NL2dmgvlbZrTv24g5pGFQKQDDLM9N4xqp9t7Ngh02+UN1m+CM
+         wM2kZFKCd8lM/o6BiXx+UmOiW0wJEraPH3Zlox2hbVoUsauWhOld02BD4Lbt/n4/vlPF
+         Vn/HQ2F3ndXf9ibDmhJi9i8izJy38h2KJE/TJBNBVKOcJclQuMxtkIKCqARCvsgdKrLH
+         29+NmIjfOL9EDws5Echwip2YMxgmrMzwMIjmsam5mBd8u13niZY7Al11tKXoD0xSqH8T
+         Cxlg==
+Received: by 10.152.133.140 with SMTP id pc12mr31200332lab.53.1351623795319;
+        Tue, 30 Oct 2012 12:03:15 -0700 (PDT)
+Received: from Unknown ([178.127.76.191])
+        by mx.google.com with ESMTPS id ts2sm601918lab.10.2012.10.30.12.02.58
+        (version=SSLv3 cipher=OTHER);
+        Tue, 30 Oct 2012 12:03:14 -0700 (PDT)
+Message-ID: <10EDB5F07B1343EC8E80C14D4F984973@tqawai>
+Reply-To: =?windows-1251?B?zeD34Ov87ejqIO7y5OXr4CDs4PDq5fLo7ePg?= <corell1990@ngs.ru>
+From: "=?windows-1251?B?zeD34Ov87ejqIO7y5OXr4CDs4PDq5fLo7ePg?=" <r.grinyer@sky.com>
+To: =?windows-1251?B?0O7n4A==?= <mdepauw7@mchsi.com>
+Subject: =?windows-1251?B?xOXi5evu7+Xw8erg/yDk5f/y5ev87e7x8vw=?=
+Date: Wed, 31 Oct 2012 01:02:45 +0600
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_112A_01CDB703.6FAE9630"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Windows Live Mail 14.0.8117.416
+X-MimeOLE: Produced By Microsoft MimeOLE V14.0.8117.416
+X-Gm-Message-State: ALoCoQl7WbO0xFiGXkkVSeTHSGbI8bjZWcjxzJXpTmiiC+jAhyfp8plzWYTzHP3JokQtVzc1PhdUYKG81G0SLOCg4QjlQ4bc4l6P0R27nF3/Q34HcIK+SHDT0F1aZkrpoRVsmkgMfOB3t0wk/eP0/B84D2r5RIdXFQ==
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_112A_01CDB703.6FAE9630
+Content-Type: text/plain;
+	charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+ =20
+=D3=E2=E0=E6=E0=E5=EC=FB=E5 =EA=EE=EB=EB=E5=E3=E8!
+=CF=F0=E8=E3=EB=E0=F8=E0=E5=EC =C2=E0=F1 =ED=E0 =EA=EE=ED=F4=E5=F0=E5=ED=F6=
+=E8=FE, =EF=EE=F1=E2=FF=F9=E5=ED=ED=F3=FE =F3=EF=F0=E0=E2=EB=E5=ED=E8=FE =
+=E8=ED=E2=E5=F1=F2=E8=F6=E8=EE=ED=ED=FB=EC=E8 =EF=F0=EE=E5=EA=F2=E0=EC=E8=
+ =E2 =F1=F4=E5=F0=E5 =ED=E5=E4=E2=E8=E6=E8=EC=EE=F1=F2=E8:
+=D3=EF=F0=E0=E2=EB=E5=ED=E8=E5 =EF=F0=EE=E5=EA=F2=E0=EC=E8 =E4=E5=E2=E5=EB=
+=EE=EF=EC=E5=ED=F2=E0.
+28 - 29 =ED=EE=FF=E1=F0=FF 2012 =E3=EE=E4=E0, =D1=E0=ED=EA=F2-=CF=E5=F2=E5=
+=F0=E1=F3=F0=E3
+=CA=F0=E0=F2=EA=E0=FF =EF=F0=EE=E3=F0=E0=EC=EC=E0 =EA=EE=ED=F4=E5=F0=E5=ED=
+=F6=E8=E8:=20
+=CE=F1=ED=EE=E2=ED=FB=E5 =F6=E5=EB=E8 =E8 =EF=F0=E8=ED=F6=E8=EF=FB =E4=E5=
+=E2=E5=EB=EE=EF=EC=E5=ED=F2=E0. =D3=EF=F0=E0=E2=EB=E5=ED=E8=E5 =EF=F0=EE=E5=
+=EA=F2=EE=EC =ED=E0 =F0=E0=E7=ED=FB=F5 =F1=F2=E0=E4=E8=FF=F5 =E5=E3=EE =F0=
+=E5=E0=EB=E8=E7=E0=F6=E8=E8.
+
+=D4=E0=EA=F2=EE=F0=FB =EE=EF=F0=E5=E4=E5=EB=FF=FE=F9=E8=E5 =FD=F4=F4=E5=EA=
+=F2=E8=E2=ED=EE=F1=F2=FC =E8=ED=E2=E5=F1=F2=E8=F6=E8=E9 =E2 =E4=E5=E2=E5=EB=
+=EE=EF=EC=E5=ED=F2, =E8=F5 =E2=E5=F1=EE=E2=FB=E5 =EA=EE=FD=F4=F4=E8=F6=E8=
+=E5=ED=F2=FB, =EF=EE=F1=F2=F0=EE=E5=ED=E8=E5 =EC=EE=E4=E5=EB=E5=E9.
+
+=CE=F6=E5=ED=EA=E0 =E8=ED=E2=E5=F1=F2=E8=F6=E8=EE=ED=ED=EE=E9 =EF=F0=E8=E2=
+=EB=E5=EA=E0=F2=E5=EB=FC=ED=EE=F1=F2=E8 =EF=F0=EE=E5=EA=F2=EE=E2.
+
+=D0=E0=F1=F7=E5=F2 =E8=ED=E2=E5=F1=F2=E8=F6=E8=EE=ED=ED=FB=F5 =F0=E8=F1=EA=
+=EE=E2, =EC=E5=F2=EE=E4=FB =EC=E8=ED=E8=EC=E8=E7=E0=F6=E8=E8 =E8=ED=E2=E5=
+=F1=F2=E8=F6=E8=EE=ED=ED=FB=F5 =E8 =E8=ED=FB=F5 =F0=E8=F1=EA=EE=E2 =E2 =E4=
+=E5=E2=E5=EB=EE=EF=EC=E5=ED=F2=E5.
+
+=CF=EE=F0=FF=E4=EE=EA =F1=EE=E3=EB=E0=F1=EE=E2=E0=ED=E8=FF =E8 =FD=EA=F1=EF=
+=E5=F0=F2=E8=E7=FB =E8=ED=E2=E5=F1=F2=E8=F6=E8=EE=ED=ED=FB=F5 =EF=F0=EE=E5=
+=EA=F2=EE=E2.
+
+=CE=F6=E5=ED=EA=E0 =F3=F7=E0=F1=F2=EA=EE=E2 =E7=E5=EC=EB=E8 =E4=EB=FF =E4=
+=E5=E2=E5=EB=EE=EF=EC=E5=ED=F2=E0.
+
+=CC=E5=F2=EE=E4=FB =EE=F6=E5=ED=EA=E8 =F1=F2=EE=E8=EC=EE=F1=F2=E8 =F0=E5=EA=
+=EE=ED=F1=F2=F0=F3=E8=F0=EE=E2=E0=ED=ED=EE=E3=EE =EE=E1=FA=E5=EA=F2=E0 =ED=
+=E5=E4=E2=E8=E6=E8=EC=EE=F1=F2=E8.
+
+=C8=ED=E4=E8=E2=E8=E4=F3=E0=EB=FC=ED=FB=E5 =EE=F1=EE=E1=E5=ED=ED=EE=F1=F2=
+=E8 =F2=E5=F5=ED=E8=EA=EE-=FD=EA=EE=ED=EE=EC=E8=F7=E5=F1=EA=E8=F5 =EE=E1=EE=
+=F1=ED=EE=E2=E0=ED=E8=E9, =EA=EE=ED=F6=E5=EF=F6=E8=E9 =F0=E0=E7=E2=E8=F2=E8=
+=FF =EE=E1=FA=E5=EA=F2=EE=E2 =ED=E5=E4=E2=E8=E6=E8=EC=EE=F1=F2=E8, =EA=F0=
+=E0=F2=EA=E8=F5 =E8 =F0=E0=E7=E2=E5=F0=ED=F3=F2=FB=F5 =E1=E8=E7=ED=E5=F1-=
+=EF=EB=E0=ED=EE=E2.
+=C4=EE=EF=EE=EB=ED=E8=F2=E5=EB=FC=ED=EE =EE =EC=E5=F0=EE=EF=F0=E8=FF=F2=E8=
+=E8 =EF=EE =F2=E5=EB=E5=F4=EE=ED=F3: (8l2) 6=D72<>92_8=C7
+
+------=_NextPart_000_112A_01CDB703.6FAE9630
+Content-Type: text/html;
+	charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://ww=
+w.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<HTML><HEAD><TITLE>=C4=E5=E2=E5=EB=EE=EF=EC=E5=ED=F2</TITLE>
+<META content=3D"text/html; charset=3Dwindows-1251" http-equiv=3DContent-=
+Type>
+<META name=3DGENERATOR content=3D"MSHTML 9.00.8112.16450"></HEAD>
+<BODY bgColor=3D#ffffff>
+<TABLE border=3D0 cellSpacing=3D2 cellPadding=3D10 align=3Dleft>
+  <TBODY>
+  <TR>
+    <TD bgColor=3D#fafafa width=3D650><FONT size=3D2 face=3DTahoma>&nbsp;=
+ </FONT>
+      <P align=3Dleft><FONT color=3D#000000 size=3D2 face=3DTahoma>=D3=E2=
+=E0=E6=E0=E5=EC=FB=E5=20
+      =EA=EE=EB=EB=E5=E3=E8!</FONT></P>
+      <P align=3Dleft><FONT color=3D#000000 size=3D2 face=3DTahoma>=CF=F0=
+=E8=E3=EB=E0=F8=E0=E5=EC =C2=E0=F1 =ED=E0=20
+      <STRONG>=EA=EE=ED=F4=E5=F0=E5=ED=F6=E8=FE</STRONG>, =EF=EE=F1=E2=FF=
+=F9=E5=ED=ED=F3=FE =F3=EF=F0=E0=E2=EB=E5=ED=E8=FE =E8=ED=E2=E5=F1=F2=E8=F6=
+=E8=EE=ED=ED=FB=EC=E8=20
+      =EF=F0=EE=E5=EA=F2=E0=EC=E8 =E2 =F1=F4=E5=F0=E5 =ED=E5=E4=E2=E8=E6=E8=
+=EC=EE=F1=F2=E8:</FONT></P>
+      <P align=3Dleft><FONT color=3D#4682b4 size=3D5 face=3DTahoma><STRON=
+G>=D3=EF=F0=E0=E2=EB=E5=ED=E8=E5=20
+      =EF=F0=EE=E5=EA=F2=E0=EC=E8 =E4=E5=E2=E5=EB=EE=EF=EC=E5=ED=F2=E0.</=
+STRONG></FONT></P>
+      <P align=3Dleft><FONT color=3D#000000 size=3D2 face=3DTahoma>28 - 2=
+9 =ED=EE=FF=E1=F0=FF 2012=20
+      =E3=EE=E4=E0, =D1=E0=ED=EA=F2-=CF=E5=F2=E5=F0=E1=F3=F0=E3</FONT></P=
+>
+      <P align=3Dleft><FONT size=3D2 face=3DTahoma><FONT color=3D#000000=20
+      size=3D3><STRONG>=CA=F0=E0=F2=EA=E0=FF =EF=F0=EE=E3=F0=E0=EC=EC=E0 =
+=EA=EE=ED=F4=E5=F0=E5=ED=F6=E8=E8:</STRONG></FONT> </FONT></P>
+      <DIV align=3Dleft>
+      <P><FONT size=3D2 face=3DTahoma>=CE=F1=ED=EE=E2=ED=FB=E5 =F6=E5=EB=E8=
+ =E8 =EF=F0=E8=ED=F6=E8=EF=FB =E4=E5=E2=E5=EB=EE=EF=EC=E5=ED=F2=E0.=20
+      =D3=EF=F0=E0=E2=EB=E5=ED=E8=E5 =EF=F0=EE=E5=EA=F2=EE=EC =ED=E0 =F0=E0=
+=E7=ED=FB=F5 =F1=F2=E0=E4=E8=FF=F5 =E5=E3=EE =F0=E5=E0=EB=E8=E7=E0=F6=E8=E8=
+.<BR><BR>=D4=E0=EA=F2=EE=F0=FB=20
+      =EE=EF=F0=E5=E4=E5=EB=FF=FE=F9=E8=E5 =FD=F4=F4=E5=EA=F2=E8=E2=ED=EE=
+=F1=F2=FC =E8=ED=E2=E5=F1=F2=E8=F6=E8=E9 =E2 =E4=E5=E2=E5=EB=EE=EF=EC=E5=ED=
+=F2, =E8=F5 =E2=E5=F1=EE=E2=FB=E5=20
+      =EA=EE=FD=F4=F4=E8=F6=E8=E5=ED=F2=FB, =EF=EE=F1=F2=F0=EE=E5=ED=E8=E5=
+ =EC=EE=E4=E5=EB=E5=E9.<BR><BR>=CE=F6=E5=ED=EA=E0 =E8=ED=E2=E5=F1=F2=E8=F6=
+=E8=EE=ED=ED=EE=E9=20
+      =EF=F0=E8=E2=EB=E5=EA=E0=F2=E5=EB=FC=ED=EE=F1=F2=E8 =EF=F0=EE=E5=EA=
+=F2=EE=E2.<BR><BR>=D0=E0=F1=F7=E5=F2 =E8=ED=E2=E5=F1=F2=E8=F6=E8=EE=ED=ED=
+=FB=F5 =F0=E8=F1=EA=EE=E2, =EC=E5=F2=EE=E4=FB=20
+      =EC=E8=ED=E8=EC=E8=E7=E0=F6=E8=E8 =E8=ED=E2=E5=F1=F2=E8=F6=E8=EE=ED=
+=ED=FB=F5 =E8 =E8=ED=FB=F5 =F0=E8=F1=EA=EE=E2 =E2 =E4=E5=E2=E5=EB=EE=EF=EC=
+=E5=ED=F2=E5.<BR><BR>=CF=EE=F0=FF=E4=EE=EA=20
+      =F1=EE=E3=EB=E0=F1=EE=E2=E0=ED=E8=FF =E8 =FD=EA=F1=EF=E5=F0=F2=E8=E7=
+=FB =E8=ED=E2=E5=F1=F2=E8=F6=E8=EE=ED=ED=FB=F5 =EF=F0=EE=E5=EA=F2=EE=E2.<=
+BR><BR>=CE=F6=E5=ED=EA=E0 =F3=F7=E0=F1=F2=EA=EE=E2=20
+      =E7=E5=EC=EB=E8 =E4=EB=FF =E4=E5=E2=E5=EB=EE=EF=EC=E5=ED=F2=E0.<BR>=
+<BR>=CC=E5=F2=EE=E4=FB =EE=F6=E5=ED=EA=E8 =F1=F2=EE=E8=EC=EE=F1=F2=E8 =F0=
+=E5=EA=EE=ED=F1=F2=F0=F3=E8=F0=EE=E2=E0=ED=ED=EE=E3=EE=20
+      =EE=E1=FA=E5=EA=F2=E0 =ED=E5=E4=E2=E8=E6=E8=EC=EE=F1=F2=E8.<BR><BR>=
+=C8=ED=E4=E8=E2=E8=E4=F3=E0=EB=FC=ED=FB=E5 =EE=F1=EE=E1=E5=ED=ED=EE=F1=F2=
+=E8=20
+      =F2=E5=F5=ED=E8=EA=EE-=FD=EA=EE=ED=EE=EC=E8=F7=E5=F1=EA=E8=F5 =EE=E1=
+=EE=F1=ED=EE=E2=E0=ED=E8=E9, =EA=EE=ED=F6=E5=EF=F6=E8=E9 =F0=E0=E7=E2=E8=F2=
+=E8=FF =EE=E1=FA=E5=EA=F2=EE=E2=20
+      =ED=E5=E4=E2=E8=E6=E8=EC=EE=F1=F2=E8, =EA=F0=E0=F2=EA=E8=F5 =E8 =F0=
+=E0=E7=E2=E5=F0=ED=F3=F2=FB=F5 =E1=E8=E7=ED=E5=F1-=EF=EB=E0=ED=EE=E2.</FO=
+NT></P>
+      <P><STRONG><FONT color=3D#000000 size=3D2 face=3DTahoma>=C4=EE=EF=EE=
+=EB=ED=E8=F2=E5=EB=FC=ED=EE =EE=20
+      =EC=E5=F0=EE=EF=F0=E8=FF=F2=E8=E8 =EF=EE =F2=E5=EB=E5=F4=EE=ED=F3: =
+</FONT></STRONG><FONT color=3D#000000 size=3D5=20
+      face=3DTahoma><STRONG>(8l2)=20
+      6=D72<>92_8=C7</STRONG></FONT></P></DIV></TD></TR></TBODY></TABLE><=
+/BODY></HTML>
+
+------=_NextPart_000_112A_01CDB703.6FAE9630--

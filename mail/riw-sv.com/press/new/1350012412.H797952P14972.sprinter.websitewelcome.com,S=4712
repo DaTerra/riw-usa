@@ -1,0 +1,68 @@
+Return-path: <zabegalin@yahoo.com>
+Envelope-to: press@riw-sv.com
+Delivery-date: Thu, 11 Oct 2012 22:26:52 -0500
+Received: from nm35-vm6.bullet.mail.bf1.yahoo.com ([72.30.238.78]:30377)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.80)
+	(envelope-from <zabegalin@yahoo.com>)
+	id 1TMVtk-0003tD-5J
+	for press@riw-sv.com; Thu, 11 Oct 2012 22:26:52 -0500
+Received: from [98.139.212.153] by nm35.bullet.mail.bf1.yahoo.com with NNFMP; 12 Oct 2012 03:26:50 -0000
+Received: from [98.139.212.195] by tm10.bullet.mail.bf1.yahoo.com with NNFMP; 12 Oct 2012 03:26:50 -0000
+Received: from [127.0.0.1] by omp1004.mail.bf1.yahoo.com with NNFMP; 12 Oct 2012 03:26:50 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 939759.6758.bm@omp1004.mail.bf1.yahoo.com
+Received: (qmail 89394 invoked by uid 60001); 12 Oct 2012 03:26:50 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1350012410; bh=eKOtuf29Co376+Fx4e0qtiI2cIwP6dpagDoG8p4nQKc=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=zs6netzwn27vhYaPvi5c3yzLdOzIASkMsX5otT2okxj2ZPd8Ekir49xWBXiJslJXdbq62+qfDq1D5tPX1hWfK3YIyONBQijr9SSziZyZdKJ6HgJloue8kPkAUota1xVdjsusWy7spHi63SvNjndC/M6okjDUQMVwqJupgCVN0J8=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type;
+  b=1VKn3g9KJjPggR+Vd3uK+DO09KDS12I1fVUjEg2zdV4M4tyGjuUFCTlNoBDoJGddalqPlQZw8GuBpWQ3UUVUym8WaOz0VwQHefY7MR0G4hBVpHJST18QXPA1tIdQ611wn9y+nfNHwuP5apo2pOcGgV3ANRrtDam+CwlAfejWJDc=;
+X-YMail-OSG: 2L.zcxgVM1kAK4UAy5bc7UE5ef4VCTryFXdjZNsZtgTPypX
+ 5VdxiU.MCAIFxfdlvGQKag89h2FNnfGv0GJdhZ6.H_37dhRAG0Epmnvq7XZJ
+ 3AaKLHHGdwjQ1K1PH47vOqLI1rw8b69dG6Zn8oFuHPtSVx1JBVp_V9a._OZ8
+ PWI1BT.WiNyORf5c7fj02cm.r5QX6a3iSUz421Tm29ZYSaKgJmI79saALEqk
+ etY4Mg4RdwTBTE1I3LVX0B3UUg0w8zuw4PzpkP2NO5hciNOGSq.3b_qdMQ6n
+ ttYol88w29anpt98qTjbTC9U6ZT3xNqKteC.if0dz360w0BHI.LhXfG7FN8O
+ PYKwVWD3XIqHL89lrEor9.eSkNyIqwZZBLWvry.qtHZNR6fywYHPuwzfO2sg
+ _Cu1y9bnWE6ETR91M4jeIccn3.7DEheU.mKXRdb4WgcspuobYQ_2D1QNRKEX
+ dpa_nfVAYRWcdVxXm8qkrtS94_YWqg.K0VGagU5XOHQ--
+Received: from [67.117.131.55] by web162504.mail.bf1.yahoo.com via HTTP; Thu, 11 Oct 2012 20:26:50 PDT
+X-Rocket-MIMEInfo: 001.001,SGVsbG8gSmFubmEsCgpJIGFtIFJ1c3NpYW4gam91cm5hbGlzdCBpbiB0aGUgb2xkZXN0IFJ1c3NpYW4gbmV3c3BhcGVyICJSdXNzaWFuIExpZmUiIGFuZCBJIGFsc28gcGFydGljaXBhdGUgaW4gIkRpcmVjdCBJbnZlc3RtZW50cyIgbWFnYXppbmUgKMKr0J_RgNGP0LzRi9C1INC40L3QstC10YHRgtC40YbQuNC4wrspIGluIENhbGlmb3JuaWEuwqAgSSBqdXN0IHJlY2VpdmVkIGluZm9ybWF0aW9uIGFib3V0IHRoZSBSdXNzaWFuIElubm92YXRpb24gV2VlayBDb25mZXJlbmNlLCBhbmQgSSB3aWxsIGJlIGhhcHABMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.123.450
+Message-ID: <1350012410.89228.YahooMailNeo@web162504.mail.bf1.yahoo.com>
+Date: Thu, 11 Oct 2012 20:26:50 -0700 (PDT)
+From: Andrey Z <zabegalin@yahoo.com>
+Reply-To: Andrey Z <zabegalin@yahoo.com>
+Subject: Press Pass for the Conference
+To: "press@riw-sv.com" <press@riw-sv.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="275539708-1427767558-1350012410=:89228"
+
+--275539708-1427767558-1350012410=:89228
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello Janna,=0A=0AI am Russian journalist in the oldest Russian newspaper "=
+Russian Life" and I also participate in "Direct Investments" magazine (=C2=
+=AB=D0=9F=D1=80=D1=8F=D0=BC=D1=8B=D0=B5 =D0=B8=D0=BD=D0=B2=D0=B5=D1=81=D1=
+=82=D0=B8=D1=86=D0=B8=D0=B8=C2=BB) in California.=C2=A0 I just received inf=
+ormation about the Russian Innovation Week Conference, and I will be happy =
+to participate in that conference. Could you please sign me up for the Pres=
+s Pass.=0A=0AThank you very much in advance.=0A=0AKind regards,=0AAndrey Za=
+begalin=0A
+--275539708-1427767558-1350012410=:89228
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div>Hello Janna,<br>=
+<br>I am Russian journalist in the oldest Russian newspaper "Russian Life" =
+and I also participate in "Direct Investments" magazine (=C2=AB=D0=9F=D1=80=
+=D1=8F=D0=BC=D1=8B=D0=B5 =D0=B8=D0=BD=D0=B2=D0=B5=D1=81=D1=82=D0=B8=D1=86=
+=D0=B8=D0=B8=C2=BB) in California.&nbsp; I just received information about =
+the Russian Innovation Week Conference, and I will be happy to participate =
+in that conference. Could you please sign me up for the Press Pass.<br><br>=
+Thank you very much in advance.<br><br>Kind regards,<br>Andrey Zabegalin</d=
+iv></div></body></html>
+--275539708-1427767558-1350012410=:89228--
