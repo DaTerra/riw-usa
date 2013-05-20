@@ -1,0 +1,46 @@
+Return-path: <aadamov@gmail.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Wed, 24 Oct 2012 10:58:25 -0500
+Received: from mail-lb0-f177.google.com ([209.85.217.177]:45557)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <aadamov@gmail.com>)
+	id 1TR3Ld-0002OV-Jo
+	for info@riw-sv.com; Wed, 24 Oct 2012 10:58:25 -0500
+Received: by mail-lb0-f177.google.com with SMTP id gi11so1364165lbb.8
+        for <info@riw-sv.com>; Wed, 24 Oct 2012 08:58:23 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:date:x-google-sender-auth:message-id:subject
+         :from:to:content-type;
+        bh=ldx2FzJZwuQJ9jtCPQSOou8oEREHy32TIzQq7N50tfY=;
+        b=jJWQKyLbMqkaqnHlIT4q/GCsFedZfCxQxCgQikGebkny6X8kAo4MgQtO5Fkfi9LkFB
+         +DME70YMccbHo0ttDiFtFe+F+3lpdPWEyw4aAAAY9GsFyaK6u6bwlyvvJEPbSf4q4ifG
+         M8xYZFEfWhCPuVDlCKVVQ0zy+s7rKDTxhxeYx0y/Vj1ItTD23RG7Ou6yMTSgWom36gwD
+         XaiSwlhmihVpeU6/3rSGg5UZAqIGnrcwjGvvInANJUlSIIZvtU7phvdLywia/cBFFJy8
+         5Ajm27MbBmoSv0YysYnKHfH1jwbpUV0GZVwIh5fbUhu7nvRzWKEivPZKz+CXjlPCGZIw
+         m2tA==
+MIME-Version: 1.0
+Received: by 10.112.83.104 with SMTP id p8mr6595099lby.41.1351094303371; Wed,
+ 24 Oct 2012 08:58:23 -0700 (PDT)
+Sender: aadamov@gmail.com
+Received: by 10.114.2.211 with HTTP; Wed, 24 Oct 2012 08:58:23 -0700 (PDT)
+Date: Wed, 24 Oct 2012 08:58:23 -0700
+X-Google-Sender-Auth: l-lAvQb3R34-YjtJHRjB_WTFSvg
+Message-ID: <CAPCW+ewp2uquN6nZ4BeOfZgwhSsMMhc9RLtQ7EkSfr0QnFbVig@mail.gmail.com>
+Subject: Russian innovation week
+From: AA <aa@alphray.com>
+To: info@riw-sv.com
+Content-Type: text/plain; charset=ISO-8859-1
+
+Dear Sir or Madam,
+
+Unfortunately, we have not learned in time about Russian Innovation
+Week event in Mountain View. We still hope to attend if this is at all
+possible. If not, please keep us appraised of future events.
+We are an EDA software "startup" with major semiconductor
+manufacturers. Majority of our founders are Russians, so it would be
+very interesting to learn about other innovative russian businesses.
+With Best Regards,
+Anatoly Adamov
+CEO, Alphray Inc.

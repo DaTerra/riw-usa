@@ -1,0 +1,145 @@
+# Webalizer V2.23-05 Incremental Data - 05/19/2013 17:04:56
+2013 5 19 17 4 56
+12 11 4 4 1 3 6496 6 6 0
+1 2 6 4 19
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 4 2840 2 2 2
+0 0 0 0 0 0
+1 1 53 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 4 2840 2 2 2
+1 1 53 1 1 1
+0 0 0 0 0 0
+2 1 710 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+4 4 2840 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 1 710 0
+0 0 0 0
+1 1 53 1
+4 4 2840 2
+0 0 0 0
+0 0 0 0
+1 1 53 1
+0
+0
+0
+11
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/googlee3aec3c90c1e89ff.html
+0 2 0 106 2 1
+/
+0 4 0 2840 4 1
+/robots.txt
+0 5 0 3550 0 0
+/img/speaker_anatoly_chubais_rusnano.png
+0 1 24469920 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+crawl-66-249-73-132.googlebot.com
+0 4 3 2130 1 1368737957
+/
+crawl-66-249-73-133.googlebot.com
+0 2 2 1420 1 1367650101
+/
+crawl-66-249-73-217.googlebot.com
+0 4 4 2840 2 1368737550
+/
+rate-limited-proxy-72-14-199-117.google.com
+0 2 2 106 2 1368832080
+/googlee3aec3c90c1e89ff.html
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crawl-66-249-73-132.googlebot.com
+0 2 1 710 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 12
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 9
+Googlebot-Image/1.0
+0 1
+Mozilla/5.0 (compatible; Google-Site-Verification/1.0)
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

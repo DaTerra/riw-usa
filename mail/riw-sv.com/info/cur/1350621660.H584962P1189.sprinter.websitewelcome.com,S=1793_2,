@@ -1,0 +1,40 @@
+Return-path: <andreygsv@gmail.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Thu, 18 Oct 2012 23:41:00 -0500
+Received: from mail-ob0-f177.google.com ([209.85.214.177]:64808)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <andreygsv@gmail.com>)
+	id 1TP4OK-0000Ir-At
+	for info@riw-sv.com; Thu, 18 Oct 2012 23:41:00 -0500
+Received: by mail-ob0-f177.google.com with SMTP id wd20so76840obb.8
+        for <info@riw-sv.com>; Thu, 18 Oct 2012 21:40:59 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=e6DV3kuRQyz1NEYFHqouJUcDLmcmyngHfNqFll1uNfI=;
+        b=irlE37ri6LbKOtJZlVkkfIGNekjGf0c9Xd9aRkwYMDRyvvgvsF0iPpD+BODxHLdRjq
+         9E9O+EW2rsk86cGtXDkaWPVE4+Qsl8U0Fh2JlO9gNBnanV6rh73KUZmTYNta4askEq22
+         1UEFehCo4NhSnLxA4pgb7iBepLPvnuntnP6uA5RxdvxW/bwA+thJl6c2TUnuVIOeTY2x
+         cM9OcDYkfqGZk1aTZC/UyLoFYS1J7Vz5nMl13jbH07u45XdQN34TnUyHB8o4QZFTpeBI
+         JYP9CWkn1dSm1Z8erKywG5BR2Lv+g62gN3KZqIbhKN/1bhX3y9CcAIyuEc4v5ZPRiD78
+         098w==
+MIME-Version: 1.0
+Received: by 10.60.171.114 with SMTP id at18mr140650oec.24.1350621659813; Thu,
+ 18 Oct 2012 21:40:59 -0700 (PDT)
+Received: by 10.76.154.167 with HTTP; Thu, 18 Oct 2012 21:40:59 -0700 (PDT)
+Date: Thu, 18 Oct 2012 21:40:59 -0700
+Message-ID: <CAH3jgmq2EsEZUFbUAhJ0jNU5CH8WXaqPkQzhgL7Aqvc6Sn00QA@mail.gmail.com>
+Subject: Russian Innovation Week 2012
+From: Andrey Gusev <andreygsv@gmail.com>
+To: info@riw-sv.com
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Your web site says that the registration is now closed. Will it be
+possible to attend as an observer at any point during the even? E.g.
+just keynotes and the Startup Exhibition?
+
+Thank you,
+Andrey

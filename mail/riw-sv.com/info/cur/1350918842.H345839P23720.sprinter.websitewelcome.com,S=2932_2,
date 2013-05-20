@@ -1,0 +1,64 @@
+Return-path: <bala@airupt.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Mon, 22 Oct 2012 10:14:02 -0500
+Received: from mail-vc0-f177.google.com ([209.85.220.177]:63863)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <bala@airupt.com>)
+	id 1TQJha-0006A3-0k
+	for info@riw-sv.com; Mon, 22 Oct 2012 10:14:02 -0500
+Received: by mail-vc0-f177.google.com with SMTP id p16so3538720vcq.8
+        for <info@riw-sv.com>; Mon, 22 Oct 2012 08:14:01 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:x-originating-ip:date:message-id:subject:from:to
+         :content-type:x-gm-message-state;
+        bh=J6WeXh/rsV5d1iyWgtBWQAUp/KPuydKRpqcTX5Owhfc=;
+        b=bitx3VJmapt4n/jxGJslNC4969FhDrXWv2jpK8Ld3l2QgALLfj0HWC0zxF+3WT6U5O
+         FfOVD8ciFdAFaxxzsbhTY6L+CjsmXl5uMnFf5aJ4d0BTatpijDwe5VrLwPiKM7lUoeF1
+         Vv3HztWOdL8ducAfY6qWlX/15L5JS/piFrqlVvTGCJZK8R3IyQXlJFJcIkvUqlQOKhBX
+         +0bDq7msqk9nB/AGTwS3Fz/yJr2GETt7luJQarKf3oIQS9yd2ycCv+Tqh/mtACMhrCCI
+         7PxeCFYPQf5zbUYqBI157ypalQcfkiijqDJf1l4PbRBjIO5iheY1viBjdn/eIEvIro9h
+         HIpA==
+MIME-Version: 1.0
+Received: by 10.220.154.68 with SMTP id n4mr15672883vcw.22.1350918840946; Mon,
+ 22 Oct 2012 08:14:00 -0700 (PDT)
+Received: by 10.58.137.167 with HTTP; Mon, 22 Oct 2012 08:14:00 -0700 (PDT)
+X-Originating-IP: [75.140.154.145]
+Date: Mon, 22 Oct 2012 08:14:00 -0700
+Message-ID: <CAE4zf=x0qfyYQsC0hMf7Kd18TVkoWxYGoMKL_e8MF0XUJQuH_Q@mail.gmail.com>
+Subject: Registration
+From: Bala Velmurugan <bala@airupt.com>
+To: info@riw-sv.com
+Content-Type: multipart/alternative; boundary=f46d043be0bea28f4b04cca74de2
+X-Gm-Message-State: ALoCoQkzSB0mnl7T/vGrR5l8H3jOThLA13e2/wb8bFoOYagOfbYpdM/zyBNq7csj6bCv63zpsyoe
+
+--f46d043be0bea28f4b04cca74de2
+Content-Type: text/plain; charset=ISO-8859-1
+
+Dear Organizer,
+
+Greetings. I have come to know about your conference much late. I am the
+founder of a social-mobile software company with all its R&D team in Russia
+and Ukraine. I realize the registration for this event is closed, but it
+would be a shame to miss this great lineup of speakers being in Silicon
+valley. Let me know if there is any last minute cancellation and if i can
+take the spot.
+
+Regards
+Bala Velmurugan
+408.315.1700
+
+--f46d043be0bea28f4b04cca74de2
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Dear Organizer,<br><br>Greetings. I have come to know about your conference=
+ much late. I am the founder of a social-mobile software company with all i=
+ts R&amp;D team in Russia and Ukraine. I realize the registration for this =
+event is closed, but it would be a shame to miss this great lineup of speak=
+ers being in Silicon valley. Let me know if there is any last minute cancel=
+lation and if i can take the spot.<br>
+<br>Regards<br>Bala Velmurugan<br>408.315.1700<br>
+
+--f46d043be0bea28f4b04cca74de2--

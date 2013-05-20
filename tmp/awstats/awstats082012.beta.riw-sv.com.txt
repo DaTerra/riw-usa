@@ -1,0 +1,259 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201208 will be lost/reset.
+# Last config file used to build this data file was /home/riw2012/tmp/awstats/awstats.beta.riw-sv.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2008                
+POS_TIME 2695                
+POS_VISITOR 3457                
+POS_DAY 3576                
+POS_DOMAIN 3730                
+POS_LOGIN 3963                
+POS_ROBOT 4118                
+POS_WORMS 4250                
+POS_EMAILSENDER 4381                
+POS_EMAILRECEIVER 4524                
+POS_SESSION 4600                
+POS_SIDER 4743                
+POS_FILETYPES 5487                
+POS_DOWNLOADS 5730                
+POS_OS 5778                
+POS_BROWSER 5838                
+POS_SCREENSIZE 5960                
+POS_UNKNOWNREFERER 6034                
+POS_UNKNOWNREFERERBROWSER 6121                
+POS_ORIGIN 6203                
+POS_SEREFERRALS 6343                
+POS_PAGEREFS 6487                
+POS_SEARCHWORDS 6635                
+POS_KEYWORDS 6787                
+POS_MISC 2359                
+POS_ERRORS 6846                
+POS_CLUSTER 3819                
+POS_SIDER_404 6945                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20120901000133 7920 1632387 10335879086295
+FirstTime 20120831112927
+LastTime 20120831235857
+LastUpdate 20130104201750 7920 0 7919 0 0
+TotalVisits 2                   
+TotalUnique 1                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 1                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 3 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 49 311 1871721 0 1 0
+12 21 86 53331 0 0 0
+13 134 661 503566 0 4 11760
+14 74 319 216450 0 0 0
+15 222 1038 1667710 0 3 5880
+16 238 872 805058 0 0 0
+17 154 711 574880 0 0 0
+18 0 0 0 0 0 0
+19 0 1 0 0 0 0
+20 245 1236 766974 1 1 36548
+21 281 1368 1760003 0 1 0
+22 116 377 587613 0 0 0
+23 241 929 1730069 0 0 0
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1
+50.131.222.2 1775 7909 10537375 20120831235857
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 1
+20120831 1775 7909 10537375 2
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+us 1775 7909 10537375
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+1h+ 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 19
+/typeface/dtr-light-webfont.woff 384 109840 0 0
+/typeface/dtr-med-webfont.woff 372 107984 0 0
+/typeface/dtr-reg-webfont.woff 358 105184 0 2
+/organizers_and_partners 220 1871279 0 0
+/home 125 865898 1 0
+/home2 101 764196 0 0
+/registration 75 1238741 0 0
+/ 25 150280 1 0
+/registration2 19 235719 0 0
+/agenda 18 62594 0 0
+/speakers_and_participants 18 123518 0 0
+/typeface/dtr-reg-webfont.ttf 13 49492 0 0
+/typeface/dtr-med-webfont.ttf 11 49364 0 0
+/media 9 29200 0 0
+/travel_info 8 26183 0 0
+/test 7 49503 0 0
+/typeface/dtr-light-webfont.ttf 7 101784 0 0
+/organizers_and_partners/candy_solutions 4 22946 0 0
+/lista 1 3054 0 0
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 881 1080694 0 0
+png 3507 2585783 0 0
+ttf 31 200640 0 0
+woff 1114 323008 0 0
+html 25 150280 0 0
+jpg 115 11428 0 0
+js 1200 396488 0 0
+Unknown 605 5292831 0 0
+gif 431 496223 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 2
+macosx 162
+win7 7747
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 4
+chrome21.0.1180.83 80
+firefox15.0 7667
+safari 101
+chrome21.0.1180.89 61
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 156 176
+From1 0 0
+From2 0 0
+From3 0 0
+From4 1619 7733
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 1 36548
+404 6 17640
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 2
+/img/partner-candy-solutions.jpg 2 http://beta.riw-sv.com/organizers_and_partners
+/img/horizontal-line-720.png 4 http://beta.riw-sv.com/organizers_and_partners
+END_SIDER_404

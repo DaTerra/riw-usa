@@ -1,0 +1,63 @@
+Return-path: <marina_aquafairy@yahoo.com.au>
+Envelope-to: info@riw-sv.com
+Delivery-date: Wed, 03 Apr 2013 09:56:25 -0500
+Received: from nm13-vm0.bullet.mail.bf1.yahoo.com ([98.139.213.79]:39613)
+	by sprinter.websitewelcome.com with smtp (Exim 4.80)
+	(envelope-from <marina_aquafairy@yahoo.com.au>)
+	id 1UNP6v-0005tq-5g
+	for info@riw-sv.com; Wed, 03 Apr 2013 09:56:25 -0500
+Received: from [98.139.215.142] by nm13.bullet.mail.bf1.yahoo.com with NNFMP; 03 Apr 2013 14:56:24 -0000
+Received: from [98.139.212.231] by tm13.bullet.mail.bf1.yahoo.com with NNFMP; 03 Apr 2013 14:56:24 -0000
+Received: from [127.0.0.1] by omp1040.mail.bf1.yahoo.com with NNFMP; 03 Apr 2013 14:56:24 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 364517.79066.bm@omp1040.mail.bf1.yahoo.com
+Received: (qmail 77112 invoked by uid 60001); 3 Apr 2013 14:56:24 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com.au; s=s1024; t=1365000984; bh=5ZzsPWfEmJZ/ZUbyq+XFXLcJMMXixpupRT75NR7m8BQ=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=SYFiuQ5eMmeplvT5vcEhpGp9QNj0nAhZj56KA7l5oyIODXzSXUGb3OfsqK6XCx1ukKl5FDSuBcTRX2VsU1zsh9Abl9erHsivNUfwZo1pTcr/5CecLfOv/SgiwsiBgUvMkPA9yirEc446L/iLQMqCSEkjiHcMhU5va7iep8hOCIE=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.au;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type;
+  b=WfQGSDc/ZFJgiHIyzi3IGvOqc9tT7neKU4VPmUeXKtFef9GrVn7837DsMrulmT0D1oXarLHuX6fDVGaAo05MevKFdubxyg+rVVTllLO8M919KIZsR8X8BAQO5+glWvM9tF3mZvCr3F7kDisZbWRtMOQzEezrsd9bZh9tSlpHr90=;
+X-YMail-OSG: OC5syNoVM1nWgpQAqyalNL33y1V6bqud15jxoLYYk.3kU0g
+ j60ZxqXmDYqQUjJODeQIXsz8mZuAw53FxuXUtNhhGPM98Awu21_Pncoso0XQ
+ brXdHp4899SX8uVOBe3ksLpGbMqiGPPA2FbXYu2djq5syD9VXL6OVdOO4CKs
+ N04Gbxu.88ixEtI4iq0sVSTD1TUOoJ_qHTtsZ_xOZ7CAVybqxiKitXSM59Bo
+ MOI50hFJntnyJvSvIuufZEKflO4ODMZLa1mhWDYunB2q8qq4EFeJQZXSKdYH
+ Ke_k_PvmDzMnRFqAC_7uX8wuVoaghHhApVZuddBVnrqFkOAWjSiGcA7VpJRk
+ Ci_aKZIyw0jb3aJmOyEOHZzEjj94._EqxHA616qEpNlNKk3bH.ciNXW6aSrL
+ 1ublebh6wuESzuTbZyjZLtwCj._biPxA1sB7Wtl9AB5JeJoeqTqEyuWh6lW1
+ rEpZbLKCgd01cFjSkFfmnSZ0P4c4MO8iJxeEG0rZqrfzO7xZ9zkFTptuzkpD
+ URmLvF47XtDOaomORBDJWYymSX2l9zQOZ9ZLJazxmztugJCCth890jAn_rGf
+ YzDptrPk.CzMci0XcBlkgTzRcGTz6cuI.ymY-
+Received: from [101.218.135.122] by web162901.mail.bf1.yahoo.com via HTTP; Wed, 03 Apr 2013 07:56:24 PDT
+X-Rocket-MIMEInfo: 002.001,Cmh0dHA6Ly93d3cucmlwbGV5Y3Jvc3NpbmcuY29tL3VpaHp3bmd0L250aHouaWloZj9jc2pkICAKCgogCgoKCiAKNC8zLzIwMTMgMzo1NjoxNiBQTQoKCgogCgogCiAgICAgIAoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKCgoKCgoKCgoKCiAgICAgICAgCgoKNC8zLzIwMTMgMzo1NjoxNiBQTSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgATABAQEB
+X-Mailer: YahooMailWebService/0.8.140.532
+Message-ID: <1365000984.69393.YahooMailNeo@web162901.mail.bf1.yahoo.com>
+Date: Wed, 3 Apr 2013 07:56:24 -0700 (PDT)
+From: Aqua Fairy <marina_aquafairy@yahoo.com.au>
+Reply-To: Aqua Fairy <marina_aquafairy@yahoo.com.au>
+Subject: -Aqua Fairy-
+To: alex <alex@1world.com>, linda <linda@greatwallclub.com>,
+  info <info@riw-sv.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-1846104760-1967762133-1365000984=:69393"
+
+---1846104760-1967762133-1365000984=:69393
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=0Ahttp://www.ripleycrossing.com/uihzwngt/nthz.iihf?csjd  =0A=0A=0A =0A=0A=
+=0A=0A =0A4/3/2013 3:56:16 PM=0A=0A=0A=0A =0A=0A =0A      =0A=0A           =
+                              =0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A        =0A=
+=0A=0A4/3/2013 3:56:16 PM                                                  =
+                     
+---1846104760-1967762133-1365000984=:69393
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<br><span><a href=3D"http://www.ripleycrossing.com/uihzwngt/nthz.iihf?csjd"=
+>http://www.ripleycrossing.com/uihzwngt/nthz.iihf?csjd</a></span>  <br><br>=
+<br> <br><br><br><br> <br>4/3/2013 3:56:16 PM<br><br><br><br> <br><br> <br>=
+      <br><br>                                         <br><br><br><br><br>=
+<br><br><br><br><br><br>        <br><br><br>4/3/2013 3:56:16 PM            =
+                                                           
+---1846104760-1967762133-1365000984=:69393--

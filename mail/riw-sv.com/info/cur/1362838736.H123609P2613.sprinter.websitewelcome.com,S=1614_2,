@@ -1,0 +1,46 @@
+Return-path: <magmaaf9@bobandisabelle.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Sat, 09 Mar 2013 08:18:56 -0600
+Received: from [201.190.69.188] (port=61514 helo=201-190-69-188.une.net.co)
+	by sprinter.websitewelcome.com with esmtp (Exim 4.80)
+	(envelope-from <magmaaf9@bobandisabelle.com>)
+	id 1UEKbv-0000ep-Gk
+	for info@riw-sv.com; Sat, 09 Mar 2013 08:18:56 -0600
+Received: from  (192.168.1.174) by bobandisabelle.com (201.190.69.188) with Microsoft SMTP Server id 8.0.685.24; Sat, 9 Mar 2013 09:18:55 -0500
+Message-ID: <513B40BF.507060@bobandisabelle.com>
+Date: Sat, 9 Mar 2013 09:18:55 -0500
+From: "Darius Stark" <magmaaf9@bobandisabelle.com>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.12) Gecko/20101027 Thunderbird/3.1.6
+MIME-Version: 1.0
+To: <info@riw-sv.com>
+Cc: <registration@riw-sv.com>
+Subject: Hello man
+Content-Type: multipart/alternative;
+ boundary="------------04030100405060705020502"
+X-Antivirus: avast! (VPS 110926-1, 26/09/2011), Outbound message
+X-Antivirus-Status: Clean
+
+This is a multi-part message in MIME format.
+--------------04030100405060705020502
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+How are you doing?
+
+--------------04030100405060705020502
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body bgcolor="#ffffff" text="#000000">
+    How are you doing?
+  </body>
+
+</html>
+
+--------------04030100405060705020502--

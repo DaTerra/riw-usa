@@ -1,0 +1,45 @@
+Return-path: <sterilizerlws@esedona.net>
+Envelope-to: registration@riw-sv.com
+Delivery-date: Mon, 18 Mar 2013 11:57:38 -0500
+Received: from [186.39.141.117] (port=21723 helo=186-39-141-117.speedy.com.ar)
+	by sprinter.websitewelcome.com with esmtp (Exim 4.80)
+	(envelope-from <sterilizerlws@esedona.net>)
+	id 1UHdNR-0000Hz-M1
+	for registration@riw-sv.com; Mon, 18 Mar 2013 11:57:37 -0500
+Received: from apache by esedona.net with local (Exim 4.67)
+	(envelope-from <sterilizerlws@esedona.net>)
+	id HUQ9E9-15PDDE-OT
+	for <registration@riw-sv.com>; Mon, 18 Mar 2013 13:57:36 -0300
+To: <registration@riw-sv.com>
+Subject: HELLO
+X-PHP-Script: esedona.net/sendmail.php for 186.39.141.117
+From: "Amelia Orr" <sterilizerlws@esedona.net>
+X-Sender: "Amelia Orr" <sterilizerlws@esedona.net>
+X-Mailer: PHP
+X-Priority: 1
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="------------07020500601080409020509"
+Message-Id: <3K4GX9-9EAT6C-N8@esedona.net>
+Date: Mon, 18 Mar 2013 13:57:36 -0300
+
+This is a multi-part message in MIME format.
+--------------07020500601080409020509
+Content-Type: text/plain; charset="windows-1250"; format=flowed
+
+How are you doing?
+
+--------------07020500601080409020509
+Content-Type: text/html; charset="iso-8859-2"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body bgcolor="#ffffff" text="#000000">
+    How are you doing?
+  </body>
+</html>
+
+--------------07020500601080409020509--

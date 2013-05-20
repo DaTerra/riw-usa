@@ -1,0 +1,43 @@
+Return-path: <harmonicaa8@compufort.com>
+Envelope-to: registration@riw-sv.com
+Delivery-date: Mon, 18 Mar 2013 21:38:42 -0500
+Received: from [190.234.175.184] (port=52847)
+	by sprinter.websitewelcome.com with esmtp (Exim 4.80)
+	(envelope-from <harmonicaa8@compufort.com>)
+	id 1UHmRl-0001ZB-Oe
+	for registration@riw-sv.com; Mon, 18 Mar 2013 21:38:41 -0500
+Received: from  (192.168.1.2) by compufort.com (190.234.175.184) with Microsoft SMTP Server id 8.0.685.24; Mon, 18 Mar 2013 21:38:40 -0500
+Message-ID: <5147C0D9.109050@compufort.com>
+Date: Mon, 18 Mar 2013 21:38:40 -0500
+From: "Mike Barnes" <harmonicaa8@compufort.com>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.24) Gecko/20100328 Thunderbird/2.0.0.24
+MIME-Version: 1.0
+To: <registration@riw-sv.com>
+Subject: hi
+Content-Type: multipart/alternative;
+ boundary="------------04020800705040401010203"
+
+This is a multi-part message in MIME format.
+--------------04020800705040401010203
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+How are the things?
+
+--------------04020800705040401010203
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body bgcolor="#ffffff" text="#000000">
+    How are the things?
+  </body>
+
+</html>
+
+--------------04020800705040401010203--

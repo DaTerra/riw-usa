@@ -1,0 +1,153 @@
+Return-path: <>
+Envelope-to: info@riw-sv.com
+Delivery-date: Thu, 01 Nov 2012 10:51:17 -0500
+Received: from gateway02.websitewelcome.com ([69.56.159.20]:48234)
+	by sprinter.websitewelcome.com with esmtp (Exim 4.80)
+	id 1TTx37-0000Vz-Gg
+	for info@riw-sv.com; Thu, 01 Nov 2012 10:51:17 -0500
+Received: by gateway02.websitewelcome.com (Postfix)
+	id 497455D3FFA80; Thu,  1 Nov 2012 10:51:17 -0500 (CDT)
+Date: Thu,  1 Nov 2012 10:51:17 -0500 (CDT)
+From: MAILER-DAEMON@gateway02.websitewelcome.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: info@riw-sv.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="F2B145D3FF9F3.1351785077/gateway02.websitewelcome.com"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20121101155117.497455D3FFA80@gateway02.websitewelcome.com>
+
+This is a MIME-encapsulated message.
+
+--F2B145D3FF9F3.1351785077/gateway02.websitewelcome.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host gateway02.websitewelcome.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<d.sedov@bazelevs.ru>: host aspmx.l.google.com[173.194.77.26] said: 550-5.1.1
+    The email account that you tried to reach does not exist. Please try
+    550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    http://support.google.com/mail/bin/answer.py?answer=6596
+    df4si6604356obc.194 (in reply to RCPT TO command)
+
+--F2B145D3FF9F3.1351785077/gateway02.websitewelcome.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; gateway02.websitewelcome.com
+X-Postfix-Queue-ID: F2B145D3FF9F3
+X-Postfix-Sender: rfc822; info@riw-sv.com
+Arrival-Date: Thu,  1 Nov 2012 10:51:16 -0500 (CDT)
+
+Final-Recipient: rfc822; d.sedov@bazelevs.ru
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; aspmx.l.google.com
+Diagnostic-Code: smtp; 550-5.1.1 The email account that you tried to reach does
+    not exist. Please try 550-5.1.1 double-checking the recipient's email
+    address for typos or 550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    http://support.google.com/mail/bin/answer.py?answer=6596
+    df4si6604356obc.194
+
+--F2B145D3FF9F3.1351785077/gateway02.websitewelcome.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <info@riw-sv.com>
+Received: by gateway02.websitewelcome.com (Postfix, from userid 5007)
+	id F2B145D3FF9F3; Thu,  1 Nov 2012 10:51:16 -0500 (CDT)
+Received: from ham03.websitewelcome.com (ham.websitewelcome.com [173.192.100.229])
+	by gateway02.websitewelcome.com (Postfix) with ESMTP id DE0045D3FF9BF
+	for <d.sedov@bazelevs.ru>; Thu,  1 Nov 2012 10:51:16 -0500 (CDT)
+Received: by ham03.websitewelcome.com (Postfix, from userid 666)
+	id BBA654337A691; Thu,  1 Nov 2012 10:51:16 -0500 (CDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
+	ham03.websitewelcome.com
+X-Spam-Flag2999: NO
+X-Spam-Level2999: 
+X-Spam-Status2999: "No, score=-0.8 required=5.0 tests=BAYES_00,
+	HTML_IMAGE_ONLY_16,HTML_MESSAGE,T_REMOTE_IMAGE autolearn=ham version=3.3.1
+Received: from sprinter.websitewelcome.com (sprinter.websitewelcome.com [174.120.127.98])
+	by ham03.websitewelcome.com (Postfix) with ESMTP id 948F64337A623
+	for <d.sedov@bazelevs.ru>; Thu,  1 Nov 2012 10:51:16 -0500 (CDT)
+Received: from riw2012 by sprinter.websitewelcome.com with local (Exim 4.80)
+	(envelope-from <info@riw-sv.com>)
+	id 1TTx36-0000Rq-DN
+	for d.sedov@bazelevs.ru; Thu, 01 Nov 2012 10:51:16 -0500
+To: d.sedov@bazelevs.ru
+Subject: Russian Innovation Week Evaluation Survey - your feedback is appreciated
+X-PHP-Script: riw-sv.com/admin/processa/mail.php for 24.130.217.7
+Date: Thu, 1 Nov 2012 10:51:16 -0500
+From: RIW 2012 <registration@riw-sv.com>
+Reply-to: RIW 2012 <info@riw-sv.com>
+Message-ID: <cd7790a8fc1974012b0f25c1001a756d@riw-sv.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_cd7790a8fc1974012b0f25c1001a756d"
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - sprinter.websitewelcome.com
+X-AntiAbuse: Original Domain - bazelevs.ru
+X-AntiAbuse: Originator/Caller UID/GID - [7595 32003] / [47 12]
+X-AntiAbuse: Sender Address Domain - riw-sv.com
+X-BWhitelist: no
+X-Source: /usr/bin/php
+X-Source-Args: /usr/bin/php /home/riw2012/public_html/admin/processa/mail.php 
+X-Source-Dir: riw-sv.com:/public_html/admin/processa
+X-Source-Sender: 
+X-Source-Auth: riw2012
+X-Email-Count: 166
+X-Source-Cap: cml3MjAxMjtzZXJnaW87c3ByaW50ZXIud2Vic2l0ZXdlbGNvbWUuY29t
+
+--b1_cd7790a8fc1974012b0f25c1001a756d
+Content-Type: text/plain; charset = "iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+<div style="width:700px;">
+				<img src="http://www.riw-sv.com/img/email-header.gif" />
+				<div style="margin-left:50px;"><p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: small;"><span style="font-size: medium;">Dear&nbsp;Dennis Sedov,</span></span></p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: small;"><span style="font-size: medium;">Thank you for attending the Russian Innovation Week Conference on Thursday, 10/25 and Friday, 10/26 at the Computer History Museum in Mountain View, CA!&nbsp;&nbsp;We&nbsp;would appreciate your feedback on the event in an effort to make the 2013 conference even better.&nbsp; Please take a few minutes to complete this survey:&nbsp;</span></span></p>
+<p><a href="http://www.surveymonkey.com/s/ND82JPD">http://www.surveymonkey.com/s/ND82JPD</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: small;"><span style="font-size: medium;">Thank you in advance for your time,</span></span></p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: small;"><span style="font-size: medium;">The RIW Team</span></span></p></div></div>
+
+
+--b1_cd7790a8fc1974012b0f25c1001a756d
+Content-Type: text/html; charset = "iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+<div style="width:700px;">
+				<img src="http://www.riw-sv.com/img/email-header.gif" />
+				<div style="margin-left:50px;"><p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: small;"><span style="font-size: medium;">Dear&nbsp;Dennis Sedov,</span></span></p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: small;"><span style="font-size: medium;">Thank you for attending the Russian Innovation Week Conference on Thursday, 10/25 and Friday, 10/26 at the Computer History Museum in Mountain View, CA!&nbsp;&nbsp;We&nbsp;would appreciate your feedback on the event in an effort to make the 2013 conference even better.&nbsp; Please take a few minutes to complete this survey:&nbsp;</span></span></p>
+<p><a href="http://www.surveymonkey.com/s/ND82JPD">http://www.surveymonkey.com/s/ND82JPD</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: small;"><span style="font-size: medium;">Thank you in advance for your time,</span></span></p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: small;"><span style="font-size: medium;">The RIW Team</span></span></p></div></div>
+
+
+
+--b1_cd7790a8fc1974012b0f25c1001a756d--
+
+
+--F2B145D3FF9F3.1351785077/gateway02.websitewelcome.com--

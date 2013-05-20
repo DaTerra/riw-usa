@@ -1,0 +1,136 @@
+Return-path: <>
+Envelope-to: info@riw-sv.com
+Delivery-date: Wed, 24 Oct 2012 15:36:43 -0500
+Received: from nm40-vm8.bullet.mail.ne1.yahoo.com ([98.138.229.184]:47473)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.80)
+	id 1TR7gx-00036K-8J
+	for info@riw-sv.com; Wed, 24 Oct 2012 15:36:43 -0500
+Received: from [98.138.226.180] by nm40.bullet.mail.ne1.yahoo.com with NNFMP; 24 Oct 2012 20:36:42 -0000
+Received: from [98.138.226.165] by tm15.bullet.mail.ne1.yahoo.com with NNFMP; 24 Oct 2012 20:36:42 -0000
+Received: from [127.0.0.1] by omp1066.mail.ne1.yahoo.com with NNFMP; 24 Oct 2012 20:36:42 -0000
+X-Yahoo-Newman-Property: ymail-5
+X-Yahoo-Newman-Id: 136136.82517.bm@omp1066.mail.ne1.yahoo.com
+Message-ID: <136136.82517.bm@omp1066.mail.ne1.yahoo.com>
+Received: (qmail 41247 invoked for bounce); 24 Oct 2012 20:36:40 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=bounce; t=1351111000; bh=oM2OJB3j04178v49V4xtSB4c/kyuA4SmUiBdsR1XRSE=; h=Date:From:To:Subject; b=iDZrqf8+gKUgau6GbD8B7g4wfYIGqSSQdZLgLuXk5qxDm8+vLodSxpeqdSuDhB4sBqkkUz8DE/DG2BJQxHo1QYuLNobf8uUrNu5IwIoxjjxG48+6Timh9BCuh3qyd8xUJuDEtaCjxTEx8Gjt00BdxkDKbQFDMNXk5xMcxMGlTQw=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=bounce; d=yahoo.com;
+  h=Date:From:To:Subject;
+  b=RKeLWRc493n3zcLrqLRYJ7GqyIzWuGd/faG3XAh8qg8FgqP27M9li23l4UyFfH2EIiMnCNNkmsZd6Ya8F2LUas5U0lQSUmR38kXw7vUIvkK2RmMumYxdaaYMgT5/HxlstRC9Rx6iM7wbB2kUEtipvZ6WqDeUABhhVffIZT2Qr2k=  ;
+Date: 24 Oct 2012 20:36:40 -0000
+From: MAILER-DAEMON@yahoo.com
+To: info@riw-sv.com
+Subject: failure notice
+
+Hi. This is the qmail-send program at yahoo.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<santanaviny@yahoo.com>:
+Can't open mailbox for santanaviny@yahoo.com. Temporary error
+//I'm not going to try again; this message has been in the queue too long.
+
+--- Below this line is a copy of the message.
+
+Return-Path: <info@riw-sv.com>
+Return-Path: <info@riw-sv.com>
+Received-SPF: softfail (transitioning domain of riw-sv.com does not designate 72.167.234.242 as permitted sender)
+X-YMailISG: HDx4i58WLDsPqz_tZpQ7yiuYUexotXuHhykiStIxHxKpxM9Z
+ xG2ILKnPAkeric52bBlIlBXPgqwgKhRbz.WJhzXjnV5kkqeBbHHRcsXaeZYu
+ FcyEl3BADapul3y9PLuaYoeV6hT7pmpO_EmeUA60SLMWJzNePityCZa4RQDY
+ T3nqnQ5XSc5SXN0bnkTgkKUGtmAZmG3F1ldsY4x7y0.0LuUwglhmUz_lo9mL
+ 8pgoXMRvY7BsYrP2hENGDp9Ljb5vcBb3e4BHr_YJ278HiifmjWjWowAMPEHF
+ V5R4HFoRJ.4U7a5xav.XQQA8jiOErKH0Sj.sXjFofMTlFPK41dp71GPoSLTS
+ Uj3lxsbom.ePeYerk9fgLhqIUtSim8PkYn.czjiKLEHwWLy_qKu6Ev9t0Dhw
+ ckcrrbvWbK0xo7KhMKc8RuZB_wF8md9groRCXAwejEObwetlv2fW7XhYneKc
+ 2XWl0HM6lsVpWFEiJZxZP9Gj7R73MQUajqOYGG5_NkqsY.VAsPkWRaQFA5io
+ ..QQZGcGVV5EfEF9A5OGgZ2QSwBdCm3h0yUXFFAxfuppTV_GDlM2oI5EGDIe
+ nAEl7M0DLLCAfCzt_4SZkInsYJyWIj.fps2MnyiRoPTSBb70vAiKYjdjPIJ9
+ 4OWnSlV_l3lX2SEMCrxGKt.Q3BzMKOL0AZ5zujephnmOmKO5CJy._GRnXghK
+ OVZmx7.txTFvLtCLPVaKxKwfYFBtS1Ns4yIT_3yzZ1xIIbrE3c34QoU3XIIL
+ Bq7Jiccf80bwUJTqgL0zkK4yzGTpqZ7pbmVu4YR6jOG68aFe_J.cayDSgpLx
+ fF965G36F79sMeWMCIWHqkH78WximiyqJNGvPGgn5I2g410dbLOFXVM89868
+ WljfbZYB4vLBMTfj46SqidUN20LR8nDMwuFNut5Hx8e1n7t0qGu0CZap5wIw
+ Ep.TsclpwEzx0jzEqJwC3r5wK7cEOu9W_1RQwz8vlYHgLZ7pskbGeGMliDyp
+ EQ_cPPNPxjLRvcSqvsb75DGeGQKKkT9r_pQoWZfAvPnRILvOL1dYDkHKcjEy
+ CGSBHYVaXkmZpm1LbpRsqus97_OUVinFH8d0NveR.sA4OLdbchr3rJ85UZH_
+ 7qgOo_IubCZzX8nHEIHtR50Xr9V2CpubofIqPVPsks2NyRB0OjS2PWEkUyb2
+ Mds7sM9fL2ZfSJYyWd9PsyhgOhHiMUMCARLgK53VsqLdYcXcSW35QLV9VA_I
+ kxCNDjl_hS0eSl3x4sNQ33Tzm.l5T0zVcOjGT6mnhiFbKf1nSDMx7zPHCDge
+ rENLf5Wd.jaNaHA4o9k0D8jOvWkP1Q--
+X-Originating-IP: [72.167.234.242]
+Authentication-Results: mta1481.mail.mud.yahoo.com  from=riw-sv.com; domainkeys=neutral (no sig);  from=riw-sv.com; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO p3nlsmtp17.shr.prod.phx3.secureserver.net) (72.167.234.242)
+  by mta1481.mail.mud.yahoo.com with SMTP; Tue, 23 Oct 2012 12:36:40 -0700
+Received: from p3nlhg544.shr.prod.phx3.secureserver.net ([184.168.193.122])
+	by p3nlsmtp17.shr.prod.phx3.secureserver.net with 
+	id Ejcb1k0052eumfs01jcb9X; Tue, 23 Oct 2012 12:36:40 -0700
+Received: from p3nlhg544.shr.prod.phx3.secureserver.net (localhost [127.0.0.1])
+	by p3nlhg544.shr.prod.phx3.secureserver.net (8.14.4/8.12.11) with ESMTP id q9NJaYDV004622
+	for <santanaviny@yahoo.com>; Tue, 23 Oct 2012 12:36:34 -0700
+Received: (from date4476@localhost)
+	by p3nlhg544.shr.prod.phx3.secureserver.net (8.14.4/8.14.4/Submit) id q9NJaY4u004619;
+	Tue, 23 Oct 2012 12:36:34 -0700
+X-Authentication-Warning: p3nlhg544.shr.prod.phx3.secureserver.net: date4476 set sender to info@riw-sv.com using -f
+To: santanaviny@yahoo.com
+Subject: New Meeting Request - Russian Innovation Week 2012.
+Date: Tue, 23 Oct 2012 12:36:34 -0700
+From: RIW 2012 <registration@riw-sv.com>
+Reply-to: RIW 2012 <info@riw-sv.com>
+Message-ID: <2179d21d35beec31c0573b55acc4458d@riw2012.daterraweb.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_2179d21d35beec31c0573b55acc4458d"
+
+--b1_2179d21d35beec31c0573b55acc4458d
+Content-Type: text/plain; charset = "iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+<div style="width:700px;">
+				<img src="http://www.riw-sv.com/img/email-header.gif" />
+				<div style="margin-left:50px;"><br />
+				
+				Dear Vinicius Test3, Sergio Mello sent you a meeting request. <br /><br />
+				To reply please visit your <a href="http://riw-sv.com/meetings">Meeting Dashboard</a>
+				<br />
+				<br />
+				Your private key is: 5
+	
+		<br />
+		<br />
+		Thank you
+		</div></div>
+	
+	
+	
+
+
+--b1_2179d21d35beec31c0573b55acc4458d
+Content-Type: text/html; charset = "iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+<div style="width:700px;">
+				<img src="http://www.riw-sv.com/img/email-header.gif" />
+				<div style="margin-left:50px;"><br />
+				
+				Dear Vinicius Test3, Sergio Mello sent you a meeting request. <br /><br />
+				To reply please visit your <a href="http://riw-sv.com/meetings">Meeting Dashboard</a>
+				<br />
+				<br />
+				Your private key is: 5
+	
+		<br />
+		<br />
+		Thank you
+		</div></div>
+	
+	
+	
+
+
+
+--b1_2179d21d35beec31c0573b55acc4458d--
+

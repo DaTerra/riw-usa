@@ -1,0 +1,59 @@
+Return-path: <jalopyd@compufort.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Thu, 21 Mar 2013 15:39:52 -0500
+Received: from [188.245.145.108] (port=15522)
+	by sprinter.websitewelcome.com with esmtp (Exim 4.80)
+	(envelope-from <jalopyd@compufort.com>)
+	id 1UImH2-0005BI-Jq
+	for info@riw-sv.com; Thu, 21 Mar 2013 15:39:51 -0500
+Received: from apache by compufort.com with local (Exim 4.67)
+	(envelope-from <paediatricsf@casesmaker.ru>)
+	id Q1NHBN-8R225X-9T
+	for <info@riw-sv.com>; Fri, 22 Mar 2013 00:09:42 +0330
+To: <info@riw-sv.com>
+Subject: Price List
+X-PHP-Script: compufort.com/sendmail.php for 188.245.145.108
+From: "Eva Ramsey" <jalopyd@compufort.com>
+X-Sender: "Eva Ramsey" <jalopyd@compufort.com>
+X-Mailer: PHP
+X-Priority: 1
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="------------01070200309010101050302"
+Message-Id: <5JGDYY-8F66O6-6R@compufort.com>
+Date: Fri, 22 Mar 2013 00:09:42 +0330
+
+This is a multi-part message in MIME format.
+--------------01070200309010101050302
+Content-Type: text/plain; charset="Windows-1252"; format=flowed
+
+Viagra 270 pills 100mg 	- $399.60 ($1.48 per item)Actos 60 pills 30mg - $69.00 ($1.15 per item)Zithromax 60 pills 500mg - $150.00 ($2.50 per item)Prozac 180 pills 60mg - $280.80 ($1.56 per item)Zovirax 180 pills 400mg - $187.20 ($1.04 per item)Prevacid 30 pills 30mg -$54.90 ($1.83 per item)Celebrex 60 pills 100mg - $41.40 ($0.69 per item)Prednisolone 120 pills 20mg - $78.00 ($0.65 per item)Amoxicillin 120 pills 250mg	-$62.40 ($0.52 per item)Zithromax 60 pills 1000mg - $285.00 ($4.75 per item)Prozac 60 pills 20mg - $45.00 ($0.75 per item)Lipitor 60 pills 80mg - $330.00 ($5.50 per item)more info
+
+--------------01070200309010101050302
+Content-Type: text/html; charset="windows-1250"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body bgcolor="#ffffff" text="#000000">
+    <p>
+Viagra 270 pills 100mg 	- $399.60 ($1.48 per item)<br>
+Actos 60 pills 30mg - $69.00 ($1.15 per item)<br>
+Zithromax 60 pills 500mg - $150.00 ($2.50 per item)<br>
+Prozac 180 pills 60mg - $280.80 ($1.56 per item)<br>
+Zovirax 180 pills 400mg - $187.20 ($1.04 per item)<br>
+Prevacid 30 pills 30mg -$54.90 ($1.83 per item)<br>
+Celebrex 60 pills 100mg - $41.40 ($0.69 per item)<br>
+Prednisolone 120 pills 20mg - $78.00 ($0.65 per item)<br>
+Amoxicillin 120 pills 250mg	-$62.40 ($0.52 per item)<br>
+Zithromax 60 pills 1000mg - $285.00 ($4.75 per item)<br>
+Prozac 60 pills 20mg - $45.00 ($0.75 per item)<br>
+Lipitor 60 pills 80mg - $330.00 ($5.50 per item)<br>
+<a href="http://androidtabletcare.nl">more info</a>
+</p>
+  </body>
+</html>
+
+--------------01070200309010101050302--

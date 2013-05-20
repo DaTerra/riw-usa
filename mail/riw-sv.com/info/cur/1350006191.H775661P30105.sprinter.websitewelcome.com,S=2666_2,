@@ -1,0 +1,49 @@
+Return-path: <autoreply@qualcomm.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Thu, 11 Oct 2012 20:43:11 -0500
+Received: from wolverine02.qualcomm.com ([199.106.114.251]:18342)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.80)
+	(envelope-from <autoreply@qualcomm.com>)
+	id 1TMUHP-0007p5-Ea
+	for info@riw-sv.com; Thu, 11 Oct 2012 20:43:11 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=qualcomm.com; i=@qualcomm.com; q=dns/txt; s=qcdkim;
+  t=1350006191; x=1381542191;
+  h=mime-version:to:date:subject:content-type:
+   content-transfer-encoding:message-id:from;
+  bh=bow4cnCDZ6NExxOUJElvefiD0a45ZN8bVVl9JuSIDHs=;
+  b=RlI9h6GBZdVKiTCDm0MUlt96NMBgCQNvseaPEwA/nJIUeQnWpIoIgd09
+   tn6grEb43RWLiNKsMV1nn8QvE/ZM9ObAWlqnrg4rdSrAWysiqDCDI4Vw1
+   sxMhRFLv/H6g0VuU0ew8AYEVTq6yBZ0z1IL+vU290Q8w9cWNI2wmmy/RM
+   M=;
+Message-Id: <a1372a$7banpq@wolverine02.qualcomm.com>
+From: autoreply@qualcomm.com
+X-IronPort-AV: E=McAfee;i="5400,1158,6862"; a="246767418"
+Received: from ironmsg02-l.qualcomm.com ([172.30.48.16])
+  by wolverine02.qualcomm.com with ESMTP; 11 Oct 2012 18:43:10 -0700
+X-IronPort-AV: E=Sophos;i="4.80,574,1344236400"; 
+   d="scan'208,217";a="124907320"
+Received: from unknown (HELO automator) ([10.45.157.228])
+  by ironmsg02-L.qualcomm.com with ESMTP; 11 Oct 2012 18:43:09 -0700
+MIME-Version: 1.0
+To: info@riw-sv.com
+Date: 11 Oct 2012 18:43:09 -0700
+Subject: =?us-ascii?Q?Change of Email Address Notification?=
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">=
+=0D=0A<html xmlns=3D"http://www.w3.org/1999/xhtml">=0D=0A<head>=0D=0A<style>BODY{font-family:=
+ Arial; font-size: 10pt;}TH{text-align: left;border-bottom: 1px solid black;padding:=
+ 1px; }TD{text-align: justify;padding: 1px;padding-right: 15px;text-wrap:none;vertical-align=3Dtext-top;}</style>=
+=0D=0A</head><body>=0D=0AIn connection with the implementation of Qualcomm's=
+ new corporate structure, the email addresses of QMT and Pixtronix individuals=
+ have changed. The below messages were successfully delivered to the recipients;=
+ however, please update your contact records and use the new email address=
+ going forward. Thank you.=0D=0A<br><br>=0D=0A<table>=0D=0A<colgroup>=0D=0A<col/>=
+=0D=0A<col/>=0D=0A<col/>=0D=0A</colgroup>=0D=0A<tr><th>Old Address</th><th>New=
+ Address</th><th>Email Subject</th></tr>=0D=0A<tr><td>egousev@qualcomm.com</td><td>egousev@qmt.qualcomm.com</td><td>Russian=
+ Innovation Week 2012 Registration Confirmation</td></tr>=0D=0A</table>=
+=0D=0A</body></html>=0D=0A
+

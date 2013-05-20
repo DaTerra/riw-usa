@@ -1,0 +1,62 @@
+Return-path: <kirill@mxdialog.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Wed, 24 Oct 2012 18:27:12 -0500
+Received: from mail-ie0-f177.google.com ([209.85.223.177]:42002)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <kirill@mxdialog.com>)
+	id 1TRALw-00038J-0t
+	for info@riw-sv.com; Wed, 24 Oct 2012 18:27:12 -0500
+Received: by mail-ie0-f177.google.com with SMTP id e14so1773812iej.8
+        for <info@riw-sv.com>; Wed, 24 Oct 2012 16:27:11 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=mxdialog.com; s=google;
+        h=mime-version:x-originating-ip:date:message-id:subject:from:to
+         :content-type;
+        bh=f+RrVPjcif6Jd3z76ZIyggSHBOTZWRKhqwiclwNxNGc=;
+        b=c7+s3oXMLEjWQ6DP1Nv3lf0//PvxDsYJz5UQaaoEVEgedXckY1wC2cEWlwutrY8QnF
+         GXJ4hUB1Ayed4zM4FemYMYJR59LgSOy/3arZCKpiA6QeJfP8xGv3wYtPRzBdvUTsiAW0
+         uLKemjl4AAjyAgw22pe+d2k/LA7evIWnjvpLI=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:x-originating-ip:date:message-id:subject:from:to
+         :content-type:x-gm-message-state;
+        bh=f+RrVPjcif6Jd3z76ZIyggSHBOTZWRKhqwiclwNxNGc=;
+        b=ZgVWCVsaGirJOpxNcxPwSu5psdVgMyVwLuQdEb+dZy5zEqQonn3tHbQ/aUJtUC4nBF
+         3cRUlxu5fBe2PgjFsKaHGigS6gbLyjd3uSpV8n1R826B6UTtL6SrA7uk9I/ahsE++xVX
+         WM0etjXs80JiIhnuGyb6tN3j6GO57nkZTmFfVxSfa5kfqx2SJbYBJ5sG4OWNzJEf2BMC
+         KHmW0xXg7eBMoK05/gZ9vWmbV9XakSNyAPNJnIGuRY43ucluJxujLjKl9Yg73hpT7HZg
+         +/lS54i8gg8sWpF7oJkc95C6oYhUCA26gaEjJD5V+XjUa0cOri14gN1UGKBqCnvyR3UF
+         ZAAA==
+MIME-Version: 1.0
+Received: by 10.50.46.226 with SMTP id y2mr4131776igm.62.1351121231086; Wed,
+ 24 Oct 2012 16:27:11 -0700 (PDT)
+Received: by 10.64.10.2 with HTTP; Wed, 24 Oct 2012 16:27:11 -0700 (PDT)
+X-Originating-IP: [199.116.73.158]
+Date: Wed, 24 Oct 2012 16:27:11 -0700
+Message-ID: <CAOOS+gpQGCCj7SSrsp=+4_iYBP=iFVx+Zm2ETo=ivTcKnWz8JQ@mail.gmail.com>
+Subject: Russian Innovation Week 2012
+From: Kirill Bylkov <kirill@mxdialog.com>
+To: info@riw-sv.com
+Content-Type: multipart/alternative; boundary=14dae9340bcf07052004ccd66d08
+X-Gm-Message-State: ALoCoQlSU8TBPmTOm+QxUvxT4sn+BkO12QwKZaV3yImlPLdFApHvw69ApsMOG9jwK3PhOl5/G5Ox
+
+--14dae9340bcf07052004ccd66d08
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hello,
+
+Any chance to register for the event? Thanks!
+
+-- 
+Cheers, Kirill
+
+--14dae9340bcf07052004ccd66d08
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hello,=A0<div><br></div><div>Any chance to register for the event? Thanks!<=
+br clear=3D"all"><div><br></div>-- <br>Cheers, Kirill<div><br></div><br>
+</div>
+
+--14dae9340bcf07052004ccd66d08--

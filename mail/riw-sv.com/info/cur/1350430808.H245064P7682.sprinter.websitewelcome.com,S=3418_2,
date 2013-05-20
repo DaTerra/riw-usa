@@ -1,0 +1,89 @@
+Return-path: <boris@rolith.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Tue, 16 Oct 2012 18:40:08 -0500
+Received: from mail-pb0-f49.google.com ([209.85.160.49]:40509)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <boris@rolith.com>)
+	id 1TOGk3-0001zH-SU
+	for info@riw-sv.com; Tue, 16 Oct 2012 18:40:07 -0500
+Received: by mail-pb0-f49.google.com with SMTP id xa7so6684439pbc.8
+        for <info@riw-sv.com>; Tue, 16 Oct 2012 16:40:07 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=user-agent:date:subject:from:to:message-id:thread-topic
+         :mime-version:content-type:x-gm-message-state;
+        bh=6WmSSr7Q3e/uv6RSjfh6XukeucJ7x82Cemi3d3H3388=;
+        b=Vm0ctN3P4vIBva08dCZxy9Xj2Xc86NMRm3LYqeqrdBi5SXGfIxEwE6+OovYc0XuHxJ
+         KLkef0ovF4FAAn54aMQJE1T4PQgBAiMvg2GrfPEOJvPWuMD5bd5KmEtvdPoW+/RULYCk
+         bFWri/vtZOQqwY2ZEKv8r5TwGJT7v6k2+MpzfLEe2mlejEMM43AzqlOXGuUpyJlxUNAU
+         fpB69agkzBb3H94DCPYUTnoQenZisp3ua6qtCL3W9qnCpTWJuGXgk6JI4o5xKnPNn/eV
+         xZqv4hBZeO15wkXi8/jE+3ggu1hCQ4fVECU46vZ6sNVUd9+HRTIPhHFzF2oglzxmOB57
+         THVw==
+Received: by 10.66.77.168 with SMTP id t8mr45744627paw.28.1350430806913;
+        Tue, 16 Oct 2012 16:40:06 -0700 (PDT)
+Received: from [10.0.1.210] ([74.0.34.234])
+        by mx.google.com with ESMTPS id w4sm11552188pav.27.2012.10.16.16.40.04
+        (version=SSLv3 cipher=OTHER);
+        Tue, 16 Oct 2012 16:40:06 -0700 (PDT)
+User-Agent: Microsoft-MacOutlook/14.2.4.120824
+Date: Tue, 16 Oct 2012 16:40:02 -0700
+Subject: register
+From: Boris Kobrin <boris@rolith.com>
+To: <info@riw-sv.com>
+Message-ID: <CCA33E62.28521%boris@rolith.com>
+Thread-Topic: register
+Mime-version: 1.0
+Content-type: multipart/alternative;
+	boundary="B_3433250405_4913098"
+X-Gm-Message-State: ALoCoQkJIVGlDEFKsGv9qAjWZByv+E1kwRiG5/JBuBCojM5FXS67FDrvMizomZpckGqTWaPOkpmu
+
+> This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+--B_3433250405_4913098
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Dear Registration Desk,
+
+I would like to register for RIW2012. Unfortunately, you have already closed
+registration.
+Is there any way I can still do it?
+
+Appreciate your help.
+
+Best Regards,
+Boris Kobrin, Ph.D., CEO/Founder
+Rolith, Inc.
+5880 W. Las Positas Blvd, suite 51
+Pleasanton, CA 94588
+1.925.548.6064
+boris@rolith.com
+
+
+
+
+
+
+--B_3433250405_4913098
+Content-type: text/html;
+	charset="US-ASCII"
+Content-transfer-encoding: quoted-printable
+
+<html><head></head><body style=3D"word-wrap: break-word; -webkit-nbsp-mode: s=
+pace; -webkit-line-break: after-white-space; color: rgb(0, 0, 0); font-size:=
+ 14px; font-family: Calibri, sans-serif; "><div>Dear Registration Desk,</div=
+><div><br></div><div>I would like to register for RIW2012. Unfortunately, yo=
+u have already closed registration.</div><div>Is there any way I can still d=
+o it?</div><div><br></div><div>Appreciate your help.</div><div><br></div><di=
+v>Best Regards,</div><div><div><div><div>Boris Kobrin, Ph.D., CEO/Founder</d=
+iv><div>Rolith, Inc.</div><div>5880 W. Las Positas Blvd, suite 51</div><div>=
+Pleasanton, CA 94588</div><div>1.925.548.6064</div><div>boris@rolith.com</di=
+v><div><br></div><div><br></div><div><br></div></div></div></div></body></ht=
+ml>
+
+--B_3433250405_4913098--
+
+

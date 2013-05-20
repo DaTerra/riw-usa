@@ -1,0 +1,172 @@
+Return-path: <s-XEt76Wh-Qknbl4lH74teTKn_ndCHlJbb9QL5G-CDVOVq5JcQcz2aZh@bounce.linkedin.com>
+Envelope-to: press@riw-sv.com
+Delivery-date: Tue, 20 Nov 2012 05:12:18 -0600
+Received: from maild-ef.linkedin.com ([199.101.162.56]:43580)
+	by sprinter.websitewelcome.com with esmtp (Exim 4.80)
+	(envelope-from <s-XEt76Wh-Qknbl4lH74teTKn_ndCHlJbb9QL5G-CDVOVq5JcQcz2aZh@bounce.linkedin.com>)
+	id 1TalkY-0002oQ-Dn
+	for press@riw-sv.com; Tue, 20 Nov 2012 05:12:18 -0600
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=prod; d=linkedin.com;
+	h=DKIM-Signature:Sender:Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:X-LinkedIn-Class:X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=IzhV3G71sYLzlM0URB04+drOknSsrqw3b9HUSgyLpb5+YRCZpG9fxvKVatM5i1TT
+	2KaqTH6KsiMd75DnwZRK7MM3qJViH/4tStDBZSTUGmg6FW0X5zgMe7Ej9288Gotz
+DKIM-Signature: v=1; a=rsa-sha1; d=linkedin.com; s=proddkim1024; c=relaxed/relaxed;
+	q=dns/txt; i=@linkedin.com; t=1353409937;
+	h=From:Subject:Date:To:MIME-Version:Content-Type:X-LinkedIn-Class:X-LinkedIn-fbl:
+	X-LinkedIn-Template;
+	bh=SwyLrVCNsGVA9px3zZ/x1m5WMUA=;
+	b=wJZoR5tMB4NlchTeFAIx994EPqkAInzvSMpvyvt9jjqxVZbzehoRmPKrHQ5ZSILb
+	WMapTD65N7sG9364t/tf8wZxZyAWPRrB2iVlPXiB6f4/AHtJ7Za/QzhldIhHmlPH
+	B8xAolHvOsWNBrag1F2aVDfkskkQCyFvMevU387/Kqc=;
+Sender: messages-noreply@bounce.linkedin.com
+Date: Tue, 20 Nov 2012 11:12:17 +0000 (UTC)
+From: =?UTF-8?Q?Alyona_Surmak_=28=D0=90=D0=BB=D0=B5=D0=BD=D0=B0_=D0=A1=D1=83?= =?UTF-8?Q?=D1=80=D0=BC=D0=B0=D0=BA_=29_=28LinkedIn_Groups=29?= <messages-noreply@linkedin.com>
+To:  <press@riw-sv.com>
+Message-ID: <1761972244.1115233.1353409937947.JavaMail.app@ela4-app2317.prod>
+Subject: =?UTF-8?Q?Alyona_Surmak_(=D0=90=D0=BB=D0=B5=D0=BD=D0=B0?=
+ =?UTF-8?Q?_=D0=A1=D1=83=D1=80=D0=BC=D0=B0=D0=BA_)_invites_yo?=
+ =?UTF-8?Q?u_to_join_BUSINESS_IN_UKRAINE_on_LinkedIn?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1115231_1969693884.1353409937945"
+X-LinkedIn-Class: GROUP-INVITE-GUEST
+X-LinkedIn-Template: email_type_GRPI_GRPI
+X-LinkedIn-fbl: s-XEt76Wh-Qknbl4lH74teTKn_ndCHlJbb9QL5G-CDVOVq5JcQcz2aZh
+
+------=_Part_1115231_1969693884.1353409937945
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+LinkedIn
+------------
+From: Alyona Surmak (=D0=90=D0=BB=D0=B5=D0=BD=D0=B0 =D0=A1=D1=83=D1=80=D0=
+=BC=D0=B0=D0=BA )
+Date: 11/20/2012
+Subject: Alyona Surmak (=D0=90=D0=BB=D0=B5=D0=BD=D0=B0 =D0=A1=D1=83=D1=80=
+=D0=BC=D0=B0=D0=BA ) invites you to join BUSINESS IN UKRAINE on LinkedIn
+Alyona Surmak (=D0=90=D0=BB=D0=B5=D0=BD=D0=B0 =D0=A1=D1=83=D1=80=D0=BC=D0=
+=B0=D0=BA ) wrote:
+
+I would like to invite you to join my group on LinkedIn. <br>
+<br>
+-Alyona Surmak
+
+I don't want to receive these messages: http://www.linkedin.com/e/-rkvork-h=
+9qxbzme-1x/pF_e1QJMi_R3tKdPL10SyCxiEh_/blk/I3230459454_1/tD9MbOYWrSlI/prv/?=
+hs=3Dfalse&tok=3D3OwvIWpjCwc5w1
+
+
+(c) 2012, LinkedIn Corporation. 2029 Stierlin Ct. Mountain View, CA 94043, =
+USA
+
+
+
+
+
+
+
+ =20
+
+------=_Part_1115231_1969693884.1353409937945
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+      <html>
+        <head>
+          <style type="text/css">
+            html {-webkit-text-size-adjust:none;}
+            body {background-color: #F4F4F4; padding:0; margin:0; width:100%; margin:0 auto;}
+            *[class].tdwrap{display: inline-block !important;}
+            *[class].vspacer{ margin-left: 50px; }
+            *[class].responsive-50per{ width: 50% !important; }
+            *[class].responsive-75per{ width: 75% !important; }
+            @media all and (max-width: 590px){
+              *[class].responsive{width:320px !important;}
+              *[class].responsive-spacer table{width: 20px !important; }
+              *[class].vspacer{ margin-top: 10px !important; margin-bottom: 15px !important; margin-left: 0 !important; }
+              *[class].res-font16{font-size:16px !important;}
+              *[class].res-font12{font-size:12px !important;}
+              *[class].res-font18{font-size:18px !important;}
+              *[class].res-font18 span{font-size: 18px !important;}
+              *[class].responsive-50per{ width: 100% !important;}
+              *[class].responsive-spacer70{ width: 70px !important; }
+              *[class].hideIMG{ height: 0px !important; width: 0px !important; }
+              *[class].res-height20{ height: 20px !important; }
+              *[class].res-height20 div{ height: 20px !important; }
+              *[class].res-height10{ height: 10px !important; }
+              *[class].res-height10 div{ height: 10px !important; }
+              *[class].res-height0 { height: 0px !important; }
+              *[class].res-height0 div{ height: 0px !important; }
+              *[class].res-width280{ width: 280px !important; }
+              *[class].res-width25{ width: 25px !important; }
+              *[class].res-width10{ width: 10px !important; }
+              *[class].res-width10 table{ width: 10px !important; }
+              *[class].res-padding{ width: 0 !important; }
+              *[class].res-padding table{ width: 0 !important; }
+              *[class].cellpadding-none{ width: 0px !important; }
+              *[class].cellpadding-none table{ border: collapse !important; }
+              *[class].cellpadding-none table td{ padding: 0 !important; }
+              *[class].display-none{ display: none !important; }
+              *[class].remove-margin{ margin: 0 !important; }
+              *[class].remove-border{ border: none !important; }
+              *[class].res-img100{ width: 100px !important; height: 100px !important; }
+              *[class].res-img320{width: 320px !important; height: auto !important; position: relative;}
+              *[class].res-border{border-top: 1px solid #E1E1E1 !important;}
+              *[class].mobile-hidden{ display: none !important; height: 0px !important; width:0px !important; }
+              *[class].full-width{ width:100% !important; }
+            }
+            @media only screen and (max-device-width: 480px) {
+              p[class=anet-digest-activity],
+              span[class=anet-digest-count],
+              td[class=anet-digest-right-rail] {
+                display:none;
+              }
+            }
+            
+          </style>
+        </head>
+        <body >
+  
+
+
+<table border="0" width="550" cellpadding="0" cellspacing="0" style="max-width:550px; border-top:4px solid #39C; font: 12px arial, sans-serif; margin: 0 auto;" class=""><tr><td>  
+  <h1 style="color: #000; font: bold 23px arial; margin:5px 0;" class="">LinkedIn</h1><p style="margin: 0 0 4px 0"><strong>From:</strong> Alyona Surmak (&#x410;&#x43b;&#x435;&#x43d;&#x430; &#x421;&#x443;&#x440;&#x43c;&#x430;&#x43a; )</p>
+<p style="margin: 0 0 4px 0"><strong>Date:</strong> 11/20/2012</p>
+<p style="margin: 0 0 4px 0"><strong>Subject:</strong> Alyona Surmak (&#x410;&#x43b;&#x435;&#x43d;&#x430; &#x421;&#x443;&#x440;&#x43c;&#x430;&#x43a; ) invites you to join BUSINESS IN UKRAINE on LinkedIn</p>
+
+<p style="margin: 0 0 4px 0">Alyona Surmak (&#x410;&#x43b;&#x435;&#x43d;&#x430; &#x421;&#x443;&#x440;&#x43c;&#x430;&#x43a; ) wrote:</p>
+
+<p style="margin: 0 0 4px 0">I would like to invite you to join my group on LinkedIn. <br>
+<br>
+-Alyona Surmak</p>
+
+<p style="margin: 15px 0 3px 0; background: #DCF0F6; padding: 5px 15px; width: 550px; text-align: center;">
+</p>
+
+<p style="border-top: 2px solid #ccc; padding-top: 15px; margin-top: 15px; font-size: 10px; color: #999;">You are currently receiving Invitations to join LinkedIn groups.
+    <a href="http://www.linkedin.com/e/-rkvork-h9qxbzme-1x/pF_e1QJMi_R3tKdPL10SyCxiEh_/goo/press%40riw-sv%2Ecom/20062/I3230459454_1/?hs=false&amp;tok=0eDogErZiwc5w1">Unsubscribe.</a>
+</p>
+
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%" class="responsive">
+  <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+  <tr>
+    <td align="left" style="font-size:11px; font-family:Arial,sans-serif; color:#999999;">
+
+    </td>
+  </tr>
+  <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table></td></tr>
+</table>
+
+
+
+
+
+  
+</body>
+      </html>
+------=_Part_1115231_1969693884.1353409937945--

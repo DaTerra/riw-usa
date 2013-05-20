@@ -1,0 +1,265 @@
+/* CSS DO SISTEMA E SUAS FUNCIONALIDADES  */
+.adm_bts{ background:#0E85BB; display:block; color:#fff; border:none; text-align:center; height:28px; line-height:28px; padding:0 15px; border-radius:5px; cursor:pointer; text-decoration:none; margin-bottom:10px;}
+
+#bts_baixos{ margin-top:10px;}
+#bts_baixos button{ margin-right:10px; float:left;}
+
+
+
+#geral{	height: 100%;}
+
+/* topo*/
+#topo{ height:68px; background:url(../img/topo.jpg) repeat-x; padding:0 30px; min-width: 900px;}
+
+#topo #topo1{ float:left;}
+#topo #topo1 h1 a{ display:block; background:url(../img/logo.png) no-repeat; width:211px; height:35px; text-indent:-9000px; margin-top:15px;}
+
+#topo #topo2{ margin-left:20%; float:left; margin-top:15px; text-align:center; line-height:150%;}
+
+#topo #topo3{ float: right; margin-top:20px;}
+
+#topo #topo3 ul li{ float:left;}
+#topo #topo3 #topo_ver{ margin-right:5px;}
+#topo_sair{ margin-left:10px}
+
+
+/* Menu */
+#menu{ background:url(../img/linha_menu.jpg) repeat-x top; height:38px; padding:0 30px; padding-top:3px; margin-bottom:20px;}
+
+.menu_principal{ float:left;  line-height:35px;}
+.menu_principal .menu_link{ color:#333333; font-size:13px; height:35px; padding:0 15px; float:left;}
+
+#menu_ativo{ background:url(../img/linha_menu_ativo.jpg) repeat-x;  display:block; color:#fff;}
+
+.sepadador{ display:block; background:url(../img/separador_menu.jpg) no-repeat red; width:2px; height:20px; float:left; margin-top:8px; margin-left:2px; margin-right:2px;}
+
+.sub1{ background:#E6E6E6; width:120px; min-height:100px; margin-top:30px; padding-left:15px; position:absolute; box-shadow:2px 2px 2px 0px;}
+.sub1 ul li{ clear:both;}
+
+
+/* Conteudo */
+
+#contudo{ padding:0 30px; min-height:400px; margin-bottom:20px;}
+
+
+/* formulario */
+
+#cliente_geral{}
+#cliente_geral #cliente_esq{ float:left}
+#cliente_geral #cliente_dir{ float:right}
+#cliente_geral #cliente_esq select{1px solid #999; padding:2px}
+
+.geral_inputs{ margin-bottom:15px;}
+
+.geral_inputs label{ width:150px; float:left;}
+.geral_inputs input{ height:20px; padding:2px; border:1px solid #999;}
+
+#cliente_dir{}
+#cliente_dir div{ clear:both; margin-bottom:15px;}
+#cliente_dir label{ float:left; width:100px;}
+#cliente_dir input{height:20px; padding:2px; border:1px solid #999;}
+#cliente_dir select{ width:200px; height:22px; border:1px solid #999; padding:2px;}
+
+
+
+#formulario{}
+
+
+.separador_item{ height:1px; width:100%; display:block; margin-top:20px; margin-bottom:20px; border-bottom:1px dotted #ccc; clear:both;}
+.form_item{ margin-bottom:15px; clear: both; float:left;}
+.form_item input{ height:20px; padding:2px; border:1px solid #999;}
+.form_item select{ padding:2px; height:22px;}
+.titulo_campo{ width:200px; float:left; margin-right:15px;}
+.titulo_campo b, .titulo_campo label{ font-weight:normal; font-size:12px; color:#000; cursor: text;}
+.titulo_campo span{ color:#999; font-size:11px;}
+
+
+.ipt_radios{ float:left;}
+.ipt_radios label{ float:left;}
+.ipt_radios input{ float:left; margin-right:5px; margin-left:10px;}
+
+
+
+
+#lista_check{ float:left; float:left; margin-left:20px; border: 1px solid #CCCCCC;	width: 500px;	height: 100px;	background: #FFFFFF; overflow-y: scroll; padding:5px;}
+#lista_check ul li{ clear:both; margin-bottom:10px; float:left}
+#lista_check ul li input{ float:left;}
+#lista_check ul li label{ width:350px; margin-left:10px;}
+
+
+/* Rodape */
+#rodape{ height:80px; background:url(../img/linha_rodape.jpg) repeat-x;}
+
+#rodape_conteudo{ text-align:center; padding-top:15px; font-size:11px;}
+
+
+
+/* tab */
+
+#form_tab{ border-bottom:1px solid #ccc; height:34px; margin-bottom:10px; padding-left:10px;}
+#form_tab ul li{ float:left; margin-right:3px; min-width:100px; background:url(../img/linha_tab.jpg) repeat-x;  border:1px solid #ccc;}
+#form_tab ul li a{ display:block;  color:#333; font-weight:bold; height:33px; line-height:33px; text-align:center;}
+
+#form_tab .tab_ativo{ margin-top:1px; z-index:20; border:1px solid #ccc; background:#fff; border-bottom:0px; height:34px;}
+
+
+.mostra_tabs{ padding-top:20px; display:none;}
+
+
+/* Paginação do painel */
+#painel_paginacao{ height:28px; line-height:28px; padding-top:40px; padding-bottom:40px;}
+#painel_paginacao ul li{ float:left;}
+#painel_paginacao ul li a{ display:block; float:left; text-indent:-9000px; width:50px; height:28px;}
+#bt_paginacao_voltar a{ background:url(../img/bt_paginacao_voltar.gif) red no-repeat;}
+#bt_paginacao_avancar a{ background:url(../img/bt_paginacao_avancargif.gif) no-repeat;}
+
+/* Cabeçalho do módulo */
+#modulo_cabecalho{ min-height:32px; margin-bottom:20px; padding-bottom:5px; border-bottom:1px solid #ccc; line-height:32px;}
+#modulo_cabecalho h2{ font-family:'Trebuchet MS'; font-size:22px; float:left;}
+#modulo_cabecalho img{ float:left; margin-right:10px;}
+
+#modulo_cabecalho ul{ float: right;}
+#modulo_cabecalho ul li{ margin-right:10px; float:left;}
+/*#modulo_cabecalho ul li a{ display:block; width:80px; height:28px; background:url(../img/bts.jpg) no-repeat; text-align:center; line-height:28px; font-size:13px; color:#fff;}
+
+*/
+/* Alertas do sistema */
+#box_mensagem_falha{ background:#FFD9D9; border:1px solid #FF7575; border-radius:3px; padding:10px; margin-bottom:15px;}
+
+
+#box_mensagem_sucesso{ background:#D9E1D9; border:1px solid #7F997F; border-radius:3px; padding:10px; margin-bottom:15px;}
+
+/* Paginação */
+#sistema_paginacao{ margin-top:20px;}
+#sistema_paginacao ul{ float:left;}
+#sistema_paginacao ul li{ float:left;}
+#sistema_paginacao ul li a{display:block; width:50px; height:28px; text-indent:-9000px;}
+#bt_paginacao_volta a{ background:url(../img/bt_paginacao_voltar.gif) no-repeat;}
+#bt_paginacao_avanca a{ background:url(../img/bt_paginacao_avancar.gif) no-repeat;}
+#sistema_paginacao span{ float:left; display:block; height:28px; line-height:28px; margin-left:10px; font-size:11px;}
+
+/* Modulo inicial */
+
+#modulo_padrao{line-height:180%; font-size:14px;}
+#modulo_padrao img{ float:left; margin-right:15px; margin-left:10px;}
+
+
+
+/* Modulo de imagens */
+
+#modulo_fotos_detalhes{ border:1px solid #ccc; margin-bottom:40px; border-radius:3px; padding:10px; width:400px; float:left;}
+#modulo_fotos_detalhes img{ float:left; border:1px solid #f1f1f1; padding:2px;}
+#modulo_fotos_detalhes #fotos_detalhes{ padding-left:10px; float:left;}
+
+#modulo_fotos_detalhes #fotos_detalhes{ line-height:180%;}
+#modulo_fotos_detalhes #fotos_detalhes h4{ font-size:14px; color:#0F85BB}
+
+
+
+#formulario_fotos{}
+#formulario_fotos .fotos_item{ float:left; border:1px solid #ccc; border-radius:3px; margin-bottom:20px; padding:10px;  width:350px;}
+#formulario_fotos .fotos_item .fotos_legenda{ padding:2px; width:250px; height:20px; border:1px solid #ccc; margin-top:5px;}
+
+
+
+#fotos_adicionadas{ border:1px solid #ccc; margin-bottom:40px; border-radius:3px; padding:10px; float:left; margin-top:30px;}
+#fotos_adicionadas h3{font-size:14px; color:#0F85BB; margin-bottom:10px;}
+#fotos_adicionadas ul li{ float:left; margin-right:30px; margin-bottom:20px;}
+#fotos_adicionadas ul li .legenda{ width:94px; padding:2px; height:20px; border:1px solid #ccc; margin-top:10px;}
+
+#fotos_adicionadas ul li .check{ float:left;}
+#fotos_adicionadas ul li a{ display:block; float: right; background:url(../img/bt_apagar_img.png) no-repeat; width:16px; height:16px; text-indent:-9000px;}
+
+
+
+
+#fotos_acoes{ margin-top:20px; border-top:1px solid #ccc; padding-top:10px;}
+#fotos_acoes label{ font-weight:bold; margin-right:10px;}
+#fotos_acoes select{ width:100px; padding:3px; border:1px solid #ccc;}
+#fotos_acoes button{ margin-left:20px;}
+
+
+
+
+/* Lista */
+
+a.button, .list a.button {
+	text-decoration: none;
+	color: #FFF;
+	display: inline-block;
+	padding: 5px 15px 5px 15px;
+	background: #003A88;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-khtml-border-radius: 10px 10px 10px 10px;
+	border-radius: 10px 10px 10px 10px;
+}
+.list {
+	border-collapse: collapse;
+	width: 100%;
+	border-top: 1px solid #DDDDDD;
+	border-left: 1px solid #DDDDDD;
+	margin-bottom: 20px;
+}
+.list td {
+	border-right: 1px solid #DDDDDD;
+	border-bottom: 1px solid #DDDDDD;
+}
+.list thead td {
+	background-color: #EFEFEF;
+	padding: 0px 5px;
+}
+.list thead td a, .list thead td {
+	text-decoration: none;
+	color: #222222;
+	font-weight: bold;
+}
+.list tbody td a {
+	text-decoration: underline;
+}
+.list tbody td {
+	vertical-align: middle;
+	padding: 0px 5px;
+	background: #FFFFFF;
+}
+.list .left {
+	text-align: left;
+	padding: 7px;
+}
+.list .right {
+	text-align: right;
+	padding: 7px;
+}
+.list .center {
+	text-align: center;
+	padding: 7px;
+}
+.list .asc {
+	padding-right: 15px;
+	background: url('../img/asc.png') right center no-repeat;
+}
+.list .desc {
+	padding-right: 15px;
+	background: url('../img/desc.png') right center no-repeat;
+}
+.list tr.filter td {
+	padding: 5px;
+	background: #E7EFEF;
+}
+.pagination {
+	border-top: 1px solid #DDDDDD;
+	display: inline-block;
+	width: 100%;
+	padding-top: 6px;
+}
+.pagination .links {
+	float: left;
+	padding-top: 6px;
+}
+.pagination .links a {
+	border: 1px solid #DDDDDD;
+	padding: 4px 10px;
+	font-size: 12px;
+	text-decoration: none;
+	color: #A3A3A3;
+}

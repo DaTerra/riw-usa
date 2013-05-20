@@ -1,0 +1,95 @@
+Return-path: <laurenmarino84@gmail.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Mon, 15 Apr 2013 13:27:00 -0500
+Received: from 61-179.sl.smtp.com ([192.40.179.61]:60590)
+	by sprinter.websitewelcome.com with esmtp (Exim 4.80)
+	(envelope-from <laurenmarino84@gmail.com>)
+	id 1URo7I-0001eC-0z
+	for info@riw-sv.com; Mon, 15 Apr 2013 13:27:00 -0500
+X-MSFBL: aW5mb0ByaXctc3YuY29tQDE5Ml80MF8xNzlfNjFAc210cGNvbV83QA==
+DKIM-Signature: v=1; a=rsa-sha256; d=smtp.com; s=smtpcomcustomers; c=relaxed/simple;
+	q=dns/txt; i=@smtp.com; t=1366050418;
+	h=From:Subject:To:Date:Mime-Version:Content-type;
+	bh=MCM5tLthFV7BHfIBVSzkxTDvLRZGq6UxM7H9/YzImZ8=;
+	b=qJIAgd1bJGlncyaCfDqZR16Hvft2CwlwjZAFyyyfAk7P9hQHF+BdviFAbXJN2FGK
+	x58eack6yOhjB/PfxeHSbMLq1BEtlTQW2XKzeAWScyvTdMAhLc8ESXzcOXsRKmcL
+	x7HANSRDz6iUA3yZJlGjbszKYTbx2ua2mE5R95jhnuM=;
+Received: from [23.22.192.125] ([23.22.192.125:44935] helo=ec2-23-22-192-125.compute-1.amazonaws.com)
+	by sl-mta05 (envelope-from <laurenmarino84@gmail.com>)
+	(ecelerity 3.3.2.44647 r(44647)) with ESMTPA
+	id B6/AE-14360-2764C615; Mon, 15 Apr 2013 18:26:58 +0000
+Received: from ec2-23-22-192-125.compute-1.amazonaws.com (localhost [127.0.0.1])
+	by ec2-23-22-192-125.compute-1.amazonaws.com (Postfix) with ESMTP id 885033D85
+	for <info@riw-sv.com>; Mon, 15 Apr 2013 18:34:00 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=simple; d=emailrelay_two.cmn.com; h=
+	message-id:mime-version:from:to:subject:date:content-type; s=
+	postfix; bh=/y5993PGMPmz/TySHzQ0veYin7s=; b=iBzprlUKaqKOKEb6dWct
+	8nUQSJdIQe0ae0oFjdKNnMCle8gzxGCGoLtwHSpfiG4JddIdGFRKpsr0ZVfEEI1W
+	9FO/tKK/gtxlY15DwTcFtaiLR/lsputkX/U5rCB5O43vcXKAVWd7le6rTDbqEG3X
+	2oYn1Je3Vm9wLE+q07idKbU=
+Message-Id: <FTXW2K-CTMM-TLUT-21CH-FFE7X8HU0Z2M@gmail.com>
+Mime-Version: 1.0
+From: Lauren Marino <laurenmarino84@gmail.com>
+To: info@riw-sv.com
+Subject: Startup cultures compared: NYC vs. CA
+Date: Mon, 15 Apr 2013 11:28:38 -0700
+X-Bounce-Tracking-Info: <CQkJaW5mb0ByaXctc3YuY29tCVN0YXJ0dXAgY3VsdHVyZXMgY29tcGFyZWQ6IE5ZQyB2cy4gQ0EJMTA3NAkJMTAxMwlib3VuY2UJbm8Jbm8=>
+Content-type: multipart/alternative; Boundary="--=BOUNDARY_4151128_BPQX_BKVG_GKFX_QNSV"
+X-SMTPCOM-Tracking-Number: bd79b0b0-4b77-4d7e-8827-b30e9d9ff7bb
+X-SMTPCOM-Sender-ID: 447791
+X-SMTPCOM-Spam-Policy: SMTP.com is a paid relay service. We do not tolerate UCE of any kind. Please report it ASAP to abuse@smtp.com
+
+This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+----=BOUNDARY_4151128_BPQX_BKVG_GKFX_QNSV
+Content-type: text/plain; charset=iso-8859-1; format=flowed
+Content-transfer-encoding: quoted-printable
+
+Hi,
+
+I'm a researcher for a site dedicated to online MBA programs=2E I found you=
+r site http://riw-sv=2Ecom/speaker/dave-mcclure during my research and I th=
+ought you'd be interested in an article I recently published that compares =
+and contrasts the booming startup cultures in New York and California=
+=2E
+
+Please let me know if you'd be interested in reading this and possibly shar=
+ing with your readers=2E I'd be happy to send it over to you=2E
+
+Thanks,
+Lauren
+
+----=BOUNDARY_4151128_BPQX_BKVG_GKFX_QNSV
+Content-type: text/html; charset=iso-8859-1
+Content-transfer-encoding: quoted-printable
+
+<html>
+<head>
+<title>HTML Message</title>
+<meta name=3Dgenerator content=3DAdvanced HTML parser v2>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+</head>
+<body>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td>
+<font face=3D'Lucida Grande' size=3D'2'>Hi,<br><br>I&#146;m a researcher fo=
+r a site dedicated to online MBA programs=2E I found your site http://riw-s=
+v=2Ecom/speaker/dave-mcclure during my research and I thought you&#146;d be=
+ interested in an article I recently published that compares and contrasts =
+the booming startup cultures in New York and California=2E <br><br>Please l=
+et me know if you&#146;d be interested in reading this and possibly sharing=
+ with your readers=2E I&#146;d be happy to send it over to you=2E<br><br>Th=
+anks, <br>Lauren</font>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+
+----=BOUNDARY_4151128_BPQX_BKVG_GKFX_QNSV--
+
+

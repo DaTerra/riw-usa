@@ -1,0 +1,64 @@
+Return-path: <mshagiev@cisco.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Fri, 19 Oct 2012 07:24:34 -0500
+Received: from rcdn-iport-2.cisco.com ([173.37.86.73]:63148)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <mshagiev@cisco.com>)
+	id 1TPBcw-000199-Gx
+	for info@riw-sv.com; Fri, 19 Oct 2012 07:24:34 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple;
+  d=cisco.com; i=@cisco.com; l=888; q=dns/txt; s=iport;
+  t=1350649474; x=1351859074;
+  h=from:to:subject:date:message-id:content-id:
+   content-transfer-encoding:mime-version;
+  bh=KWQPlP7ZMjt+oEtpUFteLhArtUUU+cMVOZSC3J7DJU8=;
+  b=WjRcCxQgtQOj0fRwTXwVTgHh/BKrAN9OMYLEcYjrOpffFKWFUsNPgCVZ
+   m/2xdw0c+Mi8G5RQK7RQrN+9A5zFTJcu+lDVuQE2jJte3O5w9Fy7YQ0Zk
+   9PNKu0uHTqSM+sxyc47TfE2BuCJTYcJko7V1swZY7IL10r4ph0iCTxnnk
+   Y=;
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AkkFAA9FgVCtJV2a/2dsb2JhbABFhUtHuVZ5gQiCJxIBEBFXAQYcAiYCBDAVEQEENYdim0yBK40hkxKBIZAUMmADlW+BF402gWuCbw
+X-IronPort-AV: E=Sophos;i="4.80,612,1344211200"; 
+   d="scan'208";a="133370957"
+Received: from rcdn-core-3.cisco.com ([173.37.93.154])
+  by rcdn-iport-2.cisco.com with ESMTP; 19 Oct 2012 12:24:33 +0000
+Received: from xhc-aln-x01.cisco.com (xhc-aln-x01.cisco.com [173.36.12.75])
+	by rcdn-core-3.cisco.com (8.14.5/8.14.5) with ESMTP id q9JCOX9t028450
+	(version=TLSv1/SSLv3 cipher=AES128-SHA bits=128 verify=FAIL)
+	for <info@riw-sv.com>; Fri, 19 Oct 2012 12:24:33 GMT
+Received: from xmb-aln-x09.cisco.com ([169.254.4.239]) by
+ xhc-aln-x01.cisco.com ([173.36.12.75]) with mapi id 14.02.0318.001; Fri, 19
+ Oct 2012 07:24:33 -0500
+From: "Mikhail Shagiev (mshagiev)" <mshagiev@cisco.com>
+To: "info@riw-sv.com" <info@riw-sv.com>
+Subject: Registration for Cisco Russia/CIS?
+Thread-Topic: Registration for Cisco Russia/CIS?
+Thread-Index: Ac2t9LGZsWAADD3IQI67nmXkoFqSow==
+Date: Fri, 19 Oct 2012 12:24:32 +0000
+Message-ID: <521D8EB7-4224-4BCA-AE30-F97546D12346@cisco.com>
+Accept-Language: en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-tm-as-product-ver: SMEX-10.2.0.1135-7.000.1014-19284.002
+x-tm-as-result: No--24.046600-8.000000-31
+x-tm-as-user-approved-sender: No
+x-tm-as-user-blocked-sender: No
+Content-Type: text/plain; charset="utf-8"
+Content-ID: <CEBE3C4D3784BF46B25653C7C213AE54@cisco.com>
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+0JTQvtCx0YDRi9C5INC00LXQvdGMLg0KDQrQmiDRgdC+0LbQsNC70LXQvdC40Y4g0L3QtSDRg9GB
+0L/QtdC7INC30LDRgNC10LPQuNGB0YLRgNC40YDQvtCy0LDRgtGM0YHRjy4NCtCU0LvRjyDQv9GA
+0L7QtNC+0LvQttC10L3QuNGPICDRgdC+0LLQvNC10YHRgtC90YvRhSDQv9GA0L7Qs9GA0LDQvNC8
+INGBINCg0JLQmiDQuCDQodC60L7Qu9C60L7QstC+ICh3aW5kb3cgdG8gdGhlIHZhbGxleSwgaHR0
+cDovL3dpbmRvdzJ2YWxsZXkucnUg0L7QsdGA0LDQt9C+0LLQsNGC0LXQu9GM0L3QsNGPINC/0YDQ
+vtCz0YDQsNC80LzQsCBDaXNjby/QntGC0LrRgNGL0YLRi9C5INCj0L3QuNCy0LXRgNGB0LjRgtC1
+0YIg0KHQutC+0LvQutC+0LLQviDQuCDRgi7QtC4pINC80L3QtSDQsdGL0LvQviDQsdGLINC/0L7Q
+u9C10LfQvdC+INC/0L7RgdC10YLQuNGC0YwuIFJJVy4NCtCV0YHRgtGMINGI0LDQvdGBINCy0YHQ
+tS3RgtCw0LrQuCDQv9C+0LvRg9GH0LjRgtGMINGA0LXQs9C40YHRgtGA0LDRhtC40Y4/DQoNCtCh
+0L/QsNGB0LjQsdC+LA0K0JzQuNGF0LDQuNC7INCo0LDQs9C40LXQsiwNCtCg0YPQutC+0LLQvtC0
+0LjRgtC10LvRjCDQvtGC0LTQtdC70LAg0LzQsNGA0LrQtdGC0LjQvdCz0LAgQ2lzY28g0LIg0KDQ
+vtGB0YHQuNC4INC4INCh0J3Qkw==

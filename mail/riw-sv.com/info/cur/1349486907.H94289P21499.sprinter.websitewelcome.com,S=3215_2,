@@ -1,0 +1,55 @@
+Return-path: <autoreply@qualcomm.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Fri, 05 Oct 2012 20:28:27 -0500
+Received: from wolverine02.qualcomm.com ([199.106.114.251]:42172)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.80)
+	(envelope-from <autoreply@qualcomm.com>)
+	id 1TKJBq-0005aA-Nz
+	for info@riw-sv.com; Fri, 05 Oct 2012 20:28:26 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=qualcomm.com; i=@qualcomm.com; q=dns/txt; s=qcdkim;
+  t=1349486906; x=1381022906;
+  h=mime-version:to:date:subject:content-type:
+   content-transfer-encoding:message-id:from;
+  bh=YsFq7f5z9ZZ/wWtqIyydBlG/HxU99DBh+j+G8ww9FT8=;
+  b=XTGa4Ovsv+1k3qTWa6/hLC8m0XX3BqhGPdr+s/Nu3TP0wRmF8ZEhZA9Q
+   9tUBRTbQ6MMtBYXJm+8NC2p/Ed8TWkLWeA7cp773aDz4TrKPlExQZzQHB
+   T0u0CruBeNmreFTGFM0fOfGL7E+YHoAW5D1blggoG0gZoYcR3oKx2yKyD
+   c=;
+Message-Id: <a1372a$78v616@wolverine02.qualcomm.com>
+From: autoreply@qualcomm.com
+X-IronPort-AV: E=McAfee;i="5400,1158,6856"; a="244291622"
+Received: from ironmsg02-r.qualcomm.com ([172.30.46.16])
+  by wolverine02.qualcomm.com with ESMTP; 05 Oct 2012 18:27:45 -0700
+X-IronPort-AV: E=Sophos;i="4.80,543,1344236400"; 
+   d="scan'208,217";a="162969027"
+Received: from unknown (HELO automator) ([10.45.157.228])
+  by ironmsg02-R.qualcomm.com with ESMTP; 05 Oct 2012 18:27:45 -0700
+MIME-Version: 1.0
+To: info@riw-sv.com
+Date: 5 Oct 2012 18:27:46 -0700
+Subject: =?us-ascii?Q?Change of Email Address Notification?=
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">=
+=0D=0A<html xmlns=3D"http://www.w3.org/1999/xhtml">=0D=0A<head>=0D=0A<style>BODY{font-family:=
+ Arial; font-size: 10pt;}TH{text-align: left;border-bottom: 1px solid black;padding:=
+ 1px; }TD{text-align: justify;padding: 1px;padding-right: 15px;text-wrap:none;vertical-align=3Dtext-top;}</style>=
+=0D=0A</head><body>=0D=0AAs previously announced, Qualcomm recently implemented=
+ a new corporate structure which included the establishment of a wholly-owned=
+ subsidiary, Qualcomm Technologies, Inc. (QTI), which, along with its subsidiaries,=
+ now operates substantially all of Qualcomm's research and development activities,=
+ and product and services businesses, including its semiconductor business,=
+ QCT.=0D=0A<br><br>=0D=0AAs a result of this new structure, the following=
+ individuals are now a part of the QTI subsidiary and accordingly their=
+ email addresses have changed. The below messages were successfully delivered=
+ to the recipients; however, please update your contact records and use=
+ the new email address going forward. Thank you.=0D=0A<br><br>=0D=0A<table>=
+=0D=0A<colgroup>=0D=0A<col/>=0D=0A<col/>=0D=0A<col/>=0D=0A</colgroup>=0D=0A<tr><th>Old=
+ Address</th><th>New Address</th><th>Email Subject</th></tr>=0D=0A<tr><td>lens@qualcomm.com</td><td>lens@qti.qualcomm.com</td><td>Russian=
+ Innovation Week  Conference 2012 Invitation</td></tr>=0D=0A<tr><td>lens@qualcomm.com</td><td>lens@qti.qualcomm.com</td><td>Russian=
+ Innovation Week Conference 2012 Registration Confirmation</td></tr>=0D=0A</table>=
+=0D=0A</body></html>=0D=0A
+

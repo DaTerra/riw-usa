@@ -1,0 +1,115 @@
+Return-path: <ritagarang49@yahoo.co.th>
+Envelope-to: press@riw-sv.com
+Delivery-date: Thu, 11 Oct 2012 10:20:22 -0500
+Received: from nm2-vm4.bullet.mail.sg3.yahoo.com ([106.10.148.107]:28198)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.80)
+	(envelope-from <ritagarang49@yahoo.co.th>)
+	id 1TMKYg-0002xI-6x
+	for press@riw-sv.com; Thu, 11 Oct 2012 10:20:22 -0500
+Received: from [106.10.166.62] by nm2.bullet.mail.sg3.yahoo.com with NNFMP; 11 Oct 2012 15:20:19 -0000
+Received: from [106.10.151.219] by tm19.bullet.mail.sg3.yahoo.com with NNFMP; 11 Oct 2012 15:20:19 -0000
+Received: from [127.0.0.1] by omp1017.mail.sg3.yahoo.com with NNFMP; 11 Oct 2012 15:20:19 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 440833.60007.bm@omp1017.mail.sg3.yahoo.com
+Received: (qmail 63277 invoked by uid 60001); 11 Oct 2012 15:20:19 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.co.th; s=s1024; t=1349968819; bh=8ZnO7ex1OYMUOYQaOfNRswik358rXWLrPX6ecaCzJjk=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=l0TZthlPTid6KAA5OBaeIlaz19ITYXa+c1/4MVCr145H2jIQFmLyirtl5EWEyR5AliNYJMHYa0bcHJefu02lESbafeYEPF61KbNm0hClMwhpLuXWqiZ48ta8rJkca/bUAX6xk6UncrOT1NIREZ9GRg9aJ/0XanSwt3/AIZ6StFQ=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.co.th;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type;
+  b=gql2YZnU11EN1OPZPsmMjHsZFD06Y/9CBFv6Jg2eITPA6qLLJnlxIqd8cg5h36UjuN5CrA4soMS+gqm/nlJLwQ4EQYvJZuz4MyHG9vFk+AW4OLgqO4uAe7av59EdMkHmFW5ZAk/S3JQh7Ha1Ipe3YCBQ0XQi109TfQUa1+j5/FE=;
+X-YMail-OSG: iwsUwbEVM1nc.3ubbADDLotY0oIVZuros6kdkdwOpJHsjEs
+ 0vHJIlQvGkPJsZHFwwEG6W.3vMWD4_IG1F49IUgjXCao7bjwkz2_.8yNYfuO
+ Agv9KGB_EA8w281qTsKzxjtDETrOWrbBHOOHENx_bBNtyfy0Gux6IdOy08DY
+ YZGr4Sp9eItdwnNsbRspOQbw5guz89uknaQxmHbAof.NipOcCjVMi8MLs10S
+ u5Qg10gB_Y0jqVSAukJALgSLTdxJXY1NQo.pZk6QSN08hkSAFdZo3gDJ7lcO
+ Kf7sPCdoNxJ0Tbd5Q0hY96rEIbITkKtZkTKa5Te_mSY4EdjYO95qjuXCwdqV
+ kpOSiwbyGaJWjfC4tKFMNFi2mR11dI.sqNonAnkGITM1Y4muLg6xzNbtuSe.
+ bqvHwNF8mzsVXIHPNKRMve_RL0m93GqoieGQbWNthrgLB1XzXY5uOLam5ZeV
+ CBqaxMkdkYoqaIpYWDMeIagK8yw--
+Received: from [41.82.136.96] by web192704.mail.sg3.yahoo.com via HTTP; Thu, 11 Oct 2012 23:20:19 SGT
+X-Rocket-MIMEInfo: 001.001,DQoNCkhlbGxvIG15IGRlYXIsDQoKV2l0aCBncmVhdCByZXNwZWN0IGFuZCBob25vciBpIGFtIHdyaXRpbmcgdG8geW91IHRoaXMgbWFpbC5QbGVhc2UgcGFyZG9uIG1lIGlmIGkgaW50ZXJmZXJlIGludG8geW91ciBwcml2YWN5LE15IG5hbWUgaXMgTWlzcyBLYXRlIExpeiBGcmFua2VsLCAyMyB5ZWFycyBvZiBhZ2UsIGkgYW0gdGhlIG9ubHkgZGF1Z2h0ZXIgb2YgTGF0ZSBEci4gTGl6IEZyYW5rZWwgZnJvbSBJdm9yeSBDb2FzdCwgbXkgZmF0aGVyIHdhcyB0aGUgb3duZXIgb2YgRnJhbmtlbCBDb2NvYSBJbmQBMAEBAQE-
+X-Mailer: YahooMailClassic/15.0.8 YahooMailWebService/0.8.123.450
+Message-ID: <1349968819.49879.YahooMailClassic@web192704.mail.sg3.yahoo.com>
+Date: Thu, 11 Oct 2012 23:20:19 +0800 (SGT)
+From: Kate Liz Frankel <ritagarang49@yahoo.co.th>
+Reply-To: katelizfrankel@yahoo.co.uk
+Subject: Hello my dear,
+To: undisclosed recipients: ;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="897805547-856736972-1349968819=:49879"
+
+--897805547-856736972-1349968819=:49879
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Hello my dear,
+=0AWith great respect and honor i am writing to you this mail.Please pardon=
+ me if i interfere into your privacy,My name is Miss Kate Liz Frankel, 23 y=
+ears of age, i am the only daughter of Late Dr. Liz Frankel from Ivory Coas=
+t, my father was the owner of Frankel Cocoa Industries Limited and he was a=
+ personal adviser to our former Head of State (late General Steven Showalte=
+r). My purpose of contacting you is first, i want to know more about you so=
+ that i will know the areas you will be of assistance to my needs. I have s=
+ome reasonable amount of moneys which my parents left for me before their u=
+ntimely death, i want to plan for my future by investing this money in a go=
+od and profitable business but I don=E2=80=99t know where to start and that=
+ is why I got interested in contacting you hoping that you will be kind a s=
+incere to me by leading me through the right process to see that this money=
+ is not wasted because it is my only hope of planning for my future. Please=
+,
+ don=E2=80=99t be surprise or scared because all my words are very sincere =
+and I will prove it as we communicate along.
+=0A
+=0AFrom your contact i observed you are an important personality before i m=
+ade up my mind to contact you.Though i don't know you in person but your as=
+surance can motivate me to tell you everything about the money i want to in=
+vest and to go into this investment with by my side. i have no experience i=
+ terms of any foreign investment but I wish you could be honest to me becau=
+se i am afraid of choosing the wrong business or loose this money . As soon=
+ as i receive your respond we will decide on the next line of action, remem=
+ber you caught my attention when I saw your contact and that was why i have=
+ the courage to write you in the first place. You will know me more as we c=
+ommunicate along and I will also send my pictures as soon as i hear from yo=
+u so that you will see who you are communicating with.
+=0A
+=0AThanks for your understanding, hoping to hear from you soon.
+=0AYours sincerely
+=0AMiss. Kate
+--897805547-856736972-1349968819=:49879
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" ><tr><td valign=3D"=
+top" style=3D"font: inherit;"><br><br>Hello my dear,<br>=0AWith great respe=
+ct and honor i am writing to you this mail.Please pardon me if i interfere =
+into your privacy,My name is Miss Kate Liz Frankel, 23 years of age, i am t=
+he only daughter of Late Dr. Liz Frankel from Ivory Coast, my father was th=
+e owner of Frankel Cocoa Industries Limited and he was a personal adviser t=
+o our former Head of State (late General Steven Showalter). My purpose of c=
+ontacting you is first, i want to know more about you so that i will know t=
+he areas you will be of assistance to my needs. I have some reasonable amou=
+nt of moneys which my parents left for me before their untimely death, i wa=
+nt to plan for my future by investing this money in a good and profitable b=
+usiness but I don=E2=80=99t know where to start and that is why I got inter=
+ested in contacting you hoping that you will be kind a sincere to me by lea=
+ding me through the right process to see that this money is not wasted beca=
+use it is my only hope of planning for my future. Please,
+ don=E2=80=99t be surprise or scared because all my words are very sincere =
+and I will prove it as we communicate along.<br>=0A<br>=0AFrom your contact=
+ i observed you are an important personality before i made up my mind to co=
+ntact you.Though i don't know you in person but your assurance can motivate=
+ me to tell you everything about the money i want to invest and to go into =
+this investment with by my side. i have no experience i terms of any foreig=
+n investment but I wish you could be honest to me because i am afraid of ch=
+oosing the wrong business or loose this money . As soon as i receive your r=
+espond we will decide on the next line of action, remember you caught my at=
+tention when I saw your contact and that was why i have the courage to writ=
+e you in the first place. You will know me more as we communicate along and=
+ I will also send my pictures as soon as i hear from you so that you will s=
+ee who you are communicating with.<br>=0A<br>=0AThanks for your understandi=
+ng, hoping to hear from you soon.<br>=0AYours sincerely<br>=0AMiss. Kate</t=
+d></tr></table>
+--897805547-856736972-1349968819=:49879--

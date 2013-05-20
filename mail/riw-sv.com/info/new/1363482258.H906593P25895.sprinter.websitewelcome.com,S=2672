@@ -1,0 +1,47 @@
+Return-path: <autoreply@qualcomm.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Sat, 16 Mar 2013 20:04:18 -0500
+Received: from sabertooth02.qualcomm.com ([65.197.215.38]:35423)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.80)
+	(envelope-from <autoreply@qualcomm.com>)
+	id 1UH21K-0006jJ-Nu
+	for info@riw-sv.com; Sat, 16 Mar 2013 20:04:18 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=qualcomm.com; i=@qualcomm.com; q=dns/txt; s=qcdkim;
+  t=1363482258; x=1395018258;
+  h=mime-version:to:date:subject:content-type:
+   content-transfer-encoding:message-id:from:x-ironport-av;
+  bh=J2/yfh1UTp1XQGLLZhKcqyryI7/2lw4ZPKQqxKI2hjs=;
+  b=VZ4pBrPL9j6HqvCb+xkGyipuMjHJBeb7MoWa1gzwS2gnC8COdYpbArfe
+   58q0GWEILxnTa471KHmDdhX3LwcaHKOo+iy7QFuXd+7lB3yualin5kpFX
+   RKaJM1Z3QNYrbWIVw6j5EhqQGoWMvXu3Nn2Gozfv0btLVvSsUtEVoOC2u
+   I=;
+Message-Id: <3ba232$su0mt@sabertooth02.qualcomm.com>
+From: autoreply@qualcomm.com
+X-IronPort-AV: E=Sophos;i="4.84,858,1355126400"; 
+   d="scan'208,217";a="30343901"
+Received: from ironmsg02-lv.qualcomm.com ([10.47.202.183])
+  by sabertooth02.qualcomm.com with ESMTP; 16 Mar 2013 18:04:17 -0700
+Received: from automator.na.qualcomm.com (HELO automator) ([10.45.157.228])
+  by ironmsg02-lv.qualcomm.com with ESMTP; 16 Mar 2013 18:04:16 -0700
+MIME-Version: 1.0
+To: info@riw-sv.com
+Date: 16 Mar 2013 18:04:17 -0700
+Subject: =?us-ascii?Q?Change of Email Address Notification?=
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">=
+=0D=0A<html xmlns=3D"http://www.w3.org/1999/xhtml">=0D=0A<head>=0D=0A<style>BODY{font-family:=
+ Arial; font-size: 10pt;}TH{text-align: left;border-bottom: 1px solid black;padding:=
+ 1px; }TD{text-align: justify;padding: 1px;padding-right: 15px;text-wrap:none;vertical-align=3Dtext-top;}</style>=
+=0D=0A</head><body>=0D=0AThe email address for the individual(s) below has=
+ changed. Please update your contact records immediately and use the new=
+ email address noted below to ensure delivery of your email.<br><br> 	=0D=0A<table>=
+=0D=0A<colgroup>=0D=0A<col/>=0D=0A<col/>=0D=0A<col/>=0D=0A</colgroup>=0D=0A<tr><th>Old=
+ Address</th><th>New Address</th><th>Email Subject</th></tr>=0D=0A<tr><td>egousev@qualcomm.com</td><td>egousev@qti.qualcomm.com</td><td>Russian=
+ Innovation Week 2013 Save the Date and GTS Announcement!</td></tr>=0D=0A<tr><td>egousev@qmt.qualcomm.com</td><td>egousev@qti.qualcomm.com</td><td>Russian=
+ Innovation Week 2013 Save the Date and GTS Announcement!</td></tr>=0D=0A</table>=
+=0D=0A</body></html>=0D=0A
+

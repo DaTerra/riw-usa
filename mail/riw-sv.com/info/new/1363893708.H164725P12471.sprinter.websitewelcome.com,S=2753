@@ -1,0 +1,59 @@
+Return-path: <buglersa53@cintas.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Thu, 21 Mar 2013 14:21:48 -0500
+Received: from 178.128.14.123.dsl.dyn.forthnet.gr ([178.128.14.123]:10230 helo=dyn.forthnet.gr)
+	by sprinter.websitewelcome.com with esmtp (Exim 4.80)
+	(envelope-from <buglersa53@cintas.com>)
+	id 1UIl3b-0003Aq-QM
+	for info@riw-sv.com; Thu, 21 Mar 2013 14:21:48 -0500
+Received: from apache by cintas.com with local (Exim 4.67)
+	(envelope-from <aversr@stjoelive.com>)
+	id 48I4FM-U3AOAQ-Y6
+	for <info@riw-sv.com>; Thu, 21 Mar 2013 21:21:43 +0200
+To: <info@riw-sv.com>
+Subject: Price List
+X-PHP-Script: cintas.com/sendmail.php for 178.128.14.123
+From: "Emil Kidd" <buglersa53@cintas.com>
+X-Sender: "Emil Kidd" <buglersa53@cintas.com>
+X-Mailer: PHP
+X-Priority: 1
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="------------09010600101050707050107"
+Message-Id: <L38ZM8-VKZ6ER-7Y@cintas.com>
+Date: Thu, 21 Mar 2013 21:21:43 +0200
+
+This is a multi-part message in MIME format.
+--------------09010600101050707050107
+Content-Type: text/plain; charset="iso-8859-2"; format=flowed
+
+Cialis 90 pills 40mg - $427.50 ($4.75 per item)Amoxicillin 30 pills 1000mg	- $217.50 ($7.25 per item)Prednisolone 120 pills 20mg - $78.00 ($0.65 per item)Amoxicillin 120 pills 250mg	-$62.40 ($0.52 per item)Prednisolone 90 pills 5mg - $19.80 ($0.22 per item)Lasix 120 pills 40mg - $43.20 ($0.36 per item)Lasix 60 pills 40mg - $25.20 ($0.42 per item)Buspar 90 pills 5mg - $54.90 ($0.61 per item)Prozac 120 pills 10mg - $49.20 ($0.41 per item)Lasix 180 pills 40mg - $57.60 ($0.32 per item)Tramadol 30 pills 50mg - $82.80 ($2.76 per item)Zithromax 90 pills 250mg - $121.50 ($1.35 per item)more info
+
+--------------09010600101050707050107
+Content-Type: text/html; charset="us-ascii"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body bgcolor="#ffffff" text="#000000">
+    <p>
+Cialis 90 pills 40mg - $427.50 ($4.75 per item)<br>
+Amoxicillin 30 pills 1000mg	- $217.50 ($7.25 per item)<br>
+Prednisolone 120 pills 20mg - $78.00 ($0.65 per item)<br>
+Amoxicillin 120 pills 250mg	-$62.40 ($0.52 per item)<br>
+Prednisolone 90 pills 5mg - $19.80 ($0.22 per item)<br>
+Lasix 120 pills 40mg - $43.20 ($0.36 per item)<br>
+Lasix 60 pills 40mg - $25.20 ($0.42 per item)<br>
+Buspar 90 pills 5mg - $54.90 ($0.61 per item)<br>
+Prozac 120 pills 10mg - $49.20 ($0.41 per item)<br>
+Lasix 180 pills 40mg - $57.60 ($0.32 per item)<br>
+Tramadol 30 pills 50mg - $82.80 ($2.76 per item)<br>
+Zithromax 90 pills 250mg - $121.50 ($1.35 per item)<br>
+<a href="http://androidtabletcare.nl">more info</a>
+</p>
+  </body>
+</html>
+
+--------------09010600101050707050107--

@@ -1,0 +1,367 @@
+# Webalizer V2.01-10 Incremental Data - 09/27/2012 11:52:16
+2012 9 27 11 52 16
+190 187 2 112 8 2 3438578 19 3 0
+1 1 157 26 27
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+189 186 3437428 2 19 3
+1 1 1150 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+3 3 4496 2
+157 154 2626314 16
+30 30 807768 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+187
+0
+0
+0
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/admin/sistema/js/colorpicker/js/colorpicker.js
+0 1 0 16692 0 0
+/
+0 14 0 51250 3 0
+/admin/sistema/js/tiny_mce/classes/html/DomParser.js
+0 1 0 17369 0 0
+/admin/sistema/js/tiny_mce/classes/ui/ToolbarGroup.js
+0 1 0 2086 0 0
+/css/typefaces.css
+0 3 0 18024 0 0
+/admin/sistema/js/tiny_mce/classes/html/Writer.js
+0 1 0 4445 0 0
+/admin/sistema/js/tiny_mce/classes/util/Cookie.js
+0 1 0 3379 0 0
+/admin/sistema/js/tiny_mce/classes/ui/Button.js
+0 1 0 3199 0 0
+/admin/sistema/js/tiny_mce/classes/ui/DropMenu.js
+0 1 0 12617 0 0
+/admin/sistema/js/tiny_mce/classes/html/Schema.js
+0 1 0 20898 0 0
+/admin/sistema.php
+0 1 0 4263 0 0
+/admin/sistema/img/separador_menu.jpg
+0 1 0 390 0 0
+/admin/sistema/js/tiny_mce/classes/ui/Control.js
+0 1 0 5060 0 0
+/img/btn-main-menu.png
+0 3 0 160602 0 0
+/js/countdown.js
+0 3 0 627 0 0
+/admin/sistema/js/tiny_mce/classes/Editor.js
+0 1 0 95170 0 0
+/admin/sistema/img/logo.png
+0 1 0 7170 0 0
+/img/highlight_content_off_4.png
+0 3 0 13926 0 0
+/admin/sistema/js/tiny_mce/classes/WindowManager.js
+0 1 0 7952 0 0
+/admin/sistema/js/tiny_mce/classes/ui/KeyboardNavigation.js
+0 1 0 5410 0 0
+/admin/sistema/js/tiny_mce/classes/util/XHR.js
+0 1 0 2107 0 0
+/admin/sistema/js/tiny_mce/classes/tinymce.js
+0 1 0 21027 0 0
+/admin/sistema/js/tiny_mce/classes/ForceBlocks.js
+0 1 0 19168 0 0
+/img/highlight-id.png
+0 3 0 157566 0 0
+/admin/sistema/js/tiny_mce/classes/ui/NativeListBox.js
+0 1 0 5723 0 0
+/img/organizer-rvc.png
+0 3 0 19941 0 0
+/admin/sistema/js/tiny_mce/classes/html/Styles.js
+0 1 0 8109 0 0
+/img/highlight_content_off_3.png
+0 3 0 13959 0 0
+/admin/sistema/img/linha_menu_ativo.jpg
+0 1 0 346 0 0
+/admin/sistema/js/mascaras.js
+0 1 0 2911 0 0
+/admin/sistema/js/tiny_mce/classes/ui/MenuItem.js
+0 1 0 1912 0 0
+/admin/sistema/js/tiny_mce/classes/Formatter.js
+0 1 0 60112 0 0
+/admin/sistema/js/tiny_mce/classes/html/Serializer.js
+0 1 0 3635 0 0
+/admin/sistema/js/jquery.delay.js
+0 1 0 181 0 0
+/img/organizer-skolkovo.png
+0 3 0 13893 0 0
+/admin/sistema/js/tiny_mce/classes/ControlManager.js
+0 1 0 13750 0 0
+/img/highlight_content_off_2.png
+0 3 0 12159 0 0
+/js/jquery.jcountdown.min.js
+0 3 0 14598 0 0
+/admin/sistema/js/tiny_mce/classes/LegacyInput.js
+0 1 0 1472 0 0
+/admin/sistema/js/tiny_mce/tiny_mce_dev.js
+0 1 0 3230 0 0
+/admin/sistema/js/tiny_mce/classes/dom/Selection.js
+0 1 0 32934 0 0
+/typeface/dtr-med-webfont.woff
+0 3 0 80988 0 0
+/admin/sistema/js/data/js/jquery-ui-1.8.4.custom.min.js
+0 1 0 53589 0 0
+/img/highlight_content_off_1.png
+0 3 0 14001 0 0
+/img/btn-register-blue.png
+0 3 0 168765 0 0
+/admin/sistema/js/tiny_mce/classes/dom/Serializer.js
+0 1 0 12993 0 0
+/img/riw2012-logo.png
+0 3 8315947504981127730 184269 0 0
+/admin/sistema/js/tiny_mce/classes/ui/Separator.js
+0 1 0 1187 0 0
+/admin/sistema/js/tiny_mce/classes/util/VK.js
+0 1 0 329 0 0
+/admin/sistema/js/tiny_mce/classes/util/URI.js
+0 1 0 7541 0 0
+/css/style.css
+0 3 0 39240 0 0
+/admin/sistema/css/login.css
+0 1 0 2835 0 0
+/img/main_bg.gif
+0 3 0 242463 0 0
+/admin/sistema/css/sistema.css
+0 1 0 9546 0 0
+/admin/sistema/js/tiny_mce/classes/dom/TreeWalker.js
+0 1 0 1538 0 0
+/admin/sistema/js/tiny_mce/classes/AddOnManager.js
+0 1 0 11318 0 0
+/admin/sistema/js/tiny_mce/classes/html/Entities.js
+0 1 0 9430 0 0
+/admin/sistema/js/tiny_mce/classes/ui/Container.js
+0 1 0 1612 0 0
+/js/jquery-1.7.js
+0 3 0 282057 0 0
+/js/funcoes.js
+0 3 0 1437 0 0
+/admin/sistema/js/tiny_mce/classes/ui/Menu.js
+0 1 0 4333 0 0
+/admin/sistema/js/tiny_mce/classes/dom/DOMUtils.js
+0 1 0 54450 0 0
+/admin/sistema/js/tiny_mce/classes/dom/EventUtils.js
+0 1 0 8429 0 0
+/favicon.ico
+0 1 0 0 0 0
+/admin/sistema/js/tiny_mce/classes/dom/TridentSelection.js
+0 1 0 12194 0 0
+/admin/sistema/img/bt_login_entrar.gif
+0 1 0 14008 0 0
+/admin/sistema/img/logo_login.png
+0 1 0 72647 0 0
+/admin/sistema/js/tiny_mce/classes/ui/MenuButton.js
+0 1 0 4480 0 0
+/img/horizontal-line-460.png
+0 3 0 111465 0 0
+/admin/sistema/js/tiny_mce/classes/EditorCommands.js
+0 1 0 17617 0 0
+/admin/sistema/js/tiny_mce/classes/UndoManager.js
+0 1 0 4997 0 0
+/admin/favicon.ico
+0 2 0 2300 0 0
+/img/horizontal-line-960.png
+0 3 0 112062 0 0
+/typeface/dtr-reg-webfont.woff
+0 4 0 105184 0 0
+/admin/sistema/js/tiny_mce/classes/util/Quirks.js
+0 1 0 8412 0 0
+/admin/sistema/js/tiny_mce/classes/util/Dispatcher.js
+0 1 0 2829 0 0
+/admin/sistema/js/tiny_mce/classes/ui/ColorSplitButton.js
+0 1 0 7993 0 0
+/admin/sistema/js/jquery-v1.7.1.js
+0 1 0 93867 0 0
+/admin/sistema/js/colorpicker/js/eye.js
+0 1 0 570 0 0
+/admin/autentica.php
+0 1 0 1730 0 0
+/admin/sistema/js/tiny_mce/classes/dom/Sizzle.js
+0 1 0 26770 0 0
+/admin/sistema/js/tiny_mce/classes/dom/Element.js
+0 1 0 5209 0 0
+/admin/sistema/js/tiny_mce/classes/ui/Toolbar.js
+0 1 0 2822 0 0
+/admin/sistema/js/colorpicker/css/colorpicker.css
+0 1 0 3020 0 0
+/admin/sistema/img/linha_rodape.jpg
+0 1 0 307 0 0
+/img/organizer-rusnano.png
+0 3 0 17133 0 0
+/admin/sistema/js/funcoes.js
+0 1 0 2657 0 0
+/img/text_rollover_up_down.png
+0 3 0 151845 0 0
+/js/jsScroller.js
+0 3 0 5262 0 0
+/admin/sistema/js/tiny_mce/classes/ui/SplitButton.js
+0 1 0 5629 0 0
+/admin/sistema/js/tiny_mce/classes/EditorManager.js
+0 1 0 12549 0 0
+/typeface/dtr-light-webfont.woff
+0 3 0 82380 0 0
+/admin/sistema/js/tiny_mce/classes/html/SaxParser.js
+0 1 0 10838 0 0
+/admin/sistema/js/tiny_mce/classes/dom/Range.js
+0 1 0 16777 0 0
+/admin/sistema/js/tiny_mce/classes/util/JSONP.js
+0 1 0 646 0 0
+/admin/sistema/img/input_login.jpg
+0 1 0 990 0 0
+/admin/sistema/js/tiny_mce/classes/dom/ScriptLoader.js
+0 1 0 8171 0 0
+/img/highlight-on-content.png
+0 3 0 232284 0 0
+/admin/sistema/js/tiny_mce/classes/html/Node.js
+0 1 0 10777 0 0
+/admin/sistema/js/tiny_mce/classes/util/JSONRequest.js
+0 1 0 2713 0 0
+/admin/sistema/img/topo.jpg
+0 1 0 602 0 0
+/admin/sistema/js/colorpicker/js/utils.js
+0 1 0 6884 0 0
+/img/social-media-icons.png
+0 3 0 14985 0 0
+/admin/sistema/css/geral.css
+0 1 0 23858 0 0
+/img/highlight-off-content.png
+0 3 0 139260 0 0
+/js/highlightChange.js
+0 3 0 1578 0 0
+/admin/
+0 3 0 1987 0 1
+/admin/sistema/js/tiny_mce/classes/dom/RangeUtils.js
+0 1 0 7378 0 0
+/admin/sistema/img/icone_panel_home.png
+0 1 0 4791 0 0
+/admin/sistema/js/tiny_mce/classes/util/JSON.js
+0 1 0 2269 0 0
+/admin/sistema/js/tiny_mce/classes/ui/ListBox.js
+0 1 0 11545 0 0
+/admin/sistema/img/linha_menu.jpg
+0 1 0 371 0 0
+# End Of Table - urls
+# -sites- (monthly)
+c-50-131-222-2.hsd1.ca.comcast.net
+0 159 156 2630337 2 1348664430
+/
+177-177-154-46.user.veloxzone.com.br
+0 31 31 808241 1 1348662197
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+c-50-131-222-2.hsd1.ca.comcast.net
+0 1 1 1150 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 23
+http://testenvironment.riw-sv.com/css/style.css
+0 22
+http://testenvironment.riw-sv.com/
+0 59
+http://testenvironment.riw-sv.com/admin/autentica.php
+0 5
+http://testenvironment.riw-sv.com/css/typefaces.css
+0 7
+http://testenvironment.riw-sv.com/admin/sistema.php
+0 65
+http://testenvironment.riw-sv.com/admin/sistema/css/sistema.css
+0 6
+http://testenvironment.riw-sv.com/admin/sistema/css/login.css
+0 3
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:15.0) Gecko/20100101 F
+0 158
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML,
+0 32
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,61 @@
+Return-path: <robotic7032@purifiercn.ru>
+Envelope-to: info@riw-sv.com
+Delivery-date: Wed, 13 Mar 2013 01:05:41 -0500
+Received: from [130.255.237.8] (port=17291)
+	by sprinter.websitewelcome.com with esmtp (Exim 4.80)
+	(envelope-from <robotic7032@purifiercn.ru>)
+	id 1UFeom-0003sr-GA
+	for info@riw-sv.com; Wed, 13 Mar 2013 01:05:40 -0500
+Received: from apache by purifiercn.ru with local (Exim 4.67)
+	(envelope-from <robotic7032@purifiercn.ru>)
+	id 21AU5N-D1T7C8-67
+	for <info@riw-sv.com>
+Cc: <registration@riw-sv.com>; Wed, 13 Mar 2013 09:35:40 +0330
+To: <info@riw-sv.com>
+Cc: <registration@riw-sv.com>
+Subject: Price List
+X-PHP-Script: purifiercn.ru/sendmail.php for 130.255.237.8
+From: "Elma Decker" <robotic7032@purifiercn.ru>
+X-Sender: "Elma Decker" <robotic7032@purifiercn.ru>
+X-Mailer: PHP
+X-Priority: 1
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="------------07010300708080506030207"
+Message-Id: <PW93PZ-IL3268-6B@purifiercn.ru>
+Date: Wed, 13 Mar 2013 09:35:40 +0330
+
+This is a multi-part message in MIME format.
+--------------07010300708080506030207
+Content-Type: text/plain; charset="windows-1250"; format=flowed
+
+Cialis Professional 60 pills 20mg - $307.20 ($5.12 per item)Prozac 90 pills 60mg - $148.50 ($1.65 per item)Lipitor 90 pills 10mg - $36.00 ($0.40 per item)Zovirax 60 pills 800mg - $129.00 ($2.15 per item)Advair 2 inhalers 25mcg/125mcg - $71.40 ($35.70 per item)Prednisolone 30 pills 20mg - $24.00 ($0.80 per item)Advair 1 pack 50mcg/100mcg - $37.80 ($37.80 per item)Tramadol 120 pills 150mg - $402.00 ($3.35 per item)Tramadol 180 pills 100mg - $300.60 ($1.67 per item)Lasix 120 pills 40mg - $43.20 ($0.36 per item)Amoxicillin 90 pills 250mg - $58.50 ($0.65 per item)Amoxicillin 10 pills 1000mg - $79.50 ($7.95 per item)more info
+
+--------------07010300708080506030207
+Content-Type: text/html; charset="us-ascii"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body bgcolor="#ffffff" text="#000000">
+    <p>
+Cialis Professional 60 pills 20mg - $307.20 ($5.12 per item)<br>
+Prozac 90 pills 60mg - $148.50 ($1.65 per item)<br>
+Lipitor 90 pills 10mg - $36.00 ($0.40 per item)<br>
+Zovirax 60 pills 800mg - $129.00 ($2.15 per item)<br>
+Advair 2 inhalers 25mcg/125mcg - $71.40 ($35.70 per item)<br>
+Prednisolone 30 pills 20mg - $24.00 ($0.80 per item)<br>
+Advair 1 pack 50mcg/100mcg - $37.80 ($37.80 per item)<br>
+Tramadol 120 pills 150mg - $402.00 ($3.35 per item)<br>
+Tramadol 180 pills 100mg - $300.60 ($1.67 per item)<br>
+Lasix 120 pills 40mg - $43.20 ($0.36 per item)<br>
+Amoxicillin 90 pills 250mg - $58.50 ($0.65 per item)<br>
+Amoxicillin 10 pills 1000mg - $79.50 ($7.95 per item)<br>
+<a href="http://herbalbosch.pl">more info</a>
+</p>
+  </body>
+</html>
+
+--------------07010300708080506030207--

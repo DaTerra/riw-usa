@@ -1,0 +1,263 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201208 will be lost/reset.
+# Last config file used to build this data file was /home/riw2012/tmp/awstats/awstats.riw-sv.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2003                
+POS_TIME 2681                
+POS_VISITOR 3362                
+POS_DAY 3552                
+POS_DOMAIN 3719                
+POS_LOGIN 3958                
+POS_ROBOT 4113                
+POS_WORMS 4382                
+POS_EMAILSENDER 4513                
+POS_EMAILRECEIVER 4656                
+POS_SESSION 4732                
+POS_SIDER 4884                
+POS_FILETYPES 5055                
+POS_DOWNLOADS 5187                
+POS_OS 5264                
+POS_BROWSER 5333                
+POS_SCREENSIZE 5449                
+POS_UNKNOWNREFERER 5523                
+POS_UNKNOWNREFERERBROWSER 5610                
+POS_ORIGIN 5692                
+POS_SEREFERRALS 5825                
+POS_PAGEREFS 5980                
+POS_SEARCHWORDS 6128                
+POS_KEYWORDS 6311                
+POS_MISC 2345                
+POS_ERRORS 6405                
+POS_CLUSTER 3814                
+POS_SIDER_404 6499                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20120901045830 96 16282 7569006966664
+FirstTime 20120830200936
+LastTime 20120831134735
+LastUpdate 20130104201638 96 0 95 0 0
+TotalVisits 4                   
+TotalUnique 3                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 3                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 2 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 1 1 258 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 1 2 258
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 1 1 0
+10 2 2 516 0 0 0
+11 39 66 245959 1 8 291
+12 1 2 62141 1 1 0
+13 2 2 1436 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 1 2 718
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 2 3 718
+20 1 1 258 0 1 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 3 3 2154
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 3
+50.131.222.2 43 71 308874 20120831121350
+213.239.210.137 2 2 1436 20120831134735
+66.249.17.237 1 1 258 20120831042315
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20120830 1 1 258 1
+20120831 45 73 310310 3
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+us 44 72 309132
+de 2 2 1436
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+slurp 3 2154 20120831234024 0
+msnbot 1 258 20120831062906 0
+googlebot 1 718 20120831190156 0
+bot[\s_+:,\.\;\/\\-] 1 718 20120831161345 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+1h+ 1
+0s-30s 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/logo/ 30 25431 0 0
+/ 15 8036 4 4
+/beta/ 1 3177 0 0
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+png 26 132051 0 0
+html 46 36644 0 0
+jpg 1 30340 0 0
+ai 1 111533 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/logo/RIW_logo.ai 1 0 111533
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 3
+macosx 1
+winunknown 2
+win7 71
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 4
+chrome21.0.1180.83 8
+firefox15.0 63
+firefox12.0 2
+firefox3.6.13 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 42 42
+From1 0 0
+From2 2 2
+From3 0 0
+From4 2 30
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+maria+montessori 1
+blue+moon 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 4
+montessori 1
+moon 1
+blue 1
+maria 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+301 1 291
+404 12 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 9
+/css/typefaces.css 1 http://riw-sv.com/beta/
+/robots.txt 3 -
+/js/jquery.jcountdown.min.js 1 http://riw-sv.com/beta/
+/home 2 -
+/js/countdown.js 1 http://riw-sv.com/beta/
+/css/style.css 1 http://riw-sv.com/beta/
+/cgi-bin/ 1 -
+/js/jquery-1.7.js 1 http://riw-sv.com/beta/
+/img/riw2012-logo.png 1 http://riw-sv.com/logo/
+END_SIDER_404

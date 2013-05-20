@@ -1,0 +1,300 @@
+Return-path: <s-qdR4Dxx6rWSAvqAL8plmJQBPN55TLXT2pkl4vMBWdeSTMknMub7NJr@bounce.linkedin.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Tue, 27 Nov 2012 06:05:38 -0600
+Received: from maild-ee.linkedin.com ([199.101.162.55]:42153)
+	by sprinter.websitewelcome.com with esmtp (Exim 4.80)
+	(envelope-from <s-qdR4Dxx6rWSAvqAL8plmJQBPN55TLXT2pkl4vMBWdeSTMknMub7NJr@bounce.linkedin.com>)
+	id 1TdJv0-0003rD-8Y
+	for info@riw-sv.com; Tue, 27 Nov 2012 06:05:38 -0600
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=prod; d=linkedin.com;
+	h=DKIM-Signature:Sender:Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:X-LinkedIn-Template:X-LinkedIn-Class:X-LinkedIn-fbl;
+	b=V2/hfRDtUhtOvPl/d2FqOGxnpUaEXu+t4+PnQxKKkhKNcLYM+zV0ExQeonZKBTfn
+	qeVg1Bvxl/Bbk5pY6a0ti66jSOeM5uU73wspfO4JwF3J9ZLIzcWIcrv1uVXd8t5j
+DKIM-Signature: v=1; a=rsa-sha1; d=linkedin.com; s=proddkim1024; c=relaxed/relaxed;
+	q=dns/txt; i=@linkedin.com; t=1354017937;
+	h=From:Subject:Date:To:MIME-Version:Content-Type:X-LinkedIn-Class:X-LinkedIn-fbl:
+	X-LinkedIn-Template;
+	bh=4JQ+rT+RjE1qJcSuXGQZ+1V8s7E=;
+	b=xVj0pTIXF0bUjAGbfl6fbCZiwUJ7/D49C2od/N1JGan9DXQ7gwAykZKFE1O6DCp1
+	kTuabvn/QO1jKZ1AmVI7HL33eD00gAIS8AB4o/cyEljfKNY0dbdVd37/6KnOYUFs
+	8adF2cuD8/GTIQqGV3S3q10h/Wlwcr6P+7sAERsuWRk=;
+Sender: messages-noreply@bounce.linkedin.com
+Date: Tue, 27 Nov 2012 12:05:37 +0000 (UTC)
+From: =?UTF-8?Q?Mikhail_Ivanov_=28=D0=9F=D1=80?= =?UTF-8?Q?=D0=B8=D0=B3=D0=BB=D0=B0=D1=88=D0=B5=D0=BD=D0=B8=D1=8F?= =?UTF-8?Q?_LinkedIn=29?= <invitations@linkedin.com>
+To:  <info@riw-sv.com>
+Message-ID: <2052675375.12231780.1354017937845.JavaMail.app@ela4-app2681.prod>
+Subject: =?UTF-8?Q?=D0=9D=D0=B0=D0=BF=D0=BE=D0=BC=D0=B8=D0=BD?=
+ =?UTF-8?Q?=D0=B0=D0=BD=D0=B8=D0=B5_=D0=BE_?=
+ =?UTF-8?Q?=D0=BF=D1=80=D0=B8=D0=B3=D0=BB=D0=B0=D1=88?=
+ =?UTF-8?Q?=D0=B5=D0=BD=D0=B8=D0=B8_=D0=BE=D1=82?=
+ =?UTF-8?Q?_=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE?=
+ =?UTF-8?Q?=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8F_?=
+ =?UTF-8?Q?Mikhail_Ivanov?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_12231772_84954776.1354017937839"
+X-LinkedIn-Template: inv_exp_17
+X-LinkedIn-Class: INVITE-REMIND-GUEST
+X-LinkedIn-fbl: s-qdR4Dxx6rWSAvqAL8plmJQBPN55TLXT2pkl4vMBWdeSTMknMub7NJr
+
+------=_Part_12231772_84954776.1354017937839
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+TGlua2VkSW4KLS0tLS0tLS0tLS0tCgoK0J3QsNC/0L7QvNC40L3QsNC90LjQtSDQviDQvtGC0L/R
+gNCw0LLQu9C10L3QvdC+0LwgMTcg0L3QvtGP0LHRgNGPINC/0YDQuNCz0LvQsNGI0LXQvdC40Lgg
+0YPRgdGC0LDQvdC+0LLQuNGC0Ywg0LrQvtC90YLQsNC60YIg0L7RgiDQv9C+0LvRjNC30L7QstCw
+0YLQtdC70Y8gTWlraGFpbCBJdmFub3YuCgrQn9GA0LjQvdGP0YLRjCDQv9GA0LjQs9C70LDRiNC1
+0L3QuNC1INC/0L7Qu9GM0LfQvtCy0LDRgtC10LvRjyBNaWtoYWlsIEl2YW5vdgoKLS0tLS0tLS0t
+LQrQodC+0L7QsdGJ0LXQvdC40LUg0L/QvtC70YzQt9C+0LLQsNGC0LXQu9GPIE1pa2hhaWwgSXZh
+bm92INC+0YIgMTcg0L3QvtGP0LHRgNGPOiAKCj4g0JrQvtC80YM6ICBbaW5mb0ByaXctc3YuY29t
+XQo+INCe0YIg0LrQvtCz0L46IE1pa2hhaWwgSXZhbm92IFttaWtoYWlsQGJlbmlydS5ydV0KPiDQ
+otC10LzQsDog0J/RgNC40LPQu9Cw0YjQtdC90LjQtSDRg9GB0YLQsNC90L7QstC40YLRjCDQutC+
+0L3RgtCw0LrRgiDQsiBMaW5rZWRJbgo+Cj4g0J/RgNC40YHQvtC10LTQuNC90Y/QudGC0LXRgdGM
+INC6INGB0LXRgtC4INC80L7QuNGFINC/0YDQvtGE0LXRgdGB0LjQvtC90LDQu9GM0L3Ri9GFINC6
+0L7QvdGC0LDQutGC0L7QsiDQsiBMaW5rZWRJbiEKPiAKPiAtIE1pa2hhaWwKCi0tLS0tLS0tLS0K
+CtCS0Ysg0L/QvtC70YPRh9Cw0LXRgtC1INC90LDQv9C+0LzQuNC90LDQvdC40Y8g0L4g0L/RgNC4
+0LPQu9Cw0YjQtdC90LjRj9GFLCDQvtC20LjQtNCw0Y7RidC40YUg0LLQsNGI0LXQs9C+INC+0YLQ
+stC10YLQsC4g0KfRgtC+0LHRiyDQvtGC0L/QuNGB0LDRgtGM0YHRjywg0L/QtdGA0LXQudC00LjR
+gtC1INC/0L4g0LTQsNC90L3QvtC5INGB0YHRi9C70LrQtToKaHR0cDovL3d3dy5saW5rZWRpbi5j
+b20vZS94cDAzbzUtaGEwemJqOHQtMnUvdUNRR3d5WGF2dEFOaVhQRDB3UVpLZURlX04vZ29vL2lu
+Zm8lNDByaXctc3YlMkVjb20vMjAwNjAvSTMyMTYyNjIyNzNfMS8/aHM9ZmFsc2UmdG9rPTFzLW9C
+Wm51b1JtNXcxCgooYykgMjAxMiBMaW5rZWRJbiBDb3Jwb3JhdGlvbi4gMjAyOSBTdGllcmxpbiBD
+dCwgTW91bnRhaW4gVmlldywgQ0EgOTQwNDMsIFVTQS4KCgogIAo=
+------=_Part_12231772_84954776.1354017937839
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+      <html>
+        <head>
+          <style type=3D"text/css">
+            html {-webkit-text-size-adjust:none;}
+            body {background-color: #F4F4F4; padding:0; margin:0; width:100=
+%; margin:0 auto;}
+            *[class].tdwrap{display: inline-block !important;}
+            *[class].vspacer{ margin-left: 50px; }
+            *[class].responsive-50per{ width: 50% !important; }
+            *[class].responsive-75per{ width: 75% !important; }
+            @media all and (max-width: 590px){
+              *[class].responsive{width:320px !important;}
+              *[class].responsive-spacer table{width: 20px !important; }
+              *[class].vspacer{ margin-top: 10px !important; margin-bottom:=
+ 15px !important; margin-left: 0 !important; }
+              *[class].res-font16{font-size:16px !important;}
+              *[class].res-font12{font-size:12px !important;}
+              *[class].res-font18{font-size:18px !important;}
+              *[class].res-font18 span{font-size: 18px !important;}
+              *[class].responsive-50per{ width: 100% !important;}
+              *[class].responsive-spacer70{ width: 70px !important; }
+              *[class].hideIMG{ height: 0px !important; width: 0px !importa=
+nt; }
+              *[class].res-height20{ height: 20px !important; }
+              *[class].res-height20 div{ height: 20px !important; }
+              *[class].res-height10{ height: 10px !important; }
+              *[class].res-height10 div{ height: 10px !important; }
+              *[class].res-height0 { height: 0px !important; }
+              *[class].res-height0 div{ height: 0px !important; }
+              *[class].res-width280{ width: 280px !important; }
+              *[class].res-width25{ width: 25px !important; }
+              *[class].res-width10{ width: 10px !important; }
+              *[class].res-width10 table{ width: 10px !important; }
+              *[class].res-padding{ width: 0 !important; }
+              *[class].res-padding table{ width: 0 !important; }
+              *[class].cellpadding-none{ width: 0px !important; }
+              *[class].cellpadding-none table{ border: collapse !important;=
+ }
+              *[class].cellpadding-none table td{ padding: 0 !important; }
+              *[class].display-none{ display: none !important; }
+              *[class].remove-margin{ margin: 0 !important; }
+              *[class].remove-border{ border: none !important; }
+              *[class].res-img100{ width: 100px !important; height: 100px !=
+important; }
+              *[class].res-img320{width: 320px !important; height: auto !im=
+portant; position: relative;}
+              *[class].res-border{border-top: 1px solid #E1E1E1 !important;=
+}
+              *[class].mobile-hidden{ display: none !important; height: 0px=
+ !important; width:0px !important; }
+              *[class].full-width{ width:100% !important; }
+            }
+            @media only screen and (max-device-width: 480px) {
+              p[class=3Danet-digest-activity],
+              span[class=3Danet-digest-count],
+              td[class=3Danet-digest-right-rail] {
+                display:none;
+              }
+            }
+           =20
+          </style>
+        </head>
+        <body >
+ =20
+
+
+
+ =20
+ =20
+      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font=
+-family:Arial;" width=3D"100%" bgcolor=3D"#F4F4F4"><tr><td align=3D"center"=
+>
+
+
+
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-famil=
+y:Arial;" width=3D"550">
+  <tr><td>
+    <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" cla=
+ss=3D""><tr><td><div style=3D"height:10px;font-size:10px;line-height:10px;"=
+>&nbsp;</div></td></tr></table>
+  </td></tr>
+</table>
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-famil=
+y:Arial;border:solid 1px #DDDDDD;-moz-border-radius:5px;-webkit-border-radi=
+us:5px;border-radius:5px;" bgcolor=3D"#FFFFFF" width=3D"550" class=3D""><tr=
+><td colspan=3D"3"><table width=3D"1" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D""><tr><td><div style=3D"height:15px;font-size:15px;lin=
+e-height:15px;">&nbsp;</div></td></tr></table></td></tr><tr><td width=3D"1%=
+" class=3D""><table width=3D"15" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" class=3D""><tr><td><div style=3D"height:0px;font-size:0px;line-heigh=
+t:0px;">&nbsp;</div></td></tr></table></td><td width=3D"98%" valign=3D"top"=
+ align=3D"">
+  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-fam=
+ily:Arial;" width=3D"100%">
+  <tr>
+    <td align=3D"left">
+      <img src=3D"http://www.linkedin.com/scds/common/u/img/logos/logo_emai=
+ls_trans_98x24.png" alt=3D"LinkedIn " border=3D"0" height=3D"24" width=3D"9=
+8">
+    </td>
+   </tr>
+  <tr><td>
+    <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" cla=
+ss=3D""><tr><td><div style=3D"height:10px;font-size:10px;line-height:10px;"=
+>&nbsp;</div></td></tr></table>
+  </td></tr>
+  </table>
+  <div style=3D"font-family:Arial,sans-serif;font-size:12px">=D0=9D=D0=B0=
+=D0=BF=D0=BE=D0=BC=D0=B8=D0=BD=D0=B0=D0=BD=D0=B8=D0=B5 =D0=BE=D0=B1 =D0=BE=
+=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D0=BD=D0=BE=D0=BC 17 &#x43=
+d;&#x43e;&#x44f;&#x431;&#x440;&#x44f; =D0=BF=D1=80=D0=B8=D0=B3=D0=BB=D0=B0=
+=D1=88=D0=B5=D0=BD=D0=B8=D0=B8 =D1=83=D1=81=D1=82=D0=B0=D0=BD=D0=BE=D0=B2=
+=D0=B8=D1=82=D1=8C =D0=BA=D0=BE=D0=BD=D1=82=D0=B0=D0=BA=D1=82 =D0=BE=D1=82 =
+=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8F Mi=
+khail Ivanov.</div>
+  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-fam=
+ily:Arial;" width=3D"100%">
+    <tr><td><table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" class=3D""><tr><td><div style=3D"height:12px;font-size:12px;line-hei=
+ght:12px;">&nbsp;</div></td></tr></table></td></tr>
+    <tr><td>
+        <table border=3D"0" cellpadding=3D"6" cellspacing=3D"1" align=3D"">=
+<tr><td align=3D"center" valign=3D"middle" bgcolor=3D"#FFE86C" background=
+=3D"http://www.linkedin.com/scds/common/u/img/bg/yellow_button_back.png" st=
+yle=3D"background:url(http://www.linkedin.com/scds/common/u/img/bg/yellow_b=
+utton_back.png) repeat-x scroll 100% 0 #FFE86C;background-color:#FFE86C;bor=
+der:1px solid #E8B463;-moz-border-radius:4px;-webkit-border-radius:4px;bord=
+er-radius:4px;"><div style=3D"padding-right:10px;padding-left:10px;"><a hre=
+f=3D"https://www.linkedin.com/e/xp03o5-ha0zbj8t-2u/doi/9627809567/lmfByaKp/=
+gir_2813309670_1/?hs=3Dfalse&amp;tok=3D0qGTiNoBMRm5w1" style=3D"text-decora=
+tion:none;"><span style=3D"font-size:12px;font-family:Arial;font-weight:bol=
+d;color:#333333;white-space:nowrap;display:block;">=D0=9F=D1=80=D0=B8=D0=BD=
+=D1=8F=D1=82=D1=8C =D0=BF=D1=80=D0=B8=D0=B3=D0=BB=D0=B0=D1=88=D0=B5=D0=BD=
+=D0=B8=D0=B5 =D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=
+=D0=BB=D1=8F Mikhail Ivanov</span></a></div></td></tr></table>
+    </td></tr>
+    <tr><td><table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" class=3D""><tr><td><div style=3D"height:12px;font-size:12px;line-hei=
+ght:12px;">&nbsp;</div></td></tr></table></td></tr>
+  </table>
+  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-fam=
+ily:Arial;" width=3D"100%"><tr><td style=3D"border:1px dotted #DDDDDD;borde=
+r-width:1px 0">
+  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-fam=
+ily:Arial;background:#F2FAFF" width=3D"100%">
+    <tr><td colspan=3D"3"><table width=3D"1" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0" class=3D""><tr><td><div style=3D"height:5px;font-size:5p=
+x;line-height:5px;">&nbsp;</div></td></tr></table></td></tr>
+    <tr>
+      <td><table width=3D"10" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" class=3D""><tr><td><div style=3D"height:0px;font-size:0px;line-height:0=
+px;">&nbsp;</div></td></tr></table></td>
+      <td style=3D"font-family:Arial,sans-serif;font-size:12px">
+         =20
+              <div>=D0=A1=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D0=B5 =
+=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8F Mi=
+khail Ivanov =D0=BE=D1=82 17 &#x43d;&#x43e;&#x44f;&#x431;&#x440;&#x44f;:</d=
+iv><br>
+              <div>&gt; =D0=9A=D0=BE=D0=BC=D1=83:  [info@riw-sv.com]</div>
+              <div>&gt; =D0=9E=D1=82 =D0=BA=D0=BE=D0=B3=D0=BE: Mikhail Ivan=
+ov [mikhail@beniru.ru]</div>
+
+              <div>&gt; =D0=A2=D0=B5=D0=BC=D0=B0: &#x41f;&#x440;&#x438;&#x4=
+33;&#x43b;&#x430;&#x448;&#x435;&#x43d;&#x438;&#x435; &#x443;&#x441;&#x442;&=
+#x430;&#x43d;&#x43e;&#x432;&#x438;&#x442;&#x44c; &#x43a;&#x43e;&#x43d;&#x44=
+2;&#x430;&#x43a;&#x442; &#x432; LinkedIn</div><br>
+              > =D0=9F=D1=80=D0=B8=D1=81=D0=BE=D0=B5=D0=B4=D0=B8=D0=BD=D1=
+=8F=D0=B9=D1=82=D0=B5=D1=81=D1=8C =D0=BA =D1=81=D0=B5=D1=82=D0=B8 =D0=BC=D0=
+=BE=D0=B8=D1=85 =D0=BF=D1=80=D0=BE=D1=84=D0=B5=D1=81=D1=81=D0=B8=D0=BE=D0=
+=BD=D0=B0=D0=BB=D1=8C=D0=BD=D1=8B=D1=85 =D0=BA=D0=BE=D0=BD=D1=82=D0=B0=D0=
+=BA=D1=82=D0=BE=D0=B2 =D0=B2 LinkedIn!<br/>
+> <br/>
+> - Mikhail
+
+           =20
+      </td>
+      <td><table width=3D"5" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" class=3D""><tr><td><div style=3D"height:0px;font-size:0px;line-height:0p=
+x;">&nbsp;</div></td></tr></table></td>
+    </tr>
+    <tr><td colspan=3D"3"><table width=3D"1" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0" class=3D""><tr><td><div style=3D"height:5px;font-size:5p=
+x;line-height:5px;">&nbsp;</div></td></tr></table></td></tr>
+  </table>
+  </td></tr></table>
+</td><td width=3D"1%" class=3D""><table width=3D"15" border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0" class=3D""><tr><td><div style=3D"height:0px;font=
+-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td></tr><tr><td=
+ colspan=3D"3"><table width=3D"1" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" class=3D""><tr><td><div style=3D"height:15px;font-size:15px;line-he=
+ight:15px;">&nbsp;</div></td></tr></table></td></tr></table>
+<table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=
+=3D""><tr><td><div style=3D"height:5px;font-size:5px;line-height:5px;">&nbs=
+p;</div></td></tr></table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-famil=
+y:Arial;width:550px" >
+  <tr>
+    <td style=3D"color:#999;font-family:Arial,sans-serif;font-size:11px;lin=
+e-height:15px">
+      <div> =D0=92=D1=8B =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B0=D0=B5=D1=82=
+=D0=B5 <b style=3D"color:#666">=D0=BD=D0=B0=D0=BF=D0=BE=D0=BC=D0=B8=D0=BD=
+=D0=B0=D0=BD=D0=B8=D1=8F =D0=BE =D0=BF=D1=80=D0=B8=D0=B3=D0=BB=D0=B0=D1=88=
+=D0=B5=D0=BD=D0=B8=D1=8F=D1=85, =D0=BE=D0=B6=D0=B8=D0=B4=D0=B0=D1=8E=D1=89=
+=D0=B8=D1=85 =D0=B2=D0=B0=D1=88=D0=B5=D0=B3=D0=BE =D0=BE=D1=82=D0=B2=D0=B5=
+=D1=82=D0=B0</b>.
+        <a href=3D"http://www.linkedin.com/e/xp03o5-ha0zbj8t-2u/uCQGwyXavtA=
+NiXPD0wQZKeDe_N/goo/info%40riw-sv%2Ecom/20060/I3216262273_1/?hs=3Dfalse&amp=
+;tok=3D1s-oBZnuoRm5w1">=D0=9E=D1=82=D0=BF=D0=B8=D1=81=D0=B0=D1=82=D1=8C=D1=
+=81=D1=8F.</a>
+      </div>
+      <div>&copy; 2012 LinkedIn Corporation. 2029 Stierlin Ct, Mountain Vie=
+w, CA 94043, USA.<table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" class=3D""><tr><td><div style=3D"height:1px;font-size:1px;line-he=
+ight:1px;">&nbsp;</div></td></tr></table></div>
+    </td>
+  </tr>
+</table>
+
+
+    </td></tr></table>
+
+
+
+
+ =20
+</body>
+      </html>
+------=_Part_12231772_84954776.1354017937839--

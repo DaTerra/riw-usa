@@ -1,0 +1,46 @@
+/* CSS DA PÁGINA DE LOGIN */
+body{
+	background:url(../../../img/main_bg.gif);
+	background-repeat:no-repeat;
+	background-position:center;
+	}
+#geral{ width:320px; margin:0 auto; padding-top:10%}
+h1 a{ background:url(../img/logo_login.png) no-repeat; display:block; width:142px; height:112px; text-indent:-9000px; margin:0 auto;}
+
+#login{ border-radius:3px; margin-top:15px; background:#F1F1F1; border:1px solid #ccc; padding-top:30px; padding-left:20px; padding-bottom:20px;}
+#login label{ cursor:pointer; display:block; width:50px; float:left; text-align:right; margin-right:10px; line-height:25px; color:#000;}
+#login form div{ clear:both; margin-bottom:20px; float:none; height:30px;}
+#login form div p{ background:url(../img/input_login.jpg) no-repeat; width:202px; height:27px; float:left; display:block;}
+#login form div p input{ width:190px; height:25px; border:none; margin-left:1px; margin-top:1px; background:none; line-height:25px; padding-left:5px; padding-right:5px;}
+#login form a{ font-size:11px; color:#000; margin-left:60px; display:block; width:105px; float:left; height:27px; line-height:27px;}
+#login form button{float:right; margin-right:38px; background:url(../img/bt_login_entrar.gif) no-repeat; width:70px; height:27px; border:none; text-indent:-9000px;}
+#voltar_site a{ text-align:center; font-size:11px; display:block; margin-top:30px;}
+
+
+/* Alertas */
+
+#box_alertas{ width:320px;}
+
+.login_alertas{ margin-top:20px; padding:10px;}
+
+#painel_login_erro{ background:#FFD9D9; border:1px solid #FF7575; border-radius:3px;}
+
+
+#painel_login_suc{ background:#D9E1D9; border:1px solid #7F997F; border-radius:3px;}
+
+/* Mudar Senha */
+#box_mudarsenha{ background:#FFFFD9; padding:10px; border:1px solid #FFCC00; margin-top:10px; border-radius:3px;}
+
+#muda_senha{ border-radius:3px; margin-top:15px; background:#F1F1F1; border:1px solid #ccc; padding-top:20px; padding-left:20px; padding-bottom:20px;}
+#muda_senha label{ cursor:pointer; display:block; width:150px; text-align: left; margin-right:10px; line-height:25px; color:#000;}
+#muda_senha form div{ clear:both; margin-bottom:20px; float:none; height:30px;}
+#muda_senha form div p{ background:url(../img/input_muda_senha.jpg) no-repeat; width:252px; height:27px; display:block;}
+#muda_senha form div p input{ width:240px; height:25px; border:none; margin-left:1px; margin-top:1px; background:none; line-height:25px; padding-left:5px; padding-right:5px;}
+#muda_senha form a{ font-size:11px; color:#000; margin-left:60px; display:block; width:105px; float:left; height:27px; line-height:27px;}
+#muda_senha form button{float: right; margin-top:15px; margin-right:46px; background:url(../img/bt_gerar_link.gif) no-repeat; width:90px; height:27px; border:none; text-indent:-9000px;}
+#voltar_site a{ text-align:center; font-size:11px; display:block; margin-top:30px;}
+
+
+
+
+

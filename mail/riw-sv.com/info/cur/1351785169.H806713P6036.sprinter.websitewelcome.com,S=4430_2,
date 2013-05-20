@@ -1,0 +1,98 @@
+Return-path: <dave@500startups.com>
+Envelope-to: info@riw-sv.com
+Delivery-date: Thu, 01 Nov 2012 10:52:49 -0500
+Received: from mail-vb0-f49.google.com ([209.85.212.49]:45095)
+	by sprinter.websitewelcome.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <dave@500startups.com>)
+	id 1TTx4b-0001Xv-8n
+	for info@riw-sv.com; Thu, 01 Nov 2012 10:52:49 -0500
+Received: by mail-vb0-f49.google.com with SMTP id fo1so3303626vbb.8
+        for <info@riw-sv.com>; Thu, 01 Nov 2012 08:52:48 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=500startups.com; s=google;
+        h=date:from:to:message-id:subject:mime-version:content-type
+         :content-transfer-encoding:content-disposition:precedence
+         :x-autoreply:auto-submitted;
+        bh=lTxzXAqqXcLBoKVMfPE9sMaZxiEc0SQz60f/jNwDJDg=;
+        b=Iz0VoyYwAk3LsiuZ/j0jRqjBMaVdht8+nlyem98/bcgOzkVyl/ckNgoW33y0tVhACh
+         fU8ZDPbWF4Oiy7B1yYrZabYwAoNI6gMVFzD6WQznab0x1+n7aXlG4W1TsXIeeL20yU27
+         sPOIOHi5K0BiEVGaf8WZy51DX4KW7BTxVWYKc=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=date:from:to:message-id:subject:mime-version:content-type
+         :content-transfer-encoding:content-disposition:precedence
+         :x-autoreply:auto-submitted:x-gm-message-state;
+        bh=lTxzXAqqXcLBoKVMfPE9sMaZxiEc0SQz60f/jNwDJDg=;
+        b=frIYv+jPfDKgo/zCfEdvDP4mxBdm/8+0HySkjDFWmy+z+mw6z4al3tzZ8JJTsYrSXu
+         eCiopJVNibNYx+Yz6iip74AQ+WKdJ3/itFgJBG8NMXtj3JaFUfF1Uzoh8GFQU7tReLo3
+         nYaq1RZmae8kLOuEpkAiKMnTk/MEu3eDqRHDkgXi4ci1nwzrymx1LRo6y8t1mF8BoTlc
+         GcCEDWZ/i55JpjLfHw+9c2VuAQYetR0ByBfZ6zxE53KhSwj4DxVIdSefL2Jhau32Mmib
+         O9FxQgZuVUvRtSxX9bhhxZLtsZaBcTeqvtWvTTNVoKuo++JAHRdpi0ZlU2S5T6CePpjC
+         CHPw==
+Received: by 10.58.249.201 with SMTP id yw9mr68752538vec.10.1351785168409;
+        Thu, 01 Nov 2012 08:52:48 -0700 (PDT)
+Date: Thu, 1 Nov 2012 08:52:48 -0700
+From: "Dave McClure" <dave@500startups.com>
+To: info@riw-sv.com
+Message-ID: <CABr3vGFRoO=zfwhOhyo9FQ9HTzJ9qpbW7z+2B8oXJFjpQmQ1PA@mail.gmail.com>
+Subject: my inbox is full of crap, and i am too. Re: Russian Innovation Week Evaluation Survey - your feedback is appreciated
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+Precedence: bulk
+X-Autoreply: yes
+Auto-Submitted: auto-replied
+X-Gm-Message-State: ALoCoQkzsP8Gy8pbsx3UpA4hUc+b//gIJqVFhKy3yb8g/MqfJ3b95/mGME8l0alaTlEDpYT+PHjx
+
+hi there... i get a *lot* of email. guessing you do too. this is one
+of those annoying auto-replies you probably think makes me seem
+pretentious & full of crap.
+
+so i hope you won't be bummed out when i confess there's probably ~20%
+chance i'll read your email, and maybe only ~5% chance i'll respond.
+yeah, really... it's that bad.
+
+it's not like you're not sexy & awesome & amazing, but if i spent all
+my time answering email, i'd never get any other shit done. and since
+i'm planning on changing the world, i really need to make sure i GET
+SHIT DONE.
+
+so i'll do my best to read & maybe respond to email, but if it's
+really important you may need to reach me through other channels.
+
+if this email is related to *new* investment opportunities, please
+note that we have just added ~35 new companies to our Fall 2012
+Startup Accelerator program, and we may be a little busy integrating
+all of the new people & companies.
+
+if it's URGENT, and/or you are a 500 Startups investor, founder,
+mentor or partner, or if we are in the middle of a deal, then PLEASE
+give me a call or text if you have my phone #.  you can also put a
+respond by date in the subject line so i have a better chance of
+catching it. or read below for more info on how to get in touch.
+
+OR YOU CAN SEND ME AN ALL-CAPS EMAIL AND I MIGHT READ THAT.
+
+or i might not.
+
+if you'd like, you may be able to reach other members of the 500 team
+or me faster by filling out this form:
+ http://awayfind.com/500startups
+
+in the meantime, if you want to follow extremely interesting updates
+about me brushing my teeth & other crap, go here:
+ http://facebook.com/davemcclure
+ http://twitter.com/davemcclure
+
+for completely unproductive & NSFW images & videos, go here:
+ http://9GAG.com/
+
+if you've read this far, you are very dedicated. i encourage you to
+spend less time reading my auto responder, and more time reading a
+good book or playing Angry Birds.
+
+peace out.
+
+- dave mcclure
